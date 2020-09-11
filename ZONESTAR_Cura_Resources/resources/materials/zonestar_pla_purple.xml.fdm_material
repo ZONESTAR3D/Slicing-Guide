@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" version="1.3">
+    <metadata>
+        <name>
+            <brand>ZONESTAR</brand>
+            <material>PLA</material>
+            <color>Purple</color>
+        </name>
+        <GUID>6a738af3-55ce-4467-b7e2-231a2db58bce</GUID>
+        <version>1</version>
+        <color_code>#800080</color_code>
+        <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
+        <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
+    </metadata>
+    <properties>
+        <density>1.24</density>
+        <diameter>1.75</diameter>
+    </properties>
+    <settings>
+        <setting key="print temperature">195</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="standby temperature">195</setting>
+    </settings>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR M3" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR M4" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z8M3" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z9M3" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z9M4" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z6FB" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z6" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z5X" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z5XM2" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z5XR2" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+    <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z5S" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+     <machine>
+        <machine_identifier manufacturer="ZONESTAR" product="ZONESTAR Z5M2" />
+        <setting key="print cooling">40.0</setting>
+        <setting key="standby temperature">195</setting>
+        <setting key="retraction speed">30</setting>
+        <setting key="heated bed temperature">50</setting>
+        <setting key="print temperature">195</setting>
+        <hotend id="0.4mm thermoplastic extruder">
+            <setting key="hardware compatible">yes</setting>
+            <setting key="retraction amount">1.0</setting>
+        </hotend>
+    </machine>
+</fdmmaterial>
