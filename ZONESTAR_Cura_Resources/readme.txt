@@ -3,5 +3,5 @@
 3. copy the files in "plugins" to "C:\Program Files\Ultimaker Cura 4.7\plugins" 
 
 
-If you use other operating systems, the operation is almost the same
+If you are using other operating systems(Linux/Macos), operation is almost the same
 
