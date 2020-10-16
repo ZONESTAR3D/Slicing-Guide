@@ -11,8 +11,8 @@
         "exclude_materials": [ "zonestar_pla", "zonestar_petg", "generic_pla", "generic_petg" ],
         "machine_extruder_trains":
         {
-            "0": "zonestar_printer_extruder_0",
-            "1": "zonestar_printer_extruder_1"
+            "0": "zonestar_R2_extruder_left.def",
+            "1": "zonestar_R2_extruder_right.def"
         }
     },
 
