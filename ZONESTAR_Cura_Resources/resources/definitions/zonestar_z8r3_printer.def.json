@@ -1,5 +1,5 @@
 {
-    "name": "ZONESTAR Z9R3",
+    "name": "ZONESTAR Z8R3",
     "version": 2,
     "inherits": "fdmprinter",
     "metadata": {
@@ -11,14 +11,14 @@
         "exclude_materials": [ "zonestar_pla", "zonestar_petg", "generic_pla", "generic_petg" ],
         "machine_extruder_trains":
         {
-            "0": "zonestar_Z9R3_extruder_1st",
-            "1": "zonestar_Z9R3_extruder_2nd",
-            "2": "zonestar_Z9R3_extruder_3rd"
+            "0": "zonestar_Z8R3_extruder_1st",
+            "1": "zonestar_Z8R3_extruder_2nd",
+            "2": "zonestar_Z8R3_extruder_3rd"
         }
     },
 
     "overrides": {
-        "machine_name": { "default_value": "ZONESTAR Z9R3" },
+        "machine_name": { "default_value": "ZONESTAR Z8R3" },
         "layer_height": { "default_value": 0.2 },
         "machine_extruder_count": { "default_value": 3 },
         "machine_heated_bed": { "default_value": true },
