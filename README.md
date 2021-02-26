@@ -23,6 +23,9 @@ Simple way to make ultra-smooth 3D prints at home: https://www.youtube.com/watch
 Cura Fuzzy Skin and Ironing on 3D Prints: https://www.youtube.com/watch?v=gh5wC4Ti95s
 Improve your prints with acetone smoothing: https://www.youtube.com/watch?v=NiG1jDEG0kA
 
+>>How to remove strings
+https://www.youtube.com/watch?v=uqUcrIsSHak
+https://all3dp.com/2/3d-print-stringing-easy-ways-to-prevent-it/
 
 More:
 >>>>How to Fix moire issue:https://www.youtube.com/watch?v=mnR8ZRWrkcU
