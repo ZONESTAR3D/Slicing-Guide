@@ -6,11 +6,6 @@ setting guide and configration file for Prusa Slicer
 
 <<<<<<< HEAD:Cura/readme.md
 
-
-
-
-
-
 More Video Guide about Cura settings:
 >>>>Cura Setting guide:
 cura settings guide plugin: https://www.youtube.com/watch?v=w9Ezj7zEQbI
