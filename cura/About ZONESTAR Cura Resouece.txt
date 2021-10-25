@@ -1,0 +1,23 @@
+1. download cura from here: https://ultimaker.com/software/ultimaker-cura
+2. install cura
+3. download "ZONESTAR_Cura_resources.zip" to your PC and unzip it
+4. copy plugins and resources to the installation directory of cura
+
+About ZONESTAR_Cura_resources.zip
+>>>plugins\MachineSettingsAction\MachineSettingsPrinterTab.qml
+Enable the "Shared heater " Check Box in "Machine settings", this check box is unactived by default in the new version of Cura
+
+>>>plugins\USBPrinting\AutoDetectBaudJob.py
+Turn off the automatic baud rate detection. It is incompatible with the zm3ex motherboard used by z9m4 and z9v5 machines, which will cause the USB connected printer to hang
+
+>>>plugins\PostProcessingPlugin\scripts\ShareHeater_V1_0.py
+This plug-in is used to delete the redundant M104 and M109 instructions in the generated gcode file
+
+>>>resources\definitions\.
+machine settings files for ZONESTAR 3d printer
+
+>>>resources\extruders\.
+extruders settings files for ZONESTAR 3d printer
+
+>>>resources\materials\.
+materials settings files for ZONESTAR 3d printer, a variety of colors of PLA materials are set to facilitate preview
