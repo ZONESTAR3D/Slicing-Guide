@@ -12,5 +12,5 @@
 - R3 hotend
 > User guide for Cura slicing process of R3 hotend 
 
-# PrusaSlicer:
-> setting guide and configration file for Prusa Slicer
+# SuperSlicer / PrusaSlicer:
+> setting guide and configration file for SuperSlicer / PrusaSlicer
