@@ -1,5 +1,7 @@
 # Cura
-Slicing guide and settings for Cura Slicer  
+***[Download Cura](https://ultimaker.com/software/ultimaker-cura)***   
+***[Cura User Guide](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)***   
+
 ## ZONESTAR_Cura_resources.zip  
 This file is the machine settings for Cura, download and unzip it and then copy the files to the cura installation directory, and then you can find the Zonestar printers in the machine list. Aabout detail, please refer to "about ZONESTAR Cura Resouece.txt".
   
