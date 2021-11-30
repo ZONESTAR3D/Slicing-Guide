@@ -1,18 +1,22 @@
 # Cura
-***[Download Cura](https://ultimaker.com/software/ultimaker-cura)***   
-***[Cura User Guide](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)***   
+[**Download Cura**](https://github.com/Ultimaker/Cura/releases)      
+[**Cura User Guide**](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)   
 
-## ZONESTAR_Cura_resources.zip  
-This file is the machine settings for Cura, download and unzip it and then copy the files to the cura installation directory, and then you can find the Zonestar printers in the machine list. Aabout detail, please refer to "about ZONESTAR Cura Resouece.txt".
-  
+## ZONESTAR\_Cura_resources.zip  
+This file is the machine settings for Cura. Download and unzip it and then copy the files to the cura installation directory, and then you can find the Zonestar printers in the machine list. Aabout detail, please refer to "about ZONESTAR Cura Resouece.txt".     
+
 ## User Guide
-User guide for Cura slicing process
+User guide for Cura slicing  
   
 ## Video tutorial
-Video tutorial for Cura slicing process
+[***Install and setup Cura***](https://youtu.be/h2GynyUo7wQ)    
+[***slicing 1 color 3d object***](https://youtu.be/UDgjGRFrELc)  
+[***slicing 4 colors 3d object***](https://youtu.be/hP6Socp-Cz0)    
+[***slicing 8 colors 3d object***](https://youtu.be/qQ6UnTysqK0)  
 
-## example
+## test-gcode-file
 example files (gcode and stl files)
 
 ## R3 hotend
-User guide for Cura slicing process of R3 hotend 
+User guide for Cura slicing process of R3 hotend   
+More hotend user guide, please refer to here:[**More hotend user guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)  
