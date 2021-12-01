@@ -1,8 +1,0 @@
-##resources\definitions\.
-machine settings files for ZONESTAR 3d printer
-
-##resources\extruders\.
-extruders settings files for ZONESTAR 3d printer
-
-##resources\materials\.
-materials settings files for ZONESTAR 3d printer, a variety of colors of PLA materials are set to facilitate preview

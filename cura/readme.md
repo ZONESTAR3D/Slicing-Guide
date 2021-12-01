@@ -17,7 +17,7 @@ About detail, please refer to [***Install and setup Cura***](https://youtu.be/h2
 - **Z8PM4**: please use the settings of "Z9M4" or "Z9M4Mix"      
 - **Z9 with E4 hoend**: please use the settings of "Z9E4"       
 
-###About the files in resources directory
+### About resources files
 - **definitions** machine settings files for ZONESTAR 3d printer  
 - **extruders**   extruders settings files for ZONESTAR 3d printer
 - **materials**   materials settings files for ZONESTAR 3d printer, a variety of colors of PLA materials are set to facilitate preview
