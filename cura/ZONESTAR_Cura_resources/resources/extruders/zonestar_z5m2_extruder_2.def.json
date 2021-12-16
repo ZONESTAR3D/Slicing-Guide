@@ -14,7 +14,7 @@
         "machine_nozzle_offset_x": { "default_value": 0.0 },
         "machine_nozzle_offset_y": { "default_value": 0.0 },
         "machine_extruder_start_code": 
-           {"default_value": ";start gcode of Extruder 2 \nM163 S0 P0\nM163 S1 P100\n"},
+           {"default_value": ";start gcode of Extruder 2 \nM163 S0 P0\nM163 S1 P100\nM164 S1\n"},
         "machine_extruder_end_code":
            {"default_value": ";end gcode of Extruder 2 \n"}
     }
