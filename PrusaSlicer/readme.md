@@ -1,9 +1,10 @@
-## PrusaSlicer/SuperSlicer :
-- Slicing guide for Multi Color Printer (PrusaSlicer)
-- PrusaSlicer_config_bundle_Z9.ini: ini file of Z9V5, it canbe used to Z9M4 too
-* [SuperSlicer download page](https://github.com/supermerill/SuperSlicer/releases): https://github.com/supermerill/SuperSlicer/releases
-* [PrusaSlicer download page](https://github.com/prusa3d/PrusaSlicer/releases): https://github.com/prusa3d/PrusaSlicer/releases
+## PrusaSlicer-2.4.0-rc+win64 
+#### [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicer-2.4.0-rc%2Bwin64)  
+A copy of PrusaSlicer software for win7/win10/win11, ZONESTAR 3d printer profiles has already added.
+You can also download the PrusaSlicer software for others OS from here: 
+[**https://github.com/prusa3d/PrusaSlicer/releases**](https://github.com/prusa3d/PrusaSlicer/releases)
 
-## Profiles:
+## Profiles
+#### [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Profiles)   
 PrusaSilicer Profiles for ZONESTAR 3D printer, download them and copy to “\resources\profiles” folder of the PrusaSlicer software installation folder.
 ![](1.jpg)
