@@ -44,3 +44,9 @@ More hotend user guide, please refer to [***More hotend user guide***](https://g
 
 ## More 
 More information about hot end, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND).
+
+## How to downlod files from Github page
+#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
+#### Step 2: Copy the Github file or direcotry link which you want to download.
+#### Step 3: Click download button and wait a few seconds, it will start to download automatically. 
+![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   
