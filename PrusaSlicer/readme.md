@@ -12,7 +12,7 @@ You can also download the PrusaSlicer software for others OS from here:
 #### If you have installed PrusaSlicer before, you still need to delete previous configurations settings before apply the new Profiles.
 1. You can find the directory by open the PrusaSlicer menu: **help>>Show Configuration Floder**, as below shown:
 ![1](2.png)
-2. For Windows, it is usually stored in "C:\Users\{PC name}\AppData\Roaming\PrusaSlicer"
+2. For Windows, it is usually stored in "C:/Users/{PC name}/AppData/Roaming/PrusaSlicer"
 3. Delete all of the files in this directory, and then open PrusaSlicer again.  
 
 ## PrusaSlicer Settings
