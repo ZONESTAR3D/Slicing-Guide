@@ -30,13 +30,20 @@ You can also download the PrusaSlicer software for others OS from here:
 
 
 ## PrusaSlicer Slicing
+### PrusaSlicer User guide 
+- **[PrusaSlicer introduction](https://www.prusa3d.com/page/prusaslicer_424/)**
+- **PrusaSlcier is base on Slic3d, so you can also refer to [Slic3r User Manuual](https://manual.slic3r.org/)**
+
 ### 1. load stl files
 ![](slicing1.png)
-### 2. slicing
+### 2. Auto add prime tower
 ![](slicing2.png)
 ### 3. Amazing new features: Painting the 3d model to multi color
 ![](slicing3.png)
-### [PrusaSlicer introduction](https://www.prusa3d.com/page/prusaslicer_424/)
-### PrusaSlcier is base on Slic3d, so you can also refer to [Slic3r User Manuual](https://manual.slic3r.org/)
+### 4. Set purge volume
+To add the “loaded purge value” of light-color filament can prevent  being polluted by filaments of other colors.
+![](slicing4.png)
+![](slicing5.png)
+
 
    
