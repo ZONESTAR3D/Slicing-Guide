@@ -1,19 +1,21 @@
 ## PrusaSlicer-2.4.0-rc+win64 
 #### [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicer-2.4.0-rc%2Bwin64)  
+#### After downloaded, unzip it to your PC, and then click "prusa-slicer" to start.
+![](picture\0.png)
+
+>  
 A copy of PrusaSlicer software for win7/win10/win11, ZONESTAR 3d printer profiles has already added.
-You can also download the PrusaSlicer software for others OS from here: 
+You can also download the PrusaSlicer software from here: 
 [**https://github.com/prusa3d/PrusaSlicer/releases**](https://github.com/prusa3d/PrusaSlicer/releases)
 
-## Profiles
+## PrusaSlicer Profiles for ZONESTAR 3D Printers
 #### [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Profiles)   
-#### This directoy is PrusaSilicer Profiles for ZONESTAR 3D printer, download them and copy to “\resources\profiles” folder which PrusaSlicer software installed.
-![](picture\1.jpg)
-
-#### If you have installed PrusaSlicer before, you still need to delete previous configurations settings before apply the new Profiles.
-1. You can find the directory by open the PrusaSlicer menu: **help>>Show Configuration Floder**, as below shown:
+#### This directoy is Profiles for ZONESTAR 3D printer of PrusaSlicer, if your PrusaSilcer software doesn't download from Prusa3d github page or website, please download this profiles and copy to “\resources\profiles” folder which PrusaSlicer software installed.
+![](picture\1.png)
+#### If you have installed PrusaSlicer before, you may still need to delete previous configurations settings before apply this Profiles.
+1. You can find the directory by open the PrusaSlicer menu: **help>>Show Configuration Floder**, for Windows OS, it is usually stored in "C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer", as below shown:
+2. Delete all of the files in this directory, and then open PrusaSlicer software again.
 ![1](picture\2.png)
-2. For Windows, it is usually stored in "C:/Users/{PC name}/AppData/Roaming/PrusaSlicer"
-3. Delete all of the files in this directory, and then open PrusaSlicer again.  
 
 ## PrusaSlicer Settings
 ### 1. Configuration>>Configuration Wizard>>Next
