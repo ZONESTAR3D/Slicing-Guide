@@ -40,10 +40,24 @@ You can also download the PrusaSlicer software for others OS from here:
 ![](slicing2.png)
 ### 3. Amazing new features: Painting the 3d model to multi color
 ![](slicing3.png)
-### 4. Set purge volume
-To add the “loaded purge value” of light-color filament can prevent  being polluted by filaments of other colors.
+### 4. Set purging volume
+To add the “loaded purge value” of light-color filament can prevent being polluted by filaments of other colors.
 ![](slicing4.png)
 ![](slicing5.png)
+![](slicing6.png)
+![](slicing7.png)
+For example, suppose that the filaments color of extruder  you use is:
+E1: White / E2: Red / E3: Green/ E4: Blue
+Because white is easy to be polluted,   
+- set to ***200mm*** from E2/E3/E4 to E1
+![](slicing8.png) 
+- Set to ***30mm*** from E1 to E2/E3/E4  
+![](slicing9.png)
+Other parameters are set according to similar principles too. 
+
+
+
+
 
 
    

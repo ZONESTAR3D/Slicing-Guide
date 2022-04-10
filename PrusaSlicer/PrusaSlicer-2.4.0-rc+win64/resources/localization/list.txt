@@ -44,6 +44,7 @@ src/slic3r/GUI/Jobs/ArrangeJob.cpp
 src/slic3r/GUI/Jobs/FillBedJob.cpp
 src/slic3r/GUI/Jobs/Job.cpp
 src/slic3r/GUI/Jobs/PlaterJob.cpp
+src/slic3r/GUI/Jobs/RotoptimizeJob.hpp
 src/slic3r/GUI/Jobs/RotoptimizeJob.cpp
 src/slic3r/GUI/Jobs/SLAImportJob.cpp
 src/slic3r/GUI/KBShortcutsDialog.cpp
@@ -83,6 +84,7 @@ src/slic3r/Utils/PresetUpdater.cpp
 src/slic3r/Utils/Http.cpp
 src/slic3r/Utils/Process.cpp
 src/slic3r/Utils/Repetier.cpp
+src/slic3r/Config/Snapshot.cpp
 src/libslic3r/GCode.cpp
 src/libslic3r/ExtrusionEntity.cpp
 src/libslic3r/Flow.cpp
