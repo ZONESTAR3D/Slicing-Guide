@@ -1,5 +1,5 @@
 
-## ![](cura.jpg)  [Cura](https://ultimaker.com/software/ultimaker-cura)
+## ![](cura.png)  [Cura](https://ultimaker.com/software/ultimaker-cura)
 Slicing guide and settings for Cura  
 
 
