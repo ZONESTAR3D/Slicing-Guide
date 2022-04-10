@@ -48,9 +48,9 @@ You can also download the PrusaSlicer software for others OS from here:
 ![](picture\slicing7.png)
 ##### For example, suppose that the filaments color of extruder  you use is E1: White / E2: Red / E3: Green/ E4: Blue，because white is easy to be polluted:   
 - set to ***200mm*** from E2/E3/E4 to E1
-![](slicing8.png) 
+![](picture\slicing8.png) 
 - Set to ***30mm*** from E1 to E2/E3/E4  
-![](slicing9.png)
+![](picture\slicing9.png)
 ##### Other parameters are set according to similar principles too. 
 
 
