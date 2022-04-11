@@ -87,3 +87,34 @@ You can also download the PrusaSlicer software from here:
 ### :star2: Superior function 4: Painting the 3d model to multi color
 
 ![](./picture/slicing3.png)
+
+## test_gcode
+### M4_4C_Test.gcode 
+[> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_test.gcode)
+
+![](./test_gcode/M4_4C_test.png)
+
+### M4_4C_OWL.gcode 
+[> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_OWL.gcode)
+
+![](./test_gcode/M4_4C_OWL.png)
+
+### M4_4C_Dog.gcode 
+[> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_Dog.gcode)
+
+![](./test_gcode/M4_4C_Dog.png)
+
+### M4_4C_Bobomb.gcode 
+[> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_Bobomb.gcode)
+
+![](./test_gcode/M4_4C_Bobomb.png)
+
+### M4_4C_Patrick.gcode 
+[> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_Patrick.gcode)
+
+![](./test_gcode/M4_4C_Patrick.png)
+
+### M4_4C_EarthCore.gcode 
+[> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_EarthCore.gcode)
+
+![](./test_gcode/M4_4C_EarthCore.png)
