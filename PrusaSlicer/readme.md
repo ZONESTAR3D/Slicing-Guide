@@ -1,8 +1,8 @@
 ## PrusaSlicer software
 
-### Version: 2.4.1+win64 for windows7/10/11
+### Version: 2.4.2+win64 for windows7/10/11
 
-### [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicer-2.4.1%2Bwin64)
+### [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicer-2.4.2%2Bwin64)
 
 ### After downloaded, unzip it to your PC, and then click "prusa-slicer" to start
 
