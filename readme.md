@@ -1,5 +1,5 @@
 ## ![](PrusaSlicer.png)[PrusaSlicer :+1:recommended](https://github.com/prusa3d/PrusaSlicer)
-Setting guide and configration file for [**PrusaSlicer**](https://github.com/prusa3d/PrusaSlicer/releases)/[**SuperSlicer**](https://github.com/supermerill) 
+Setting guide and configration file for [**PrusaSlicer**](https://github.com/prusa3d/PrusaSlicer/releases)  
 
 ## ![](cura.png)  [Cura](https://ultimaker.com/software/ultimaker-cura)
 Slicing guide and settings for Cura  

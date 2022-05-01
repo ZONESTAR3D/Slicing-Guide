@@ -1,4 +1,10 @@
 ## Release Note:
+#### Date: 2022-04-25
+Update ZONESTAR profiles V1.0.3
+
+#### Date: 2022-04-22
+Update ZONESTAR profiles V1.0.2
+
 #### Date: 2022-04-18
 1. Update ZONESTAR profiles V1.0.1
 2. Upgrade to PrusaSlicer V2.4.2-RC, [know more](https://github.com/prusa3d/PrusaSlicer/releases)
@@ -93,33 +99,36 @@ You can also download the PrusaSlicer software from here:
 
 ![](./picture/slicing3.png)
 
-## test_gcode
-### M4_4C_Test.gcode 
+### Testing gcode files for 4-IN-1-OUT mixing color hotend
+#### M4_4C_Test.gcode 
 [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_test.gcode)
 
 ![](./test_gcode/M4_4C_test.png)
 
-### M4_4C_OWL.gcode 
+#### M4_4C_OWL.gcode 
 [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_OWL.gcode)
 
 ![](./test_gcode/M4_4C_OWL.png)
 
-### M4_4C_Dog.gcode 
+#### M4_4C_Dog.gcode 
 [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_Dog.gcode)
 
 ![](./test_gcode/M4_4C_Dog.png)
 
-### M4_4C_Bobomb.gcode 
+#### M4_4C_Bobomb.gcode 
 [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_Bobomb.gcode)
 
 ![](./test_gcode/M4_4C_Bobomb.png)
 
-### M4_4C_Patrick.gcode 
+#### M4_4C_Patrick.gcode 
 [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_Patrick.gcode)
 
 ![](./test_gcode/M4_4C_Patrick.png)
 
-### M4_4C_EarthCore.gcode 
+#### M4_4C_EarthCore.gcode 
 [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_EarthCore.gcode)
 
 ![](./test_gcode/M4_4C_EarthCore.png)
+
+### Testing gcode files for 4-IN-1-OUT Non-mixing color hotend
+Pleas refer [:point_right:here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/example/PrusaSlicer)
