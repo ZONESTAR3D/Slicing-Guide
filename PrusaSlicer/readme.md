@@ -69,7 +69,7 @@ Update ZONESTAR profiles V1.0.2
 ![](pic/slicing1C-4.png)  
 #### 5. Set the print settings: layer height, print speed, support, infill, etc.
 ![](pic/slicing1C-5.png)  
-You need to set these parameters according to the shape of the model and your requirements for print quality. Even for some models, printing cannot be completed normally without support. For details please refer to:
+You may need to set these parameters according to the shape of the model and your requirements for print quality. For some models, the object even cannot be printed successfully if the settings is incorrect. For details please refer to:
 - [**PrusaSlicer introduction**](https://www.prusa3d.com/page/prusaslicer_424/)
 - [**Slic3r User Manuual**](https://manual.slic3r.org/)
 #### 6 Slicing
