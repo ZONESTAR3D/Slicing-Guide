@@ -58,7 +58,7 @@ Update ZONESTAR profiles V1.0.2
 
 ## 4. Slicing one color
 ***take Z9V5pro with M4 hotend as an example***
-#### [Video Tutorial](video/PrusaSlicer_Z9_OneColor.mp4)
+#### :movie_camera:[Video Tutorial](https://youtu.be/6QU-jnycS8c)
 #### 1. choose printer presets "Z9 + One Color"
 ![](pic/slicing1C-1.png)
 #### 2. load 3d model file (stl/obj/AMF file etc.)
@@ -79,7 +79,7 @@ You need to set these parameters according to the shape of the model and your re
 
 ## 5. Slicing muti-color for M4 hotend 
 ***Take Z9V5Pro with M4 hotend as an example***
-#### [Video Tutorial](video/PrusaSlicer_Z9E4_MultiColor.mp4)
+#### :movie_camera:[Video Tutorial](https://youtu.be/_Ww2RFGlLNA)
 ### 1 choose printer presets "Z9 + M4 hotend"
 ![](pic/slicingM4-1.png)
 ### 2 load 3d model files (stl/obj/AMF file etc.)
@@ -123,7 +123,7 @@ You need to set these parameters according to the shape of the model and your re
 
 ## 6. Slicing muti-color for E4 hotend
 ***Take Z9V5Pro with E4 hotend as an example***
-#### [Video Tutorial](video/PrusaSlicer_Z9E4_MultiColor.mp4)
+#### :movie_camera:[Video Tutorial](https://youtu.be/aets9JZ92iU)
 #### 1 choose printer presets "Z9 + E4 hotend"
 ![](pic/slicingE4-1.png)
 #### 2 the other steps for E4 hotend and M4 hotend is the same, please refer to [](#5-slicing-muti-color-for-m4-hotend)
