@@ -120,5 +120,5 @@ Please refer to [:point_right:here](./test_gcode/M4/readme.md)
 ![](pic/slicingE4-2.png)  
 :star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filament. For detail how to pre-load filament, please refer to "E4 Hotend user guide".   
 ![](pic/slicingE4-3.png)  
-#### Testing gcode files for E4 (4-IN-1-OUT Non-mixing color) hotend
+#### 3 Testing gcode files for E4 (4-IN-1-OUT Non-mixing color) hotend
 Pleas refer [:point_right:here](./test_gcode/E4/readme.md)
