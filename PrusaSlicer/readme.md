@@ -108,18 +108,7 @@ You need to set these parameters according to the shape of the model and your re
 ### 9 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicingM4-9.png)  
 ### 10. Testing gcode files for M4 (4-IN-1-OUT mixing color) hotend
-##### M4_4C_Test.gcode [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_test.gcode)
-![](./test_gcode/M4_4C_test.png)
-##### M4_4C_OWL.gcode [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_OWL.gcode)
-![](./test_gcode/M4_4C_OWL.png)
-##### M4_4C_Dog.gcode [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_Dog.gcode)
-![](./test_gcode/M4_4C_Dog.png)
-##### M4_4C_Bobomb.gcode [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_Bobomb.gcode)
-![](./test_gcode/M4_4C_Bobomb.png)
-##### M4_4C_Patrick.gcode [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_Patrick.gcode)
-![](./test_gcode/M4_4C_Patrick.png)
-##### M4_4C_EarthCore.gcode [> Download](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4_4C_EarthCore.gcode)
-![](./test_gcode/M4_4C_EarthCore.png)
+Please refer to [:point_right:here](./test_gcode/M4/readme.md)
 
 ## 6. Slicing muti-color for E4 hotend
 ***Take Z9V5Pro with E4 hotend as an example***
@@ -132,4 +121,4 @@ You need to set these parameters according to the shape of the model and your re
 :star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filament. For detail how to pre-load filament, please refer to "E4 Hotend user guide".
 ![](pic/slicingE4-3.png)  
 #### Testing gcode files for E4 (4-IN-1-OUT Non-mixing color) hotend
-Pleas refer [:point_right:here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/example/PrusaSlicer)
+Pleas refer [:point_right:here](./test_gcode/E4/readme.md)
