@@ -18,18 +18,21 @@ Update ZONESTAR profiles V1.0.2
 ## 1. Download PrusaSlicer software and profiles
 #### For windows system (win 7/8/10/11) 
 - Click the below links to download:
-  - [**Download from Github Page**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/PrusaSlicer-2.4.2-win64.zip)   
+  - :arrow_down: [**Download from Github Page**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/PrusaSlicer-2.4.2-win64.zip)   
 ![](pic/download1.png)    
-  - [**Download from Jianguoyun**](https://www.jianguoyun.com/p/DQtYE2IQyoP1Bxjy374EIAA)    
+  - :arrow_down: [**Download from Jianguoyun**](https://www.jianguoyun.com/p/DQtYE2IQyoP1Bxjy374EIAA)    
 ![](pic/download2.png)    
-  - [**Download from Google Driver**](https://drive.google.com/drive/folders/18WoIydKMPNVGcCbk_6rOo17a5pWe2N0l)    
+  - :arrow_down: [**Download from Google Driver**](https://drive.google.com/drive/folders/18WoIydKMPNVGcCbk_6rOo17a5pWe2N0l)    
 ![](pic/download3.png)    
 - And then unzip downloaded file to your PC or laptop  
 ![](pic/unzip.png)   
 #### For Macos or linux
-- [Download PrusaSlicer software](https://github.com/prusa3d/PrusaSlicer/releases)
-- [Download profiles](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles)
+- :arrow_down: [**Download PrusaSlicer software**](https://github.com/prusa3d/PrusaSlicer/releases)
+- :arrow_down: [**Download profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles)
 - Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.
+
+#### User Manual of PrusaSlicer
+:point_right: [**PrusaSlicer User Manual**](https://help.prusa3d.com/article/general-info_1910)
 
 #### If you have installed PrusaSlicer before, you may still need to delete previous configurations settings before apply this Profiles
 ##### You can find the directory by open the PrusaSlicer menu: **help>>Show Configuration Floder**, for Windows OS, it is usually stored in "C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer", as below shown:
@@ -67,7 +70,7 @@ Choose system presets according to your printer, hotend and the colors you want 
 
 ## 4. Slicing one color
 ***take Z9V5pro with M4 hotend as an example***
-#### :movie_camera:[Video Tutorial](https://youtu.be/6QU-jnycS8c)
+#### :movie_camera:[**Video Tutorial**](https://youtu.be/6QU-jnycS8c)
 #### 4.1 choose printer presets "Z9 + One Color"
 ![](pic/slicing1C-1.png)
 #### 4.2 load 3d model file (stl/obj/AMF file etc.)
@@ -79,8 +82,8 @@ Choose system presets according to your printer, hotend and the colors you want 
 #### 4.5 Set the print settings: layer height, print speed, support, infill, etc.
 ![](pic/slicing1C-5.png)  
 You may need to set these parameters according to the shape of the model and your requirements for print quality. For some models, the object even cannot be printed successfully if the settings is incorrect. For details please refer to:
-- [**PrusaSlicer introduction**](https://www.prusa3d.com/page/prusaslicer_424/)
-- [**Slic3r User Manuual**](https://manual.slic3r.org/)
+- :point_right: [**PrusaSlicer introduction**](https://www.prusa3d.com/page/prusaslicer_424/)
+- :point_right: [**Slic3r User Manuual**](https://manual.slic3r.org/)
 #### 4.6 Slicing
 ![](pic/slicing1C-6.png)  
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
@@ -93,8 +96,8 @@ You may need to set these parameters according to the shape of the model and you
 ![](pic/slicingM4-1.png)
 ### 5.2 load 3d model files (stl/obj/AMF file etc.)
 ![](pic/slicingM4-2.png) ![](pic/slicingM4-21.png)
-##### :memo: Usually, "split model" is inneed to print multi-color, that is, a 3d model has been split into multiple STL files according to colors, and these files use the same origin coordinate position so that they can be merged correctly.
-##### :star2: PrusaSlicer has a very powerful new feature. It can [painting 3d model into multi-color](https://www.youtube.com/watch?v=6LLK9soDW88).
+- :memo: Usually, "split model" is inneed to print multi colors 3d model files, that is, a 3d model has been split into multiple STL files according to colors, and these files use the same origin coordinate position so that they can be merged correctly.
+- :star2: PrusaSlicer has a powerful new feature, it can paint a 3d model file into multi colors, for details, please refer to :movie_camera:[this video tutorial](https://www.youtube.com/watch?v=6LLK9soDW88).
 ### 5.3 Choose print filament type - PLA and set filament color
 ![](pic/slicingM4-3.png)
 ### 5.4 Assign extruders to different parts
@@ -104,8 +107,8 @@ You may need to set these parameters according to the shape of the model and you
 ### 5.6 Set the print settings: layer height, print speed, support, infill, etc.
 ![](pic/slicingM4-6.png)  
 You need to set these parameters according to the shape of the model and your requirements for print quality. Even for some models, printing cannot be completed normally without support. For details please refer to:
-- [**PrusaSlicer introduction**](https://www.prusa3d.com/page/prusaslicer_424/)
-- [**Slic3r User Manuual**](https://manual.slic3r.org/)
+- :point_right: [**PrusaSlicer introduction**](https://www.prusa3d.com/page/prusaslicer_424/)
+- :point_right: [**Slic3r User Manuual**](https://manual.slic3r.org/)
 ### 5.7 Set parameters for "wipe tower"
 ##### You may notice that a square square will appear in the sliced figure, which is called "Wipe tower" in PrusaSlicer. Because for the multi-color printer, while switching extruders, there are still the previous color filaments inside the hotend, it need to be clean before printing another color.   
 ![](pic/slicingM4-71.png)    
@@ -117,11 +120,11 @@ You need to set these parameters according to the shape of the model and your re
 ### 5.9 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicingM4-9.png)  
 ### 5.10 Testing gcode files for M4 (4-IN-1-OUT mixing color) hotend
-Please refer to [:point_right:here](./test_gcode/M4/readme.md)
+Please refer to :point_right: [here.](./test_gcode/M4/readme.md)
 
 ## 6. Slicing muti-color for E4 hotend
 ***Take Z9V5Pro with E4 hotend as an example***
-#### :movie_camera:[Video Tutorial](https://youtu.be/aets9JZ92iU)
+#### :movie_camera:[**Video Tutorial**](https://youtu.be/aets9JZ92iU)
 ### 6.1 choose printer presets "Z9 + E4 hotend"
 ![](pic/slicingE4-1.png)
 ### 6.2 the other steps for E4 hotend and M4 hotend is the same, please refer to [](#5-slicing-muti-color-for-m4-hotend)
@@ -130,4 +133,4 @@ Please refer to [:point_right:here](./test_gcode/M4/readme.md)
 :star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filament. For detail how to pre-load filament, please refer to "E4 Hotend user guide".   
 ![](pic/slicingE4-3.png)  
 ### 6.3 Testing gcode files for E4 (4-IN-1-OUT Non-mixing color) hotend
-Pleas refer [:point_right:here](./test_gcode/E4/readme.md)
+Pleas refer :point_right: [here.](./test_gcode/E4/readme.md)
