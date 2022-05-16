@@ -16,6 +16,8 @@ Update ZONESTAR profiles V1.0.2
 - [Slicing muti-color for E4 hotend ](#6-slicing-muti-color-for-e4-hotend)
 
 ## 1. Download PrusaSlicer software and profiles
+#### :point_right: [PrusaSlicer introduction](https://help.prusa3d.com/article/general-info_1910)
+
 #### For windows system (win 7/8/10/11) 
 - Click the below links to download:
   - :arrow_down: [**Download from Github Page**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/PrusaSlicer-2.4.2-win64.zip)   
@@ -31,18 +33,15 @@ Update ZONESTAR profiles V1.0.2
 - :arrow_down: [**Download profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles)
 - Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.
 
-#### User Manual of PrusaSlicer
-:point_right: [**PrusaSlicer User Manual**](https://help.prusa3d.com/article/general-info_1910)
-
 #### If you have installed PrusaSlicer before, you may still need to delete previous configurations settings before apply this Profiles
 ##### You can find the directory by open the PrusaSlicer menu: **help>>Show Configuration Floder**, for Windows OS, it is usually stored in "C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer", as below shown:
 ##### Delete all of the files in this directory, and then open PrusaSlicer software again.
 ![0](./pic/0.png)![1](./pic/1.png)
 
 ## 2. Setup printer
-#### 2-1. Find the PrsuaSlicer.exe and click it to run
+#### 2.1 Find the PrsuaSlicer.exe and click it to run
 ![](pic/run1.png)
-#### 2-2. Choose your printer, "Other Vendors>>Zonestar FFF>>your printer model>>finish"
+#### 2.2 Choose your printer, "Other Vendors>>Zonestar FFF>>your printer model>>finish"
 ![](pic/run2.png)
 
 ## 3. Set print preset
@@ -82,8 +81,9 @@ Choose system presets according to your printer, hotend and the colors you want 
 #### 4.5 Set the print settings: layer height, print speed, support, infill, etc.
 ![](pic/slicing1C-5.png)  
 You may need to set these parameters according to the shape of the model and your requirements for print quality. For some models, the object even cannot be printed successfully if the settings is incorrect. For details please refer to:
-- :point_right: [**PrusaSlicer introduction**](https://www.prusa3d.com/page/prusaslicer_424/)
-- :point_right: [**Slic3r User Manuual**](https://manual.slic3r.org/)
+- :point_right: [**Print Settings**](https://help.prusa3d.com/category/print-settings_212)
+- :point_right: [**PrusaSlicer introduction**](https://help.prusa3d.com/article/general-info_1910)
+
 #### 4.6 Slicing
 ![](pic/slicing1C-6.png)  
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
@@ -91,7 +91,7 @@ You may need to set these parameters according to the shape of the model and you
 
 ## 5. Slicing muti-color for M4 hotend 
 ***Take Z9V5Pro with M4 hotend as an example***
-#### :movie_camera:[Video Tutorial](https://youtu.be/_Ww2RFGlLNA)
+#### :movie_camera:[**Video Tutorial**](https://youtu.be/_Ww2RFGlLNA)
 ### 5.1 choose printer presets "Z9 + M4 hotend"
 ![](pic/slicingM4-1.png)
 ### 5.2 load 3d model files (stl/obj/AMF file etc.)
@@ -107,7 +107,7 @@ You may need to set these parameters according to the shape of the model and you
 ### 5.6 Set the print settings: layer height, print speed, support, infill, etc.
 ![](pic/slicingM4-6.png)  
 You need to set these parameters according to the shape of the model and your requirements for print quality. Even for some models, printing cannot be completed normally without support. For details please refer to:
-- :point_right: [**PrusaSlicer introduction**](https://www.prusa3d.com/page/prusaslicer_424/)
+- :point_right: [**PrusaSlicer introduction**](https://help.prusa3d.com/article/general-info_1910)
 - :point_right: [**Slic3r User Manuual**](https://manual.slic3r.org/)
 ### 5.7 Set parameters for "wipe tower"
 ##### You may notice that a square square will appear in the sliced figure, which is called "Wipe tower" in PrusaSlicer. Because for the multi-color printer, while switching extruders, there are still the previous color filaments inside the hotend, it need to be clean before printing another color.   
