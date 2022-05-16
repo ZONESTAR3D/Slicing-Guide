@@ -18,7 +18,7 @@ Update ZONESTAR profiles V1.0.2
 ## 1. Download PrusaSlicer software and profiles
 #### :point_right: [PrusaSlicer introduction](https://help.prusa3d.com/article/general-info_1910)
 
-#### For windows system (win 7/8/10/11) 
+#### For Windows
 - Click the below links to download:
   - :arrow_down: [**Download from Github Page**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/PrusaSlicer-2.4.2-win64.zip)   
 ![](pic/download1.png)    
