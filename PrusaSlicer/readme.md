@@ -76,7 +76,7 @@ Choose system presets according to your printer, hotend and the colors you want 
 ![](pic/slicing1C-2.png)
 #### 4.3 Choose print filament type
 ![](pic/slicing1C-3.png)
-#### 4.4 If need, you can resize, cut, rotate the 3d model 
+#### 4.4 Resize, cut, rotate, move the 3d model if need
 ![](pic/slicing1C-4.png)  
 #### 4.5 Set the print settings: layer height, print speed, support, infill, etc.
 ![](pic/slicing1C-5.png)  
@@ -102,7 +102,7 @@ You may need to set these parameters according to the shape of the model and you
 ![](pic/slicingM4-3.png)
 ### 5.4 Assign extruders to different parts
 ![](pic/slicingM4-4.png)
-### 5.5 If need, you can resize, cut, rotate the 3d model 
+### 5.5 Resize, cut, rotate, move the 3d model if need 
 ![](pic/slicingM4-5.png)  
 ### 5.6 Set the print settings: layer height, print speed, support, infill, etc.
 ![](pic/slicingM4-6.png)  
