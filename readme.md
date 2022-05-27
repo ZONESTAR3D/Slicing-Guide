@@ -1,8 +1,8 @@
 ## ![](PrusaSlicer.png)PrusaSlicer :+1:recommended
 [Slicing and settings guide for PrusaSlicer](./PrusaSlicer/) 
 
-## ![](cura.png)  Cura
-[Slicing and settings guide for Cura](./Cura/) 
+## ![](cura.png)Cura
+[Slicing and settings guide for Cura](./cura/) 
 
 ## ![](Simplify3D.png)Simplify3D
 [Configration files for Simplify3D](./Simplify3D/) 
