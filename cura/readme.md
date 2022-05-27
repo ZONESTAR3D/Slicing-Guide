@@ -27,7 +27,7 @@ There are three directorys in "resources", they are:
 - **materials**   materials settings files, a variety of colors of PLA materials are set to facilitate preview  
 
 ### User Guide
-User guide for Cura slicing.  
+:point_right: [**User guide for Cura slicing.**](./User%20Guide/Cura%20Slicing%20guide%20for%20Mixing%20Color%20Printer%20V2_1.pdf)
   
 ### Video tutorial
 :movie_camera: [**Install and setup Cura**](https://youtu.be/h2GynyUo7wQ)    
@@ -37,15 +37,15 @@ User guide for Cura slicing.
 
 ### test-gcode-file
 Example gcode and stl files.  
-[***More examples for M4(4-IN-1-OUT mixing color) hotend***](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)  
-[***More examples for E4((4-IN-1-OUT non-mixing color)) hotend***](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)  
+:point_right: [***More examples for M4(4-IN-1-OUT mixing color) hotend***](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)  
+:point_right: [***More examples for E4((4-IN-1-OUT non-mixing color)) hotend***](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)  
 
 ### R3 hotend
 User guide for Cura slicing process of R3 hotend   
-More hotend user guide, please refer to [***More hotend user guide***](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)  
+More hotend user guide, please refer to :point_right: [***More hotend user guide***](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)  
 
 ## More 
-More information about hot end, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND).
+More information about hot end, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND).
 
 ## How to downlod files from Github page
 #### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
