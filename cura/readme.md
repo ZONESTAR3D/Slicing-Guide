@@ -1,4 +1,5 @@
 ## Cura
+### :Warning: ATTETION, please download Cura V4.x.x, now the profiles can't be used to Cura V5.0.x, we will update it as soon as possible!
 Ultimaker Cura is the world’s most popular 3D printing software in free.   
 [**Download Cura**](https://github.com/Ultimaker/Cura/releases)      
 [**Cura User Guide**](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)   
@@ -8,7 +9,7 @@ This file is the ZONESTAR machine settings for Cura, please following the below 
 - **Step 1:** Download the "ZONESTAR_Cura_resources.zip" and and unzip to your PC.   
 - **Step 2:** Exit cura, and then copy the files to the cura installation "resources" directory.  
 - **Step3:** Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.     
-[***Video tutorial***](https://youtu.be/h2GynyUo7wQ).   
+:movie_camera: [***Video tutorial***](https://youtu.be/h2GynyUo7wQ).   
 
 >        
 **NOTE**: Some older ZONESTAR 3d printer models may not be listed, you can use another model instead:   
@@ -28,10 +29,10 @@ There are three directorys in "resources", they are:
 User guide for Cura slicing.  
   
 ### Video tutorial
-[**Install and setup Cura**](https://youtu.be/h2GynyUo7wQ)    
-[**slicing 1 color 3d object**](https://youtu.be/UDgjGRFrELc)  
-[**slicing 4 colors 3d object**](https://youtu.be/hP6Socp-Cz0)    
-[**slicing 8 colors 3d object**](https://youtu.be/qQ6UnTysqK0)  
+:movie_camera: [**Install and setup Cura**](https://youtu.be/h2GynyUo7wQ)    
+:movie_camera: [**slicing 1 color 3d object (Z9V5 + M4 hotend)**](https://youtu.be/UDgjGRFrELc)  
+:movie_camera: [**slicing 4 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
+:movie_camera: [**slicing 8 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
 
 ### test-gcode-file
 Example gcode and stl files.  
