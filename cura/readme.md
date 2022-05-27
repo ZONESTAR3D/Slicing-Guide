@@ -2,7 +2,7 @@
 :warning: **ATTETION PLEASE** :warning:  
 **Please download Cura V4.x.x, now the profiles can't be used to Cura V5.0.x, we will update it as soon as possible!**  
 Ultimaker Cura is the world’s most popular 3D printing software in free.   
-[**Download Cura**](https://github.com/Ultimaker/Cura/releases)      
+[**Download Cura**](https://github.com/Ultimaker/Cura/releases/tag/4.13.1)      
 [**Cura User Guide**](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)   
 
 ### ZONESTAR\_Cura_resources.zip  
