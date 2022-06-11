@@ -7,7 +7,7 @@ Update ZONESTAR profiles V1.0.2
 1. Update ZONESTAR profiles V1.0.1
 2. Upgrade to PrusaSlicer V2.4.2-RC, [know more](https://github.com/prusa3d/PrusaSlicer/releases)
 
-## Contents
+## :book: Contents
 - [Download software](#1-download-prusaslicer-software-and-profiles)
 - [Setup printer](#2-setup-printer)
 - [Set print preset](#3-set-print-preset)
@@ -19,15 +19,9 @@ Update ZONESTAR profiles V1.0.2
 #### :point_right: [PrusaSlicer introduction](https://help.prusa3d.com/article/general-info_1910)
 
 #### For Windows
-- Click the below links to download:
-  - :arrow_down: [**Download from Github Page**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/PrusaSlicer-2.4.2-win64.zip)   
-![](pic/download1.png)    
-  - :arrow_down: [**Download from Jianguoyun**](https://www.jianguoyun.com/p/DQtYE2IQyoP1Bxjy374EIAA)    
-![](pic/download2.png)    
-  - :arrow_down: [**Download from Google Driver**](https://drive.google.com/drive/folders/18WoIydKMPNVGcCbk_6rOo17a5pWe2N0l)    
-![](pic/download3.png)    
-- And then unzip downloaded file to your PC or laptop  
-![](pic/unzip.png)   
+- :arrow_down: [**Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles**](https://github.com/ZONESTAR3D/Slicing-Guide/releases)     
+Download it and unzip it to your PC or laptop, and then find and run the "PrusaSlicer.exe".    
+
 #### For Macos or linux
 - :arrow_down: [**Download PrusaSlicer software**](https://github.com/prusa3d/PrusaSlicer/releases)
 - :arrow_down: [**Download profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles)
@@ -83,11 +77,15 @@ Choose system presets according to your printer, hotend and the colors you want 
 You may need to set these parameters according to the shape of the model and your requirements for print quality. For some models, the object even cannot be printed successfully if the settings is incorrect. For details please refer to:
 - :point_right: [**Print Settings**](https://help.prusa3d.com/category/print-settings_212)
 - :point_right: [**PrusaSlicer introduction**](https://help.prusa3d.com/article/general-info_1910)
-
 #### 4.6 Slicing
 ![](pic/slicing1C-6.png)  
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing1C-7.png)  
+#### :warning: Note :warning: 
+Please pay attention these settings:
+|-----------|-----------|-----------|-----------|
+|  Hotend   |Max Retract speed|Retract length|
+1. For M4 hotend, please 
 
 ## 5. Slicing muti-color for M4 hotend 
 ***Take Z9V5Pro with M4 hotend as an example***
@@ -97,7 +95,7 @@ You may need to set these parameters according to the shape of the model and you
 ### 5.2 load 3d model files (stl/obj/AMF file etc.)
 ![](pic/slicingM4-2.png) ![](pic/slicingM4-21.png)
 - :memo: Usually, "split model" is inneed to print multi colors 3d model files, that is, a 3d model has been split into multiple STL files according to colors, and these files use the same origin coordinate position so that they can be merged correctly.
-- :star2: PrusaSlicer has a powerful new feature, it can paint a 3d model file into multi colors, for details, please refer to :movie_camera:[this video tutorial](https://www.youtube.com/watch?v=6LLK9soDW88).
+- :star2: PrusaSlicer has a powerful new feature, it can paint a 3d model file into multi colors, for details, please refer to :movie_camera:[this video tutorial](./video/PrusaSlicer_Painting.mp4).
 ### 5.3 Choose print filament type - PLA and set filament color
 ![](pic/slicingM4-3.png)
 ### 5.4 Assign extruders to different parts
@@ -133,4 +131,4 @@ Please refer to :point_right: [here.](./test_gcode/M4/readme.md)
 :star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filament. For detail how to pre-load filament, please refer to "E4 Hotend user guide".   
 ![](pic/slicingE4-3.png)  
 ### 6.3 Testing gcode files for E4 (4-IN-1-OUT Non-mixing color) hotend
-Pleas refer :point_right: [here.](./test_gcode/E4/readme.md)
+Please refer to :point_right: [here.](./test_gcode/E4/readme.md)
