@@ -34,10 +34,10 @@ There are three directorys in "resources", they are:
 :point_right: [**User guide for Cura slicing.**](./User%20Guide/Cura%20Slicing%20guide%20for%20Mixing%20Color%20Printer%20V2_1.pdf)
   
 ### Video tutorial
-:movie_camera: [**Install and setup Cura**](https://youtu.be/h2GynyUo7wQ)    
-:movie_camera: [**slicing 1 color 3d object (Z9V5 + M4 hotend)**](https://youtu.be/UDgjGRFrELc)  
-:movie_camera: [**slicing 4 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
-:movie_camera: [**slicing 8 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
+- :movie_camera: [**Install and setup Cura**](https://youtu.be/h2GynyUo7wQ)   
+- :movie_camera: [**slicing 1 color 3d object (Z9V5 + M4 hotend)**](https://youtu.be/UDgjGRFrELc)   
+- :movie_camera: [**slicing 4 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
+- :movie_camera: [**slicing 8 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
 
 ### test-gcode-file
 Example gcode and stl files.  
