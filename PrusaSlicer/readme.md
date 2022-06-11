@@ -1,12 +1,3 @@
-### Release Note:
-##### Date: 2022-04-25
-Update ZONESTAR profiles V1.0.3
-##### Date: 2022-04-22
-Update ZONESTAR profiles V1.0.2
-##### Date: 2022-04-18
-1. Update ZONESTAR profiles V1.0.1
-2. Upgrade to PrusaSlicer V2.4.2-RC, [know more](https://github.com/prusa3d/PrusaSlicer/releases)
-
 ## :book: Contents
 - [Download software](#1-download-prusaslicer-software-and-profiles)
 - [Setup printer](#2-setup-printer)
