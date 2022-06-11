@@ -1,10 +1,10 @@
-## ![](PrusaSlicer.png)PrusaSlicer :+1:recommended
+## ![](PrusaSlicer.png)[PrusaSlicer](/PrusaSlicer) :+1:recommended for multi colors slicing
 [Slicing and settings guide for PrusaSlicer](./PrusaSlicer/) 
 
-## ![](cura.png)Cura
+## ![](cura.png)[Cura](/cura)
 [Slicing and settings guide for Cura](./cura/) 
 
-## ![](Simplify3D.png)Simplify3D
+## ![](Simplify3D.png)[Simplify3D](/Simplify3D)
 [Configration files for Simplify3D](./Simplify3D/) 
 
 ## How to downlod files from Github page
