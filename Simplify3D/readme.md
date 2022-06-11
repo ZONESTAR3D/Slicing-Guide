@@ -13,7 +13,7 @@ Click the below link to download the fff files for your 3d printer and import to
 
 
 ## [Slicing video toturial for Z9V5 with E4 hotend](./Z9_E4/)
-- :movie_camera: [**Video toturial**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/Simplify3D/Z9_E4/Z9E4-Simplify3d.mp4)
+- [**Video Toturial:**:movie_camera:](https://youtu.be/oh8gZlZrkr8) [:arrow_down:](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/Simplify3D/Z9_E4/Z9E4-Simplify3d.mp4)
 - [**Test gcode file**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/Simplify3D/Z9_E4/Z9E4_4CTest_s3d.zip)
 - [**Factory file**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/Simplify3D/Z9_E4/Z9E4_4C_TEST_factory.zip)
 
