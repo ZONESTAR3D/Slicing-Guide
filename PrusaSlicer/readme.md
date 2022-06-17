@@ -72,11 +72,7 @@ You may need to set these parameters according to the shape of the model and you
 ![](pic/slicing1C-6.png)  
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing1C-7.png)  
-#### :warning: Note :warning: 
-Please pay attention these settings:
-|-----------|-----------|-----------|-----------|
-|  Hotend   |Max Retract speed|Retract length|
-1. For M4 hotend, please 
+
 
 ## 5. Slicing muti-color for M4 hotend 
 ***Take Z9V5Pro with M4 hotend as an example***
