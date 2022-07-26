@@ -2,16 +2,17 @@
 :warning: For Cura 5.x.x, resource directory is in "{Cura installed directory}\share\cura", (***e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura***)    
 :movie_camera: [***Video tutorial***](https://youtu.be/h2GynyUo7wQ).    
 Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
-#### Step 1:  Download the :arrow_down: [**ZONESTAR_Cura_resources.zip**](./ZONESTAR_Cura_resources.zip) and and unzip to your PC. 
-#### Step 2:  Download and install :arrow_down: [**Cura software**](https://github.com/Ultimaker/Cura/releases)
-#### Step 3:  Copy the resource files to the cura installation directory "Cura x.x\share\cura\resources".  
-#### Step 4: Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.      
+- Step 1:  Download the :arrow_down: [**ZONESTAR_Cura_resources.zip**](./ZONESTAR_Cura_resources.zip) and and unzip to your PC. 
+- Step 2:  Download and install :arrow_down: [**Cura software**](https://github.com/Ultimaker/Cura/releases)
+- Step 3:  Copy the resource files to the cura installation directory "Cura x.x\share\cura\resources".  
+- Step 4: Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.      
 
-#### About resources files 
-There are three directorys in "resources", they are:
-- **definitions** machine settings files  
-- **extruders**   extruders settings files  
-- **materials**   materials settings files, a variety of colors of PLA materials are set to facilitate preview  
+  >
+  :green_book: About resources files 
+  There are three directorys in "resources", they are:
+  - **definitions** machine settings files  
+  - **extruders**   extruders settings files  
+  - **materials**   materials settings files, a variety of colors of PLA materials are set to facilitate preview  
 
 #### :warning: Some older ZONESTAR 3d printer models may not be listed, you can use another model instead:           
 - **P802NR2**:  Replace with "P802QR2"  
