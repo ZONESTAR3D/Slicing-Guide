@@ -1,11 +1,11 @@
 ## Cura
-:warning: **ATTETION PLEASE** :warning:  
-**Please download Cura V4.x.x, now the profiles can't be used to Cura V5.0.x, we will update it as soon as possible!**  
-Ultimaker Cura is the world’s most popular 3D printing software in free.   
-- :arrow_down: [**Download Cura 4.13.1 with ZONESTAR 3D Printer Profiles**](https://github.com/ZONESTAR3D/Slicing-Guide/releases)  
-Download it and unzip it to your PC or laptop, and then find and run "Cura.exe".   
-You many need to install python, please donwload from [here](https://www.python.org/downloads/windows/)
-- :arrow_down: [**Download Cura 4.13.1 from Cura**](https://github.com/Ultimaker/Cura/releases/tag/4.13.1)    
+#### Step 1: download ZONESTAR Cura Resource file 
+- :arrow_down: [**ZONESTAR 3D Printer Profiles**](./ZONESTAR_Cura_resources.zip)  
+- Download it and unzip it to your PC
+#### Step 2: download and install Cura 
+- :arrow_down: [**Download Cura**](https://github.com/Ultimaker/Cura/releases)    
+#### Step 3: Copy the "resouce" directory to the cura installtion directory
+Note: For Cura 5.x.x, resource directory is in "{Cura installed directory}\share\cura", (***e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura***)
 - :point_right: [**Cura User Guide**](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)  
 
 
