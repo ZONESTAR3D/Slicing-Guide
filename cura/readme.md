@@ -1,5 +1,5 @@
 ## How to install Cura and import ZONESTAR 3d printer profiles
-:warning: For Cura 5.x.x, resource directory is in "{Cura installed directory}\share\cura", (***e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura***)    
+:warning: For Cura 5.x.x, resource file store in "{Cura installed directory}\share\cura", (***e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura***)    
 ### :movie_camera: [***Video tutorial***](https://youtu.be/h2GynyUo7wQ).    
 ### Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
 - Step 1:  Download the :arrow_down: [**ZONESTAR_Cura_resources.zip**](./ZONESTAR_Cura_resources.zip) and and unzip to your PC. 
