@@ -1,10 +1,12 @@
-## How to install Cura and import ZONESTAR 3d printer profiles
-:warning: For Cura 5.x.x, resource file store in "{Cura installed directory}\share\cura", (***e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura***)    
+## Install Cura and import ZONESTAR 3d printer profiles
+ 
 ### :movie_camera: [***Video tutorial***](https://youtu.be/h2GynyUo7wQ).    
 ### Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
-- Step 1:  Download the :arrow_down: [**ZONESTAR_Cura_resources.zip**](./ZONESTAR_Cura_resources.zip) and and unzip to your PC. 
-- Step 2:  Download and install :arrow_down: [**Cura software**](https://github.com/Ultimaker/Cura/releases)
-- Step 3:  Copy the resource files to the cura installation directory "Cura x.x\share\cura\resources".  
+- Step 1:  :arrow_down: Download and install  [**Cura software**](https://github.com/Ultimaker/Cura/releases)
+- Step 2:  :arrow_down: Download [**Zonestar 3D Printer Profiles**](./ZONESTAR_Cura_resources.zip). 
+- Step 3:   Unzip Zonestar 3D Printer Profiles to your PC and then copy the resource files to the cura installation directory.     
+:warning: For Cura 5.x.x, resource file store in "{Cura installed directory}\resource", (***e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura\resource***)      
+:warning: For older version Cura, resource file store in "{Cura installed directory}\resource", (***e.g.:C:\Program Files\Ultimaker Cura 4.13.1\resource***)     
 - Step 4: Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.        
 :green_book: [***what's resources files***](https://github.com/Ultimaker/Cura/wiki/Definition-Files-Explained)  
 ### :warning: Some older ZONESTAR 3d printer models may not be listed, you can use another model instead:           
