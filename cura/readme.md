@@ -2,28 +2,32 @@
  
 ### :movie_camera: [***Video tutorial***](https://youtu.be/h2GynyUo7wQ).    
 ### Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
-- Step 1:  :arrow_down: Download and install  [**Cura software**](https://github.com/Ultimaker/Cura/releases)
-- Step 2:  :arrow_down: Download [**Zonestar 3D Printer Profiles**](./ZONESTAR_Cura_resources.zip). 
-- Step 3:   Unzip Zonestar 3D Printer Profiles to your PC and then copy the resource files to the cura installation directory.     
-:warning: For Cura 5.x.x, resource file store in "{Cura installed directory}\resource", (***e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura\resource***)      
-:warning: For older version Cura, resource file store in "{Cura installed directory}\resource", (***e.g.:C:\Program Files\Ultimaker Cura 4.13.1\resource***)     
-- Step 4: Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.        
-:green_book: [***what's resources files***](https://github.com/Ultimaker/Cura/wiki/Definition-Files-Explained)  
-### :warning: Some older ZONESTAR 3d printer models may not be listed, you can use another model instead:           
-- **P802NR2**:  Replace with "P802QR2"  
-- **M8R2/D805SM2**: Replace with "Z5M2" or "Z5M2Mix"     
-- **Z8XM2/Z8SM3/Z8T/Z8PM3/Z9M3**: Replace with "Z8M3" or "Z8M3Mix"     
-- **Z8PM4/Z9V5**: Replace with "Z9M4" or "Z9M4Mix"      
-- **Z9 with E4 hoend**: Replace with "Z9E4"    
-#### :book: [Cura User Guide](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)    
+- **Step 1**:  :arrow_down: Download and install  [**Cura software**](https://github.com/Ultimaker/Cura/releases)
+- **Step 2**:  :arrow_down: Download [**Zonestar 3D Printer Profiles**](./ZONESTAR_Cura_resources.zip). 
+- **Step 3**:   Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.     
+:warning: For **Cura 5.x.x**, resource files store in ***"{Cura installed directory}\share\cura\resource"(e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura\resource)***         
+:warning: For **Cura 4.x.x**, resource files store in ***"{Cura installed directory}\resource"(e.g.:C:\Program Files\Ultimaker Cura 4.13.1\resource)***     
+- **Step 4**: Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.    
+![](machinelist.jpg)
+##### :star2: If your printer is not in the machine list of Cura, please select your printer according to the following table  
+|           Your Printer         |         Machine in Cura         |  
+|--------------------------------|---------------------------------|  
+|            Z8M2                |        Z10 with M2 hotend       |
+|            Z9M4                |        Z9  with M4 hotend       |
+|        Z9V5-MK1                |        Z9  with M4 hotend       |
+|        Z9V5-MK2                |        Z9  with M4 hotend       |
+|        Z9V5-MK3                |        Z9  with M4 hotend       |
+|        Z9V5-MK4                |        Z9  with E4 hotend       |  
+
+- :green_book: [**What is resources files**](https://github.com/Ultimaker/Cura/wiki/Definition-Files-Explained)  
+- :green_book: [**Cura user guide**](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)    
+
 
 ### Slicing Guide and video tutorial for ZONESTAR 3D Printer
-:point_right: [**User guide for Cura slicing.**](./User%20Guide/Cura%20Slicing%20guide%20for%20Mixing%20Color%20Printer%20V2_1.pdf)
 - :movie_camera: [**Install and setup Cura**](https://youtu.be/h2GynyUo7wQ)   
 - :movie_camera: [**slicing 1 color 3d object (Z9V5 + M4 hotend)**](https://youtu.be/UDgjGRFrELc)   
 - :movie_camera: [**slicing 4 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
 - :movie_camera: [**slicing 8 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
-
 
 ------------
 ### Test gcode files
