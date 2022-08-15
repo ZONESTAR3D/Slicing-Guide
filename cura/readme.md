@@ -9,7 +9,7 @@
 :warning: For **Cura 5.x.x**, resource files store in ***"{Cura installed directory}\share\cura\resource"(e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura\resource)***         
 :warning: For **Cura 4.x.x**, resource files store in ***"{Cura installed directory}\resource"(e.g.:C:\Program Files\Ultimaker Cura 4.13.1\resource)***     
 - **Step 4**: Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.    
-![](machinelist.jpg)
+![](machinelist.gif)
 ##### :star2: Select your printer according to the following table if your printer model is not in the machine list    
 |           Your Printer         |         Machine in Cura         |  
 |--------------------------------|---------------------------------|  
