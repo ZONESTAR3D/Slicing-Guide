@@ -1,14 +1,14 @@
 ### Language / Translate
-[![](../../langpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../langpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../langpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../langpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../langpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../langpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../langpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../langpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../langpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../langpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../langpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=es)
+[![](../langpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../langpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../langpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../langpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=it)
+[![](../langpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=de)
+[![](../langpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../langpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../langpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../langpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ar)
 
 --------
 ## :warning: Attention Please :warning:
