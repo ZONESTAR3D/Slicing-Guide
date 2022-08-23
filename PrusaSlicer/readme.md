@@ -71,7 +71,7 @@ Choose system presets according to your printer, hotend and the colors you want 
 
 ## 4. Slicing one color
 ***take Z9V5pro with M4 hotend as an example***
-#### :movie_camera:[**Video Tutorial**](https://youtu.be/6QU-jnycS8c)
+:movie_camera:[**Video Tutorial**](https://www.youtu.be/6QU-jnycS8c)  
 #### 4.1 choose printer presets "Z9 + One Color"
 ![](pic/slicing1C-1.png)
 #### 4.2 load 3d model file (stl/obj/AMF file etc.)
@@ -93,13 +93,13 @@ You may need to set these parameters according to the shape of the model and you
 
 ## 5. Slicing muti-color for M4 hotend 
 ***Take Z9V5Pro with M4 hotend as an example***
-#### :movie_camera:[**Video Tutorial**](https://youtu.be/_Ww2RFGlLNA)
+:movie_camera:[**Video Tutorial**](https://youtu.be/_Ww2RFGlLNA)
 ### 5.1 choose printer presets "Z9 + M4 hotend"
 ![](pic/slicingM4-1.png)
 ### 5.2 load 3d model files (stl/obj/AMF file etc.)
 ![](pic/slicingM4-2.png) ![](pic/slicingM4-21.png)
 - :memo: Usually, "split model" is inneed to print multi colors 3d model files, that is, a 3d model has been split into multiple STL files according to colors, and these files use the same origin coordinate position so that they can be merged correctly.
-- :star2: PrusaSlicer has a powerful new feature, it can paint a 3d model file into multi colors, for details, please refer to :movie_camera:[this video tutorial](./video/PrusaSlicer_Painting.mp4).
+- :star2: PrusaSlicer has a powerful new feature, it can paint a 3d model file into multi colors, for details, please refer to :movie_camera:[**video tutorial**](https://youtu.be/C0a3Uble8rY).
 ### 5.3 Choose print filament type - PLA and set filament color
 ![](pic/slicingM4-3.png)
 ### 5.4 Assign extruders to different parts
@@ -126,7 +126,7 @@ Please refer to :point_right: [here.](./test_gcode/M4/readme.md)
 
 ## 6. Slicing muti-color for E4 hotend
 ***Take Z9V5Pro with E4 hotend as an example***
-#### :movie_camera:[**Video Tutorial**](https://youtu.be/aets9JZ92iU)
+:movie_camera:[**Video Tutorial**](https://youtu.be/aets9JZ92iU)
 ### 6.1 choose printer presets "Z9 + E4 hotend"
 ![](pic/slicingE4-1.png)
 ### 6.2 the other steps for E4 hotend and M4 hotend is the same, please refer to [](#5-slicing-muti-color-for-m4-hotend)
