@@ -1,4 +1,5 @@
 ## Examples sliced by PrusaSlcier
+![](./E4-all.jpg)
 #### Example 1. 3DBenchy
 :arrow_down: [Download gcode file](Z9E4_3DBenchy.zip)  
 ![](Z9E4_3DBenchy.jpg)
