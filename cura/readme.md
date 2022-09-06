@@ -13,7 +13,6 @@
 --------
 
 ## Install Cura and import ZONESTAR 3d printer profiles 
-### :movie_camera: [***Video tutorial***](https://youtu.be/h2GynyUo7wQ).    
 ### Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
 - **Step 1**:  :arrow_down: Download and install  [**Cura software**](https://github.com/Ultimaker/Cura/releases)
 - **Step 2**:  :arrow_down: Download [**Zonestar 3D Printer Profiles.**](./ZONESTAR_Cura_resources.zip) *<-click here and then click "download" button to download, the last updata on 2022-08-15.*.   
@@ -38,7 +37,8 @@
 
 
 ### Slicing Guide and video tutorial for ZONESTAR 3D Printer
-- :movie_camera: [**Install and setup Cura**](https://youtu.be/h2GynyUo7wQ)   
+- :movie_camera: [**Install and setup Cura 5.1.x**]()   
+- :movie_camera: [**Install and setup Cura 4.x.x**](https://youtu.be/h2GynyUo7wQ)   
 - :movie_camera: [**slicing 1 color 3d object (Z9V5 + M4 hotend)**](https://youtu.be/UDgjGRFrELc)   
 - :movie_camera: [**slicing 4 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
 - :movie_camera: [**slicing 8 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
