@@ -37,7 +37,7 @@
 
 
 ### Slicing Guide and video tutorial for ZONESTAR 3D Printer
-- :movie_camera: [**Install and setup Cura 5.1.x**]()   
+<!-- - :movie_camera: [**Install and setup Cura 5.1.x**]()    -->
 - :movie_camera: [**Install and setup Cura 4.x.x**](https://youtu.be/h2GynyUo7wQ)   
 - :movie_camera: [**slicing 1 color 3d object (Z9V5 + M4 hotend)**](https://youtu.be/UDgjGRFrELc)   
 - :movie_camera: [**slicing 4 colors 3d object (Z9V5 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
