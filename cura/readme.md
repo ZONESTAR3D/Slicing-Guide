@@ -13,6 +13,8 @@
 --------
 
 ## Install Cura and import ZONESTAR 3d printer profiles 
+:green_book: [**What is resources files**](https://github.com/Ultimaker/Cura/wiki/Definition-Files-Explained)  :green_book: [**Cura user guide**](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)  
+
 ### Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
 - **Step 1**:  :arrow_down: Download and install  [**Cura software**](https://github.com/Ultimaker/Cura/releases)
 - **Step 2**:  :arrow_down: Download [**Zonestar 3D Printer Profiles.**](./ZONESTAR_Cura_resources.zip) *<-click here and then click "download" button to download, the last updata on 2022-08-15.*.   
@@ -23,17 +25,33 @@
 ![](ImportProfiles.gif)       
 - **Step 4**: Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.    
 ![](machinelist.gif)
-##### :star2: Select your printer according to the following table if your printer model is not in the machine list    
-|           Your Printer         |         Machine in Cura         |  
-|--------------------------------|---------------------------------|  
-|            Z8M2                |        Z10 with M2 hotend       |
-|            Z9M4                |        Z9  with M4 hotend       |
-|        Z9V5-MK1                |        Z9  with M4 hotend       |
-|        Z9V5-MK2                |        Z9  with M4 hotend       |
-|        Z9V5-MK3                |        Z9  with M4 hotend       |
-|        Z9V5-MK4                |        Z9  with E4 hotend       |  
+### You need to choose different printer model on Cura when you slicing one color or multi-colors 3d models, please refer to the below table:
+|   Printer model  |Orignal Hotend Type| Print one color | Print multi colors |  
+|------------------|-------------------|-----------------|--------------------|
+|      Z6          |    one color      |       Z6        |        NA          | 
+|      Z5X         |    one color      |       Z5X       |        NA          | 
+|      Z5XM2       |    M2 hotend      |       Z5X       | Z10 with M2 hotend | 
+|    Z8X/Z10S      |    one color      |  Z8 one color   |        NA          |
+|    Z8XM2/Z10M2   |    M2 hotend      |  Z8 one color   | Z10 with M2 hotend |
+|      Z8S         |    M3 hotend      |  Z8 one color   | Z10 with M2 hotend |
+|      Z8T         |    M3 hotend      |  Z8 one color   | Z8 with M3 hotend  |
+|      Z8PM3       |    M3 hotend      |  Z8 one color   | Z8 with M3 hotend  |
+|      Z8PM4       |    M4 hotend      |  Z8 one color   | Z8 with M4 hotend  |
+|      Z9M2        |    M2 hotend      |  Z9 one color   | Z9 with M2 hotend  |
+|      Z9M3        |    M3 hotend      |  Z9 one color   | Z9 with M3 hotend  |
+|      Z9M4        |    M4 hotend      |  Z9 one color   | Z9 with M4 hotend  |
+|      Z9E4        |    E4 hotend      |  Z9 one color   | Z9 with E4 hotend  | 
+| Z9V5-MK1/MK2/MK3 |    M4 hotend      |  Z9 one color   | Z9 with M4 hotend  | 
+|   Z9V5-MK4       |    E4 hotend      |  Z9 one color   | Z9 with E4 hotend  | 
 
-:green_book: [**What is resources files**](https://github.com/Ultimaker/Cura/wiki/Definition-Files-Explained)  :green_book: [**Cura user guide**](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)     
+##### About hotend type
+- [**M2 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#m2-2-in-1-out--mixing-color-hotend) 2-IN-1-OUT mixing color hotend    
+- [**M3 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#m2-2-in-1-out--mixing-color-hotend) 3-IN-1-OUT mixing color hotend    
+- [**M4 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#m44-in-1-out-mixing-color-hotend) 4-IN-1-OUT mixing color hotend    
+- [**E4 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#e4-4-in-1-out-non-mix-color-hotend) 4-IN-1-OUT non-mixing color hotend    
+For more information of the hotend, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND).
+
+   
 
 
 ### Slicing Guide and video tutorial for ZONESTAR 3D Printer
