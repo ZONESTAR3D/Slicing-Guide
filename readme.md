@@ -13,15 +13,23 @@
 
 --------
 
-## ![](PrusaSlicer.png)[PrusaSlicer](/PrusaSlicer) :+1:recommended for multi colors slicing
+## ![](PrusaSlicer.png)[PrusaSlicer](/PrusaSlicer/) :+1:recommended for multi colors slicing
 [Slicing and settings guide for PrusaSlicer](./PrusaSlicer/) 
 
 ## ![](cura.png)[Cura](/cura)
 [Slicing and settings guide for Cura](./cura/) 
 
-## ![](Simplify3D.png)[Simplify3D](/Simplify3D)
-[Configration files for Simplify3D](./Simplify3D/) 
+## ![](Simplify3D.png)[Simplify3D](/Simplify3D/)
+[Config profiles for simlify3d](/Simplify3D/)
 
+--------
+## 3D Printing Model Download Webesite.
+Several of the most famous free 3D model download websites for your reference:
+- [thingiverse](https://www.thingiverse.com/)  
+- [printables](https://www.printables.com/)  
+- [youmagine](https://www.youmagine.com/)   
+
+--------
 ## How to downlod files from Github page
 #### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
 #### Step 2: Copy the Github file or direcotry link which you want to download.
