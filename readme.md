@@ -24,7 +24,7 @@
 
 --------
 ## 3D Printing Model Download Webesite.
-Several of the most famous free 3D model download websites for your reference:
+You can download the 3D model shared by others from the Internet, or share the 3D model drawn by you to the Internet.There are several most famous free 3D model download websites for your reference:
 - [thingiverse](https://www.thingiverse.com/)  
 - [printables](https://www.printables.com/)  
 - [youmagine](https://www.youmagine.com/)   
