@@ -1,10 +1,10 @@
 ## Slicing guide for E4 hotend with Cura Slicer
-Use Z9 with E4 hotend as an exmple, Z8 with E4 is the same.
+Use ***Z9 with E4 hotend*** as an exmple.
 ### Prepare
 - **Add printer** 
-![](./E4_hotend/E4_1.gif)
+![](./E4_1.gif)
 - **Take a look the 'machine Start/End gcode' and 'exturder Start/End gcode'** 
-![](./E4_hotend/E4_2.gif)
+![](./E4_2.gif)    
 For details about the ***machine Start/End gcode***  and ***exturder Start/End gcode***, please refer :point_down:[here](#about-start-and-end-gcode)
 
 -----------
