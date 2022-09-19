@@ -1,11 +1,36 @@
 ## Slicing guide for E4 hotend with Cura Slicer
 Use ***Z9 with E4 hotend*** as an exmple.
-### Prepare
+### Steps of Prepare
 - **Add printer** 
 ![](./E4_1.gif)
 - **Take a look the 'machine Start/End gcode' and 'exturder Start/End gcode'** 
 ![](./E4_2.gif)    
 For details about the ***machine Start/End gcode***  and ***exturder Start/End gcode***, please refer :point_down:[here](#about-start-and-end-gcode)
+- **Set Color for the extruder**
+![](./E4_3.gif)    
+
+### Steps of Slicing
+- **Load 3d files**
+Load 3d files >> Assign extruder for each part >> Select all parts >> Merge
+![](./E4_4.gif)    
+- **Set slicing parameters and slicing**
+![](./E4_5.gif)    
+![](./E4_6.gif)    
+  :warning: Please pay attention to the below settings:   
+![](./E4_Settings_1.jpg)
+> 
+  1. Enable the Prime tower.
+  2. Set the Prime Tower size to about 50mm, and Prime Tower minimum volume: Light color filaments: 15~25mm^3^, Dark color filaments: 10~15mm^3^.  
+  3. Set the Prime Tower position to a proper position (not cross with the printed 3d file).
+  4. Set the "Nozzle Switch Retraction Distance" to 0, because we have setted on ["extruder start/end gcode"](#exturder-startend-gcode-of-e4-hotend)   
+![](./E4_Settings_2.jpg)  
+  5. Set the "Retraction Distance" to 6.5 ~ 10mm, :warning: (Maximum is 10mm for E4 hotend).
+  6. Set the "Retraction Speed" to 20 ~ 35mm/s.
+
+##### Sliced test file for your reference
+- :arrow_down:[Download stl file](./4C_test_stl.zip)
+- :arrow_down:[Download gcode file](./Z9E4_4C_TEST_Cura.zip)
+
 
 -----------
 ### About start and end gcode
