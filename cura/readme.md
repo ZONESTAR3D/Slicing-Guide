@@ -18,18 +18,16 @@
 ### How to install Cura and import ZONESTAR 3d printer profiles 
 Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
 - **Step 1**:  Download [:arrow_down: **Cura software**](https://github.com/Ultimaker/Cura/releases) and install it to your PC.
-- **Step 2**:  Download [:arrow_down: **Zonestar 3D Printer Profiles.**](./ZONESTAR_Cura_resources.zip) *<-click here and then click "download" button to download, the last updata on 2022-09-19.*.   
+- **Step 2**:  Download [:arrow_down: **Zonestar 3D Printer Profiles.**](./ZONESTAR_Cura_resources.zip) *:point_left:Click here and then click "download" button. the last updata on 2022-09-19.*.   
 ![](downloadzip.gif)  
 - **Step 3**:   Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
 :pushpin: For **Cura 5.x.x**, resource files store in ***"{Cura installed directory}\share\cura\resource"(e.g.:C:\Program Files\Ultimaker Cura 5.1.0\share\cura\resource)***         
-:pushpin: For **Cura 4.x.x**, resource files store in ***"{Cura installed directory}\resource"(e.g.:C:\Program Files\Ultimaker Cura 4.13.1\resource)***   
+:pushpin: For **Cura 4.x.x**, resource files store in ***"{Cura installed directory}\resource"(e.g.:C:\Program Files\Ultimaker Cura 4.13.1\resource)***    
 ![](ImportProfiles.gif)       
 - **Step 4**: Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.    
 ![](machinelist.gif)
-
-### Video Tutorial for Install Cura and import ZONESTAR 3d printer profiles
-<!-- - :movie_camera: [**Install and setup Cura 5.1.x**]()    -->
-- :movie_camera: [**Install and setup Cura 4.x.x**](https://youtu.be/h2GynyUo7wQ)   
+##### :warning: Note: If you have installed Zonestar 3D printer profiles before, you need to delete the older "configura" before install the newer profiles.
+![](delete.gif)  
   
 ### You need to choose different printer model on Cura when you slicing one color or multi-colors 3d models, please refer to the below table:
 |   Printer model  |Orignal Hotend Type| Print one color | Print multi colors |  
@@ -62,7 +60,8 @@ For more information of the hotend, please refer to [**here**](https://github.co
 - :movie_camera: [**slicing 4 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
 - :movie_camera: [**slicing 8 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
 #### Slicing guide for Z9 with E4 hotend
-<!-- - :movie_camera: [**slicing 4 colors 3d object (Z9 + E4 hotend)**](https://youtu.be/hP6Socp-Cz0)     -->
+- :book: [**Slicing 4 colors 3d object (Z9 + E4 hotend)**](./E4_hotend/readme.md)
+
 
 ### Test gcode files
 [**Example gcode and stl files.**](./test-gcode-file/readme.md)    
