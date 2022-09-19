@@ -20,7 +20,7 @@ Load 3d files >> Assign extruder for each part >> Select all parts >> Merge
 ![](./E4_Settings_1.jpg)
 > 
   1. Enable the Prime tower.
-  2. Set the Prime Tower size to about 50mm, and Prime Tower minimum volume: Light color filaments: 15~25mm^3^, Dark color filaments: 10~15mm^3^.  
+  2. Set the Prime Tower size to about 50mm, and Prime Tower minimum volume: Light color filaments: 15 to 25mm^3^, Dark color filaments: 10 to 15mm^3^.  
   3. Set the Prime Tower position to a proper position (not cross with the printed 3d file).
   4. Set the "Nozzle Switch Retraction Distance" to 0, because we have setted on ["extruder start/end gcode"](#exturder-startend-gcode-of-e4-hotend)   
 ![](./E4_Settings_2.jpg)  
