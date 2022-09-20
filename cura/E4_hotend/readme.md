@@ -1,31 +1,32 @@
 ## Slicing guide for E4 hotend with Cura Slicer
 Use ***Z9 with E4 hotend*** as an exmple.
-### Steps of Prepare
+### Prepare
 - **Add printer** 
 ![](./E4_1.gif)
 - **Take a look the 'machine Start/End gcode' and 'exturder Start/End gcode'** 
 ![](./E4_2.gif)    
 For details about the ***machine Start/End gcode***  and ***exturder Start/End gcode***, please refer :point_down:[here](#about-start-and-end-gcode)
-- **Set Color for the extruder**
+- **Set filament color of extruders**
 ![](./E4_3.gif)    
 
-### Steps of Slicing
-- **Load 3d files**
+### Slicing
+- **Load 3d files**    
 Load 3d files >> Assign extruder for each part >> Select all parts >> Merge
 ![](./E4_4.gif)    
-- **Set slicing parameters and slicing**
+- **Set slicing parameters and slicing**    
 ![](./E4_5.gif)    
 ![](./E4_6.gif)    
   :warning: Please pay attention to the below settings:   
 ![](./E4_Settings_1.jpg)
 > 
   1. Enable the Prime tower.
-  2. Set the Prime Tower size to about 50mm, and Prime Tower minimum volume: Light color filaments: 15 to 25mm^3^, Dark color filaments: 10 to 15mm^3^.  
-  3. Set the Prime Tower position to a proper position (not cross with the printed 3d file).
-  4. Set the "Nozzle Switch Retraction Distance" to 0, because we have setted on ["extruder start/end gcode"](#exturder-startend-gcode-of-e4-hotend)   
+  2. Set the Prime Tower size to about 50mm, and Prime Tower minimum volume: Light color filaments: 15 to 25mm<sup>3</sup>, Dark color filaments: 10 to 15mm<sup>3</sup>.  
+  3. Set the Prime Tower position to a proper position (Do not cross the 3d model to be printed).
+  4. Set the ***Dual Extrusion>>Nozzle Switch Retraction Distance***<sup>[1]</sup>to 0, because some commands has been added in the [***extruder start/end gcode***](#exturder-startend-gcode-of-e4-hotend) to retract the filament when switching extrduer.   
 ![](./E4_Settings_2.jpg)  
-  5. Set the "Retraction Distance" to 6.5 ~ 10mm, :warning: (Maximum is 10mm for E4 hotend).
-  6. Set the "Retraction Speed" to 20 ~ 35mm/s.
+  5. Set the ***Travel>>Retraction Distance***<sup>[1]</sup> to 6.5 ~ 10mm, :warning: (Maximum is 10mm for E4 hotend).
+  6. Set the ***Travel>>Retraction Speed*** to 20 ~ 30mm/s.     
+[1]: ***Travel>>Retraction*** is for setting how long filament need to be retracted (for "anti strings" when the nozzle jumps from one position to another position), it is required for one extruder or multi extruders printers.  ***Dual Extrusion>Nozzle Switch Retraction*** is only applied to multi extruders 3d printer, it used to set how long filament need to be unload/reload while switching from one extruder to another extruder.  
 
 ##### Sliced test file for your reference
 - :arrow_down:[Download stl file](./4C_test_stl.zip)
@@ -127,7 +128,7 @@ In the ***Start Gcode*** of the machine, In addition to the "common" homing and 
     G1 E-80 F3000
     G92 E0
     ;===Pre-load filament end
-  The ***Pre-load filament gcodes*** is for printing some lines on side of the bed before starting to print the 3d model, to confirm whether the filaments are correctly loaded to the extruders and hot end.  
+  The ***Pre-load filament gcodes*** is to confirm that all the filaments of the extruders are correctly loaded. The 3D printer will print a segment of line for each filament on the right side of the bed before starting the actual 3D model.
 ![](./E4_PreloadFilaments.jpg)
 
 #### End Gcode of Machine 
@@ -144,7 +145,7 @@ In the ***Start Gcode*** of the machine, In addition to the "common" homing and 
     M84 X Y E ;Disable all steppers but Z
 
 #### Exturder Start/End gcode of E4 hotend
-The ***Extruder Start/End gcode*** is used to load and unload the filament when switching the extruder.
+The ***Extruder Start/End gcode*** is used to load and unload the filament when switching the extruders.
 - Extruder 1 start gcode.
 >
     ;These commands are for load filament of extruder #1 to the nozzle of hot end
