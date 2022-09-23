@@ -13,7 +13,7 @@ No matter which version of the M4 hot end, you can apply the same slice settings
 ![](pic/slicingM4-2.png) ![](pic/slicingM4-21.png)
 - :memo: Usually, "split model" is inneed to print multi colors 3d model files, that is, a 3d model has been split into multiple STL files according to colors, and these files use the same origin coordinate position so that they can be merged correctly.
 - :star2: PrusaSlicer has a powerful new feature, it can paint a 3d model file into multi colors, for details, please refer to :movie_camera:[**video tutorial**](https://youtu.be/C0a3Uble8rY).
-### Step 3: Choose print filament type - PLA and set filament color
+### Step 3: Choose filament type and set filament color
 ![](pic/slicingM4-3.png)
 ### Step 4: Assign extruders to different parts
 ![](pic/slicingM4-4.png)

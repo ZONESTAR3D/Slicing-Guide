@@ -76,7 +76,7 @@ Choose system presets according to your printer, hotend and the colors you want 
 ![](pic/slicing1C-1.png)
 #### 4.2 load 3d model file (stl/obj/AMF file etc.)
 ![](pic/slicing1C-2.png)
-#### 4.3 Choose print filament type
+#### 4.3 Choose filament type
 ![](pic/slicing1C-3.png)
 #### 4.4 Resize, cut, rotate, move the 3d model if need
 ![](pic/slicing1C-4.png)  
