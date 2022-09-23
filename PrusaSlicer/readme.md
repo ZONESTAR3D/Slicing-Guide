@@ -17,13 +17,13 @@
 #### 2. For the E4 hotend, the retract length should be less than 12mm, whether printing one color or multi-color, otherwies it may lead to blockage of the hotend.
 --------
 ## :book: Contents
-- [Download software](#1-download-prusaslicer-software-and-profiles)
-- [Setup printer](#2-setup-printer)
-- [Set print preset](#3-set-print-preset)
-- [Slicing one Color](#4-slicing-one-color)
-- [Slicing muti-color for M4 hotend ](#5-slicing-muti-color-for-m4-hotend)
-- [Slicing muti-color for E4 hotend ](#6-slicing-muti-color-for-e4-hotend)
-
+- [**Download software**](#1-download-prusaslicer-software-and-profiles)
+- [**Setup printer**](#2-setup-printer)
+- [**Set print preset**](#3-set-print-preset)
+- [**Slicing one Color**](#4-slicing-one-color)
+- [**Slicing muti-color for M4 hotend**](#5-slicing-muti-color-for-m4-hotend)
+- [**Slicing muti-color for E4 hotend**](#6-slicing-muti-color-for-e4-hotend)
+--------
 ## 1. Download PrusaSlicer software and profiles
 #### :point_right: [PrusaSlicer introduction](https://help.prusa3d.com/article/general-info_1910)
 
@@ -135,5 +135,9 @@ Please refer to :point_right: [here.](./test_gcode/M4/readme.md)
 ![](pic/slicingE4-2.png)  
 :star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filaments. For detail how to pre-load filament, please refer to [**:book: E4 Hotend user guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/User_guide/readme.md).   
 ![](pic/slicingE4-3.png)  
-### 6.3 Testing gcode files for E4 (4-IN-1-OUT Non-mixing color) hotend
+### 6.3 Description of Custom G-code 
+If you have correctly installed the Profiles file of the ZONESTAR 3d printer, you will see that we have added some gcode codes in ***"Printer Setting>>Custom G-code"***.  
+For details about the "Custom G-code", please refer to [:book: **Description of Custom Gcode**](./Custom_Gcode.md)        
+![](./pic/Custom_Gcode.jpg)
+### 6.4 Testing gcode files for E4 (4-IN-1-OUT Non-mixing color) hotend
 Please refer to :point_right: [here.](./test_gcode/E4/readme.md)
