@@ -16,7 +16,7 @@
 ### :exclamation:Please pay attention to distinguish the hot end type what you used is M4 (mix color hot end) hot end or E4 (Non-mix color) hot end. If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa. :exclamation:
 --------
 ## :book: Contents
-- [**Download software**](#1-download-prusaslicer-software-and-profiles)
+- [**Download and install PrusaSlicer**](#1-download-prusaslicer-software-and-profiles)
 - [**Setup printer**](#2-setup-printer)
 - [**Set print preset**](#3-set-print-preset)
 - [**Slicing one Color**](#4-slicing-one-color)
