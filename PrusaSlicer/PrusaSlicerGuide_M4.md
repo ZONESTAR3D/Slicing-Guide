@@ -22,10 +22,10 @@ No matter which version of the M4 hot end, you can apply the same slice settings
 ### Step 6: Set the print settings: layer height, print speed, support, infill, etc.
 ![](pic/slicingM4-6.png)  
 You need to set these parameters according to the shape of the model and your requirements for print quality. Even for some models, printing cannot be completed normally without support. For details please refer to:
-- :point_right: [**PrusaSlicer introduction**](https://help.prusa3d.com/article/general-info_1910)
-- :point_right: [**Slic3r User Manuual**](https://manual.slic3r.org/)
+- :point_right: [**PrusaSlicer introduction**](https://help.prusa3d.com/article/general-info_1910)    
+- :point_right: [**Slic3r User Manuual**](https://manual.slic3r.org/)   
 :warning: Please note that the "Retraction when tool is disabled" should be set to 0.    
-![](pic/slicingM4-7.jpg)  
+![](pic/slicingM4-7.jpg)    
 ### Step 7: Set parameters for "wipe tower"
 ##### You may notice that a square square will appear in the sliced figure, which is called "Wipe tower" in PrusaSlicer. Because for the multi-color printer, while switching extruders, there are still the previous color filaments inside the hotend, it need to be clean before printing another color.   
 ![](pic/slicingM4-71.png)    
