@@ -16,28 +16,24 @@
 ### :exclamation:Please pay attention to distinguish the hot end type what you used is M4 (mix color hot end) hot end or E4 (Non-mix color) hot end. If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa. :exclamation:
 --------
 ## :book: Contents
-- [**Download and install PrusaSlicer**](#1-download-prusaslicer-software-and-profiles)
+- [**Download and install PrusaSlicer**](#1-download-and-install-prusaslicer)
 - [**Setup printer**](#2-setup-printer)
 - [**Set print preset**](#3-set-print-preset)
 - [**Slicing one Color**](#4-slicing-one-color)
 - [**Slicing muti-color for M4 hotend**](#5-slicing-muti-color-for-m4-hotend)
 - [**Slicing muti-color for E4 hotend**](#6-slicing-muti-color-for-e4-hotend)
 --------
-## 1. Download PrusaSlicer software and profiles
-#### :point_right: [PrusaSlicer introduction](https://help.prusa3d.com/article/general-info_1910)
-
-#### For Windows
-- :arrow_down: [**Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles**](https://github.com/ZONESTAR3D/Slicing-Guide/releases)     
-Download it and unzip it to your PC or laptop, and then find and run the "PrusaSlicer.exe".    
-
-#### For Macos or linux
-- :arrow_down: [**Download PrusaSlicer software**](https://github.com/prusa3d/PrusaSlicer/releases)
-- :arrow_down: [**Download profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles)
-- Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.
-
-#### If you have installed PrusaSlicer before, you may still need to delete previous configurations settings before apply this Profiles
-##### You can find the directory by open the PrusaSlicer menu: **help>>Show Configuration Floder**, for Windows OS, it is usually stored in "C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer", as below shown:
-##### Delete all of the files in this directory, and then open PrusaSlicer software again.
+## 1. Download and install PrusaSlicer
+### For Windows
+- **:arrow_down: [Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases), and unzip it to your PC or laptop, and then find and run the "PrusaSlicer.exe".**             
+- **Or :arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[import ZONESTAR 3d Printer Profiles](#import-zonestar-3d-printer-profiles).**       
+### For Macos or linux
+**:arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[import ZONESTAR 3d Printer Profiles](#import-zonestar-3d-printer-profiles).**   
+#### Import ZONESTAR 3d Printer Profiles
+- :arrow_down: [**Download ZONESTAR 3d Printer profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles) and unzip it to your PC.
+- Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.    
+:warning:You may need to delete previous configurations settings, otherwise the newer profiles can't be applied proper:warning:      
+You can find the directory where store the previous configurations: ***help>>Show Configuration Floder***, for Windows OS, it is usually stored in ***"C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer"***. Delete all of these files in this directory, and then open PrusaSlicer software again.    
 ![0](./pic/0.png)![1](./pic/1.png)
 
 ## 2. Setup printer
