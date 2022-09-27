@@ -71,7 +71,7 @@ Basically, The "start G-code" can be divided into two parts.
     G0 X14 F3000
     G1 E-80 F2400
     M400
-    M117 Preload Extruder #3
+    M117 Preload Extruder #4
     T3
     G1 E20 F120
     G0 X14 Y50 F3000
