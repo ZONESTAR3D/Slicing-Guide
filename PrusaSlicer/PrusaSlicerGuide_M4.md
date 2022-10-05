@@ -1,6 +1,8 @@
-## :warning: Attention Please :warning:
+## :warning: Attention Please, this guide is for M4 hot end :warning:
 ### **Please pay attention to distinguish the hot end type: M4 hot end or E4 hot end**. 
 If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa. For default, Z9M4, Z8PM4 and Z9V5-MK1/MK2/MK3 equiped with a M4 hotend, Z9V5-MK4 equiped with a E4 hotend. You can apply the same slice settings and the gcode file to all version of M4 hot end.
+- **M4 hot end:** 4-IN-1-OUT **mix color** hot end.    
+- **E4 hot end:** 4-IN-1-OUT **non-mix color** hot end.    
 
 --------
 ## Slicing muti-color for M4 hotend 
