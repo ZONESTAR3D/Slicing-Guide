@@ -33,7 +33,7 @@ You need to set these parameters according to the shape of the model and your re
 You may notice that a square will appear in the sliced figure, which is called "Wipe tower" in PrusaSlicer. Because for the multi-color printer, while switching extruders, there are still the previous color filaments inside the hotend, it need to be clean before printing another color.   
 ![](pic/wipe_tower.png)    
 In order to obtain better cleaning effect and minimize to waste filament, we can set the amount of color purge according to different colors. Please pay attention to the following table, the columns shows the filament color of the last extruder printed, and the rows shows the filament color of the next extruder to be printed.    
-When we change from the extruder with lighter color filament to the extruder with darker color filaments, we can set a smaller extrusion erasure. On the contrary, when we change from the extruder with darker color filaments to the extruder with darker color filament, we need to set a smaller extrusion erasure.    
+When we change from the extruder with lighter color filament to the extruder with darker color filaments, we can set a smaller purge volume. On the contrary, when we change from the extruder with darker color filaments to the extruder with darker color filament, we need to set a bigger purge volume.  
 :warning:***The retract length should be less than 10mm, otherwies it may lead to blockage of the hotend.***    
 :star:For E4 hotend, there are few filaments left in the hot end, so we can use smaller purging volume on wipe tower.  
 ![](pic/slicingE4-2.png)  
