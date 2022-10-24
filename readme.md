@@ -14,12 +14,12 @@
 --------
 ## Slicer
 A 3D slicer is a 3D printer software program that you can import models into — for example in .STL, .OBJ or .AMF file format. These 3D printer models form the basis of your print; they contain the edges, heights and all the information about your print.    
-The following are the best slicing software, and how to use these slicing software for ZONESTAR's 3D printer. 
+The following is a guide to famous slicing software and how to use these slicing software for ZONESTAR's 3D printer.
 ### ![](PrusaSlicer.png) [PrusaSlicer](/PrusaSlicer/) :+1:  
 PrusaSlicer can be called the best slicing software for multi-color FDM 3D printers right now, and it support directly to paint color on the 3D model files and converts them into multi-color models, so it is currently our recommended slicing software to our multi color 3d printers.   
 :point_right: [**Click here to read the user guide, video tutorial, and download software**](./PrusaSlicer/).
 ### ![](superslicer.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer/releases)
-SuperSlicer is a branch based on PrusaSlicer. It adds many settings, which is sometimes used to improve the printing quality.  
+SuperSlicer is a branch based on PrusaSlicer. It adds many settings, which is sometimes used to improve the printing quality. About the ueser guide, please refer to PrusaSlicer.    
 :point_right: [**Click here to download SuperSlicer software**](https://github.com/supermerill/SuperSlicer/releases).    
 :point_right: [**Click here go to SuperSlicer Github Page**](https://github.com/supermerill/SuperSlicer).    
 ### ![](cura.png) [Cura](/cura/)
