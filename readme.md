@@ -14,7 +14,7 @@
 --------
 ## Slicer
 A slicer is a 3D printer software program that you can import models into — for example in .STL, .OBJ or .AMF file format. These 3D printer models form the basis of your print, they contain the edges, heights and all the information about your print. The slicing software takes 3D model file and converts it into G codes that your 3D printer can understand.      
-The following is a guide to famous slicing software and how to use these slicing software for ZONESTAR's 3D printer.
+The following are the guides how to use these famous slicing software to ZONESTAR's 3D printer.
 ### ![](PrusaSlicer.png) [PrusaSlicer](/PrusaSlicer/) :+1:  
 PrusaSlicer can be called the best slicing software for multi-color FDM 3D printers right now, and it support directly to paint color on the 3D model files and converts them into multi-color models, so it is currently our recommended slicing software.   
 :point_right: [**Click here to read the user guide, video tutorial, and download software**](./PrusaSlicer/).
@@ -26,7 +26,8 @@ SuperSlicer is a branch based on PrusaSlicer. It adds many settings on the basis
 There is no doubt that Cura is the slicing software with the most users at present. It is well maintained and frequently updated.          
 :point_right: [**Click here to read the user guide, video tutorial, and download software**](./cura/).
 ### ![](Simplify3D.png) [Simplify3D](/Simplify3D/)
-Simplify3D multi process mechanism is very characteristic, although it is not free, there are still many users. We have made some profiles for ZONESTAR 3D Printers and video tutorial on how to slice multi color 3d models for your reference.    
+Simplify3D multi process mechanism is very characteristic, although it is not free, there are still many users. 
+We have made some profiles for ZONESTAR 3D Printers and video tutorial on how to slice multi color 3d models for your reference.      
 :point_right: [**Click here to see the details**](./Simplify3D/).
 
 --------
