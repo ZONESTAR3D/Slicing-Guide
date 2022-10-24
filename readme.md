@@ -19,7 +19,7 @@ The following is a guide to famous slicing software and how to use these slicing
 PrusaSlicer can be called the best slicing software for multi-color FDM 3D printers right now, and it support directly to paint color on the 3D model files and converts them into multi-color models, so it is currently our recommended slicing software.   
 :point_right: [**Click here to read the user guide, video tutorial, and download software**](./PrusaSlicer/).
 ### ![](superslicer.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer/releases)
-SuperSlicer is a branch based on PrusaSlicer. It adds many settings, which is sometimes used to improve the printing quality. About the ueser guide, please refer to PrusaSlicer.    
+SuperSlicer is a branch based on PrusaSlicer. It adds many settings than PrusaSlicer, which is sometimes very useful to improve the printing quality. About the ueser guide of SuperSlicer, please refer to PrusaSlicer.    
 :point_right: [**Click here to download SuperSlicer software**](https://github.com/supermerill/SuperSlicer/releases).    
 :point_right: [**Click here go to SuperSlicer Github Page**](https://github.com/supermerill/SuperSlicer).    
 ### ![](cura.png) [Cura](/cura/)
