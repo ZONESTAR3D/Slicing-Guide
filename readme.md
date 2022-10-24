@@ -18,16 +18,17 @@ The following are the best slicing software, and how to use these slicing softwa
 ### ![](PrusaSlicer.png) [PrusaSlicer](/PrusaSlicer/) :+1:  
 PrusaSlicer can be called the best slicing software for multi-color FDM 3D printers right now, and it support directly to paint color on the 3D model files and converts them into multi-color models, so it is currently our recommended slicing software to our multi color 3d printers.   
 [**Click here to read the user guide, video tutorial, and download software**](./PrusaSlicer/).
-### [![](superslicer.png) SuperSlicer](https://github.com/supermerill/SuperSlicer/releases)
+### ![](superslicer.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer/releases)
 SuperSlicer is a branch based on PrusaSlicer. It adds many settings, which is sometimes used to improve the printing quality.  
 [**Click here to download SuperSlicer software**](https://github.com/supermerill/SuperSlicer/releases).    
 [**Click here go to SuperSlicer Github Page**](https://github.com/supermerill/SuperSlicer).    
-### [![](cura.png) Cura](/cura/)
+### ![](cura.png) [Cura](/cura/)
 Cura is the most widely used free open-source slicing software.    
 [**Click here to read the user guide, video tutorial, and download software**](./cura/).
-### [![](Simplify3D.png) Simplify3D](/Simplify3D/)
+### ![](Simplify3D.png) [Simplify3D](/Simplify3D/)
 Simplify3D multi process mechanism is very characteristic, although it is not free, there are still many users. We have made some profiles for ZONESTAR 3D Printers and video tutorial on how to slice multi color 3d models for your reference.
 [**Click here to see the details**](./Simplify3D/).
+
 --------
 ## 3D Printing Model Download Webesite.
 You can download the 3D model shared by others from the Internet, or share the 3D model drawn by you to the Internet.There are several most famous free 3D model download websites for your reference:
