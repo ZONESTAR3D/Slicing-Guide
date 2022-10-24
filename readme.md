@@ -18,11 +18,11 @@ The following are the guides how to use these famous slicing software to ZONESTA
 ### ![](PrusaSlicer.png) [PrusaSlicer](/PrusaSlicer/) :+1:  
 PrusaSlicer can be called the best slicing software for multi-color FDM 3D printers right now, and it support directly to paint color on the 3D model files and converts them into multi-color models, it is the recommended slicing software to our multi color 3d printers.   
 :point_right: [**Click here to read the user guide, video tutorial, and download software**](./PrusaSlicer/).
-### ![](superslicer.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer/releases)
+### ![](superslicer.png) [SuperSlicer](https://github.com/supermerill/SuperSlicer/releases) 
 SuperSlicer is a branch based on PrusaSlicer. It adds many settings on the basis of PrusaSlicer, which is sometimes very useful to improve the printing quality. About the ueser guide of SuperSlicer, please refer to PrusaSlicer.    
 :point_right: [**Click here to download SuperSlicer software**](https://github.com/supermerill/SuperSlicer/releases).    
 :point_right: [**Click here go to SuperSlicer Github Page**](https://github.com/supermerill/SuperSlicer).    
-### ![](cura.png) [Cura](/cura/)
+### ![](cura.png) [Cura](/cura/) 
 There is no doubt that Cura is the slicing software with the most users at present. It is well maintained and frequently updated.          
 :point_right: [**Click here to read the user guide, video tutorial, and download software**](./cura/).
 ### ![](Simplify3D.png) [Simplify3D](/Simplify3D/)
@@ -33,13 +33,10 @@ We have made some profiles for ZONESTAR 3D Printers and video tutorial on how to
 --------
 ## 3D Printing Model Download Webesite.
 You can download the 3D model shared by others from the Internet, or share the 3D model drawn by you to the Internet.There are several most famous free 3D model download websites for your reference:
-- [thingiverse](https://www.thingiverse.com/)  
-- [printables](https://www.printables.com/)  
-- [youmagine](https://www.youmagine.com/)   
+- [**thingiverse**](https://www.thingiverse.com/)  
+- [**printables**](https://www.printables.com/)  
+- [**youmagine**](https://www.youmagine.com/)    
 
---------
-## How to downlod files from Github page
-#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
-#### Step 2: Copy the Github file or direcotry link which you want to download.
-#### Step 3: Click download button and wait a few seconds, it will start to download automatically. 
-![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)  
+More download website, please refer to :point_right: [**here**](https://all3dp.com/1/free-stl-files-3d-printer-models-3d-print-files-stl-download/#thingiverse).
+
+
