@@ -85,10 +85,11 @@ You may need to set these parameters according to the shape of the model and you
 
 --------
 ## :warning: Attention Please :warning:
-### :exclamation:Please pay attention to distinguish the hot end type what you used is M4 (mix color hot end) hot end or E4 (Non-mix color) hot end. If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa. :exclamation:
+**Please pay attention to distinguish the hot end type what you used is M4 (mix color hot end) hot end or E4 (Non-mix color) hot end. If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa.**
 ## What's different between E4 and M4 hotend?
 If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md)
 
+--------
 ## 5. Slicing muti-color for M4 hotend  
 ##### [:book: User guide](./PrusaSlicerGuide_M4.md)
 ##### :movie_camera:[Video Tutorial](https://youtu.be/_Ww2RFGlLNA)    
