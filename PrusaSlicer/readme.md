@@ -86,7 +86,6 @@ You may need to set these parameters according to the shape of the model and you
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing1C-7.png)  
 
-
 ## 5. Slicing muti-color for M4 hotend  
 ##### [:book: User guide](./PrusaSlicerGuide_M4.md)
 ##### :movie_camera:[Video Tutorial](https://youtu.be/_Ww2RFGlLNA)    
@@ -96,3 +95,7 @@ You may need to set these parameters according to the shape of the model and you
 ##### [:book: User guide](./PrusaSlicerGuide_E4.md)
 ##### :movie_camera:[Video Tutorial](https://youtu.be/aets9JZ92iU)   
 ##### :arrow_down: [Test gcode files](./test_gcode/E4/readme.md)
+
+------
+## What's different between E4 and M4 hotend?
+If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md)

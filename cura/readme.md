@@ -54,15 +54,18 @@ Following the below steps to install cura and then import the ZONESTAR 3d printe
 - [**M4 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#m44-in-1-out-mixing-color-hotend) 4-IN-1-OUT mixing color hotend    
 - [**E4 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#e4-4-in-1-out-non-mix-color-hotend) 4-IN-1-OUT non-mixing color hotend    
 For more information of the hotend, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND).
-  
-### Slicing guide for ZONESTAR 3D Printer
+
+-----  
+### Slicing guide for Z9 3D Printer
 #### Slicing guide for Z9 with M4 hotend
 - :movie_camera: [**slicing 4 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
 - :movie_camera: [**slicing 8 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
 #### Slicing guide for Z9 with E4 hotend
 - :book: [**Slicing 4 colors 3d object (Z9 + E4 hotend)**](./E4_hotend/readme.md)
+#### What's different between E4 and M4 hotend?
+If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md)
 
-
+-----
 ### Test gcode files
 [**Example gcode and stl files.**](./test-gcode-file/readme.md)    
 :point_right: [***More examples for M4(4-IN-1-OUT mix color) hotend***](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)  
