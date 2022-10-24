@@ -12,9 +12,6 @@
 [![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 --------
-## :warning: Attention Please :warning:
-### :exclamation:Please pay attention to distinguish the hot end type what you used is M4 (mix color hot end) hot end or E4 (Non-mix color) hot end. If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa. :exclamation:
---------
 ## :book: Contents
 - [**Download and install PrusaSlicer**](#1-download-and-install-prusaslicer)
 - [**Setup printer**](#2-setup-printer)
@@ -96,6 +93,8 @@ You may need to set these parameters according to the shape of the model and you
 ##### :movie_camera:[Video Tutorial](https://youtu.be/aets9JZ92iU)   
 ##### :arrow_down: [Test gcode files](./test_gcode/E4/readme.md)
 
-------
-## What's different between E4 and M4 hotend?
+--------
+### :warning: Attention Please :warning:
+#### :exclamation:Please pay attention to distinguish the hot end type what you used is M4 (mix color hot end) hot end or E4 (Non-mix color) hot end. If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa. :exclamation:
+### What's different between E4 and M4 hotend?
 If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md)
