@@ -23,7 +23,7 @@ SuperSlicer is a branch based on PrusaSlicer. It adds many settings on the basis
 :point_right: [**Click here to download SuperSlicer software**](https://github.com/supermerill/SuperSlicer/releases).    
 :point_right: [**Click here go to SuperSlicer Github Page**](https://github.com/supermerill/SuperSlicer).    
 ### ![](cura.png) [Cura](/cura/)
-Cura is the most widely used free open-source slicing software.    
+There is no doubt that Cura is the slicing software with the most users at present. It is well maintained and frequently updated.          
 :point_right: [**Click here to read the user guide, video tutorial, and download software**](./cura/).
 ### ![](Simplify3D.png) [Simplify3D](/Simplify3D/)
 Simplify3D multi process mechanism is very characteristic, although it is not free, there are still many users. We have made some profiles for ZONESTAR 3D Printers and video tutorial on how to slice multi color 3d models for your reference.    
