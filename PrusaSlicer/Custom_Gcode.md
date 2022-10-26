@@ -1,6 +1,6 @@
 ## Description of Custom G-code 
 ### Start Gcode
-Basically, The "start G-code" can be divided into two parts. 
+The "start G-code" can be divided into two parts. 
 - The first part includes 10 commands wrote on the front. These commands are mainly to set the temperature, Home, raise the Z-axis.  
 :warning:Please note that because PrusaSlicer MUST used "relative distances for extension" when slicing multi colors, (so a M83 commands MUST be added in the start-gcode"). Therefore, in the second part commands, the length of the extrusion is not cumulative. If you want to migrate these gcodes to other slicing software. Because other slicing software uses **absolute distances for extension** by default, you need to modify these commands.
 - The second part of the code is used to print 4 lines on the left side of the machine to help confirm whether the filament has been correctly loaded.
@@ -94,7 +94,7 @@ Basically, The "start G-code" can be divided into two parts.
     ;===Pre-load filament end
 
 ### End G-code
-In addition to some commonly used commands (Homing hot end, turn off heater, fan and motors), the command to pull filament from the hot end is also added in the front.
+The End G-code include “Homing hot end”, “Turn off heater, fan and motors” etc., these commands are common for all FDM 3d printers. And a "G1 E-45 F2100" command be added at the front, as to pull out the filament from the hot end after printing finish.
 >
     G92 E0
     G1 E-45 F2100 ;pull out filament
