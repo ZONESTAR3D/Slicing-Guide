@@ -22,10 +22,14 @@
 --------
 ## 1. Download and install PrusaSlicer
 ### For Windows
-- **:arrow_down: [Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases), and unzip it to your PC or laptop, and then find and run the "PrusaSlicer.exe".**             
-- **Or :arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[import ZONESTAR 3d Printer Profiles](#import-zonestar-3d-printer-profiles).**       
-### For Macos or linux
-**:arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[import ZONESTAR 3d Printer Profiles](#import-zonestar-3d-printer-profiles).**   
+- **:arrow_down: [Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases), and unzip it to your PC or laptop, and then find and run the "PrusaSlicer.exe".**                
+**--------------- Or ---------------**
+- **:arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[import ZONESTAR 3d Printer Profiles](#import-zonestar-3d-printer-profiles).**       
+### For Macos
+**:arrow_down: [Download dmg file of PrusaSlicer2.4.2 with ZONESTAR Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2)**
+### For Linux
+**:arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[**import ZONESTAR 3d Printer Profiles**](#import-zonestar-3d-printer-profiles).**   
+
 #### Import ZONESTAR 3d Printer Profiles
 - :arrow_down: [**Download ZONESTAR 3d Printer profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles) and unzip it to your PC.
 - Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.    
