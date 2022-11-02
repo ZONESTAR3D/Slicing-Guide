@@ -19,6 +19,7 @@
 - [**Slicing one Color**](#4-slicing-one-color)
 - [**Slicing muti-color for M4 hotend**](#5-slicing-muti-color-for-m4-hotend)
 - [**Slicing muti-color for E4 hotend**](#6-slicing-muti-color-for-e4-hotend)
+
 --------
 ## 1. Download and install PrusaSlicer
 ### For Windows
@@ -86,6 +87,14 @@ You may need to set these parameters according to the shape of the model and you
 ![](pic/slicing1C-6.png)  
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing1C-7.png)  
+#### 4.8 Auto unload filament after printed (for E4 hotend)
+If you used a 4-IN-1-OUT non-mix color (E4) hotend to print one color, we suggest you add several gcode commands in "End G-code", to pull out the filament from the hotend while print is finished.
+![](pic/slicing1C-8.png)    
+>
+    ;commands for pull out the filament
+    G92 E0
+    G1 E-45 F1800
+    G92 E0
 
 --------
 ## :warning: Attention Please :warning:
