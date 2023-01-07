@@ -72,5 +72,11 @@
 :warning:The orignal stl file is one color, we painted it to multi colors by PrusaSlicer.   
 ![](Z9E4_Rabbit_Pot.jpg)
 
+### Rabbit2
+:arrow_down: [Download stl file](https://www.thingiverse.com/thing:2839926)
+:arrow_down: [Download gcode file](Z9E4_Rabbit_Pot.zip)  
+:warning:The orignal stl file is one color, we painted it to multi colors by PrusaSlicer.   
+![](Z9E4_Rabbit_Pot.jpg)
+
 
 
