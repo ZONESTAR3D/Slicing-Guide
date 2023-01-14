@@ -77,7 +77,7 @@ Choose system presets according to your printer, hotend and the colors you want 
 
 ## 4. Slicing one color
 ***Take Z9V5pro with M4 hotend as an example***
-:movie_camera:[**Video Tutorial**](https://www.youtu.be/6QU-jnycS8c)  
+:movie_camera:[**Video Tutorial**](https://youtu.be/6QU-jnycS8c)  
 #### 4.1 choose printer presets "Z9 + One Color"
 ![](pic/slicing1C-1.png)
 #### 4.2 load 3d model file (stl/obj/AMF file etc.)
