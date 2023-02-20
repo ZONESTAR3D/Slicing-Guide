@@ -1,23 +1,23 @@
 ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=es)
-[![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=de)
-[![](../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=it)
-[![](../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=el)
+[![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl)
+[![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl)
+[![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl)
+[![](../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl)
+[![](../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl)
+[![](../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl)
+[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl)
+[![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl)
+[![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=el&_x_tr_hl)
 
-[![](../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=id)
-[![](../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=th)
-[![](../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl)
+[![](../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ko&_x_tr_hl)
+[![](../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl)
+[![](../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=th&_x_tr_hl)
+[![](../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl)
+[![](../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=iw&_x_tr_hl)
+[![](../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=ar&_x_tr_hl)
+[![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl)
+[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl)
 
 --------
 ## :book: Contents
@@ -108,7 +108,7 @@ If you used a 4-IN-1-OUT non-mix color (E4) hotend to print one color, we sugges
 ## :warning: Attention Please :warning:
 **Please pay attention to distinguish the hot end type what you used is M4 (mix color hot end) hot end or E4 (Non-mix color) hot end. If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa.**
 ## What's different between E4 and M4 hotend?
-If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md)
+If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md)
 
 --------
 ## 5. Slicing muti-color for M4 hotend  
