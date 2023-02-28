@@ -37,7 +37,7 @@
 --------
 ## 1. Download and install PrusaSlicer
 ### For Windows
-- **:arrow_down: [Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases), and unzip it to your PC or laptop, and then find and run the "Prusa-slicer.exe".**                
+- **:arrow_down: [Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases), and unzip it to your PC or laptop, and then find and run the "prusa-slicer.exe".**                
 **--------------- Or ---------------**
 - **:arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[import ZONESTAR 3d Printer Profiles](#import-zonestar-3d-printer-profiles).**       
 ### For Macos
@@ -53,7 +53,7 @@ You can find the directory where store the previous configurations: ***help>>Sho
 ![0](./pic/0.png)![1](./pic/1.png)
 
 ## 2. Setup printer
-#### 2.1 Find the Prsua-slicer.exe and click it to run.
+#### 2.1 Find the prsua-slicer.exe and click it to run.
 ![](pic/run1.png)
 #### 2.2 Choose your printer, "Other Vendors>>Zonestar FFF>>your printer model>>finish".
 ![](pic/run2.png)
