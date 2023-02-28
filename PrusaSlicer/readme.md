@@ -37,7 +37,7 @@
 --------
 ## 1. Download and install PrusaSlicer
 ### For Windows
-- **:arrow_down: [Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases), and unzip it to your PC or laptop, and then find and run the "PrusaSlicer.exe".**                
+- **:arrow_down: [Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases), and unzip it to your PC or laptop, and then find and run the "Prusa-slicer.exe".**                
 **--------------- Or ---------------**
 - **:arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[import ZONESTAR 3d Printer Profiles](#import-zonestar-3d-printer-profiles).**       
 ### For Macos
@@ -53,9 +53,9 @@ You can find the directory where store the previous configurations: ***help>>Sho
 ![0](./pic/0.png)![1](./pic/1.png)
 
 ## 2. Setup printer
-#### 2.1 Find the PrsuaSlicer.exe and click it to run
+#### 2.1 Find the Prsua-slicer.exe and click it to run.
 ![](pic/run1.png)
-#### 2.2 Choose your printer, "Other Vendors>>Zonestar FFF>>your printer model>>finish"
+#### 2.2 Choose your printer, "Other Vendors>>Zonestar FFF>>your printer model>>finish".
 ![](pic/run2.png)
 
 ## 3. Set print preset
@@ -102,7 +102,7 @@ You may need to set these parameters according to the shape of the model and you
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing1C-7.png)  
 #### 4.8 Auto unload filament after printed (for E4 hotend)
-If you used a 4-IN-1-OUT non-mix color (E4) hotend to print one color, we suggest you add several gcode commands in "End G-code", to pull out the filament from the hotend while print is finished.
+If you were using the E4 hot end, we recommend that you add the following gcode commands to the "End Gcode" line. At the end of printing, let the extruder unload the filament from the hot end.
 ![](pic/slicing1C-8.png)    
 >
     ;commands for pull out the filament
@@ -112,7 +112,7 @@ If you used a 4-IN-1-OUT non-mix color (E4) hotend to print one color, we sugges
 
 --------
 ## :warning: Attention Please :warning:
-**Please pay attention to distinguish the hot end type what you used is M4 (mix color hot end) hot end or E4 (Non-mix color) hot end. If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa.**
+**Please pay attention to distinguish the hot end type what you used is M4 (mix color) hot end or E4 (Non mix color) hot end. If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa.**
 ## What's different between E4 and M4 hotend?
 If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md)
 
