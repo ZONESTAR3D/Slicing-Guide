@@ -33,24 +33,19 @@ Following the below steps to install cura and then import the ZONESTAR 3d printe
 - Download [:arrow_down: **Cura software**](https://github.com/Ultimaker/Cura/releases) and install it to your PC.
 - Download [:arrow_down: **Zonestar 3D Printer Profiles.**](./ZONESTAR_Cura_resources.zip) *:point_left:Click here and then click "download" button. the last updata on 2022-09-19.*.   
 ![](downloadzip.gif)  
-
-### For Windoas 
-#### Step:two:: Import ZONESTAR 3d printer profiles
+#### Step:two:: Import ZONESTAR 3d printer profiles - For Windows
 Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
 :pushpin: Resource files store in ***"{Cura installed directory}\share\cura\resource"***    
 ![](ImportProfiles.gif)    
-
-### For MacOS 
-#### Step:two:: Import ZONESTAR 3d printer profiles
+#### Step:two:: Import ZONESTAR 3d printer profiles - For MacOS
 Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
 :pushpin: you need to copy the files in "defintions", "extruders" and "materials" folders to the same folders, but can't copy "resuorce" folder directory.
 ![](ImportProfiles-MacOS.gif)    
-
 #### Step:three:: Choose machine and setting
 Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.    
 ![](machinelist.gif)
 
-##### :warning: If you have installed Zonestar 3D printer profiles or an older vresion Cura before, you need to delete the older "configura" before import the profiles.
+#### :warning: If you have installed Zonestar 3D printer profiles or an older vresion Cura, you need to delete the older "configura" before importing the profiles.
 ![](delete.gif)  
 
 -----  
