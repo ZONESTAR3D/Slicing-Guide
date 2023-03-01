@@ -82,11 +82,13 @@ Run cura, you can find the Zonestar printers in the list while you choose "add m
 For more information of the hotend, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND).
 
 -----  
-### Slicing guide for Z9 3D Printer
-#### Slicing guide for Z9 with M4 hotend
+### Slicing guide for Z8/Z9 3D Printer
+#### Slicing guide for Z8/Z9 with M4 hotend
+:warning: Default Z8PM4, Z9V5-MK1/Z9V5-MK2/Z9V5-MK3 equiped with a M4 hotend, please refer to the below video tutorial to slicing:
 - :movie_camera: [**slicing 4 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
 - :movie_camera: [**slicing 8 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
-#### Slicing guide for Z9 with E4 hotend
+#### Slicing guide for Z8/Z9 with E4 hotend
+:warning: Default Z9V5-MK4 equiped with a M4 hotend, please refer to the below video tutorial to slicing:
 - :book: [**Slicing 4 colors 3d object (Z9 + E4 hotend)**](./E4_hotend/readme.md)
 #### What's different between E4 and M4 hotend?
 If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md)
