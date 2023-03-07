@@ -33,7 +33,7 @@
 
 ### Read me first!
 #### :bulb: How to use a mouse in PrusaSlicer
-1. Hold down the left mouse button and drag the mouse to rotate the model display area.
+1. Hold down the left button and drag the mouse to rotate the model display area.
 2. Hold down the mouse wheel and drag the mouse to drag the model display area.
 3. Scroll the mouse wheel to zoom the model display area.
 
