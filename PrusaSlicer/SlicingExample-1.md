@@ -28,8 +28,8 @@
 -----
 ## Multi Color Slicing Examples with PrusaSlicer
 - [Convert one 3d model to multi color and slice](#example-1-convert-3d-model-to-multi-color-and-slice)
-- [Slice auto-mergeable multiple 3D model files](#example-2-combine-multiple-separate-3d-model-files-and-slice)
-- [Combine multiple separate 3D model files and slice](#example-3-slice-auto-mergeable-multiple-3d-model-files)
+- [Slice auto-mergeable multiple 3D model files](#example-2-slice-auto-mergeable-multiple-3d-model-files)
+- [Combine multiple separate 3D model files and slice](#example-3-combine-multiple-separate-3d-model-files-and-slice)
 
 ### Read me first!
 #### :bulb: How to use a mouse in PrusaSlicer
