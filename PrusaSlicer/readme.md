@@ -35,13 +35,16 @@
 - [**Slicing muti-color for E4 hotend**](#6-slicing-muti-color-for-e4-hotend)
 
 --------
-## 1. Download and install PrusaSlicer
+## 1. Download and install PrusaSlicer software
 ### For Windows
-- **:arrow_down: [Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases), and unzip it to your PC or laptop, and then find and run the "prusa-slicer.exe".**                
-**--------------- Or ---------------**
-- **:arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[import ZONESTAR 3d Printer Profiles](#import-zonestar-3d-printer-profiles).**       
-### For Macos
-**:arrow_down: [Download dmg file of PrusaSlicer2.4.2 with ZONESTAR Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2)**
+- **Click the below link to download PrusaSlicer, and unzip it to your PC or laptop, and then find the "prusa-slicer.exe" in the unziped floder and run.**   
+  - [:arrow_down:**Download PrusaSlicer V2.4.2**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2)    
+  - [:arrow_down:**Download PrusaSlicer V2.5.0**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.5.0-beta1-win64)     
+  - [:arrow_down:**Download PrusaSlicer V2.6.0**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.0-alpha4-win64)     
+**------------------------------ Or ------------------------------**     
+- **Click [here](https://github.com/prusa3d/PrusaSlicer/releases) to download the newest version PrusaSlicer from Prusa Github Page, and then refer to [:point_right: this guide](#import-zonestar-3d-printer-profiles) to import ZONESTAR 3d Printer Profiles.**       
+### For MacOS
+**:arrow_down: [Download dmg file of PrusaSlicer V2.4.2 with ZONESTAR Profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2)**
 ### For Linux
 **:arrow_down: [Download the newest version PrusaSlicer from Prusa Github Page](https://github.com/prusa3d/PrusaSlicer/releases), and then :point_right:[**import ZONESTAR 3d Printer Profiles**](#import-zonestar-3d-printer-profiles).**   
 
