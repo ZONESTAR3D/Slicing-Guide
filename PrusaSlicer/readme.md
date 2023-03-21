@@ -35,7 +35,7 @@
 
 --------
 ## 1. Download and install PrusaSlicer
-- **For Windows:**     
+- **For Windows:** :movie_camera:[**Video Tutorial**](https://youtu.be/vCv0S4L7u30)         
   - Click the below link to download PrusaSlicer, and unzip it to your PC or laptop, and then find the "prusa-slicer.exe" in the unziped floder and run.   
     - [:arrow_down:**Download PrusaSlicer V2.4.2**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2)    
     - [:arrow_down:**Download PrusaSlicer V2.5.0**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.5.0-beta1-win64)     
@@ -48,9 +48,9 @@
 :arrow_down: Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then [:point_down:**import ZONESTAR 3d Printer Profiles**](#import-zonestar-3d-printer-profiles).   
 
 ## 2. Setup printer
-#### 2.1 Find the prsua-slicer.exe and click it to run.
+- 2.1 Find the prsua-slicer.exe and click it to run.    
 ![](pic/run1.png)
-#### 2.2 Choose your printer, "Other Vendors>>Zonestar FFF>>your printer model>>finish".
+- 2.2 Choose your printer, "Other Vendors>>Zonestar FFF>>your printer model>>finish".    
 ![](pic/run2.png)
 
 ## 3. Choose printer preset
@@ -100,10 +100,9 @@ Choose printer preset according to your printer model, hotend type and colors yo
 - 3.4 Printer model: Z5S-M2/D805S-M2, choose "Z5 + M2 HOTEND"  
 - 3.5 Printer model: Z5X/Z6, , choose "Zonestar Z5X" or "Zonestar Z6"
 
-
 ## 4. Slicing one color
-***Take Z9V5pro with M4 hotend as an example***
-:movie_camera:[**Video Tutorial**](https://youtu.be/6QU-jnycS8c)  
+***Take Z9V5pro with M4 hotend as an example***  
+:movie_camera:[**Video Tutorial**](https://youtu.be/6QU-jnycS8c)        
 - 4.1 choose printer presets "Z9 + One Color"   
 ![](pic/slicing1C-1.png)
 - 4.2 load 3d model file (stl/obj/AMF file etc.)    
