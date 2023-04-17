@@ -12,7 +12,7 @@
 [![](./lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ro)
 [![](./lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ru)
 [![](./lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ja)
 [![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ko)
 [![](./lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=id)
@@ -23,9 +23,9 @@
 [![](./lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=tr)
 [![](./lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=el)
 [![](./lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ru)
+[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
---------
+-----
 ## Slicer
 A slicer is a 3D printer software program that you can import models into — for example in .STL, .OBJ or .AMF file format. These 3D printer models form the basis of your print, they contain the edges, heights and all the information about your print. The slicing software takes 3D model file and converts it into G codes that your 3D printer can understand.      
 The following are the guides how to use these famous slicing software to ZONESTAR's 3D printer.
@@ -44,7 +44,7 @@ Simplify3D multi process mechanism is very characteristic, although it is not fr
 We have made some profiles for ZONESTAR 3D Printers and video tutorial on how to slice multi color 3d models for your reference.      
 :point_right: [**Click here to see the details**](./Simplify3D/).
 
---------
+-----
 ## 3D Model Download Webesite.
 You can download the 3D model shared by others from the Internet, or share the 3D model drawn by you to the Internet.There are several most famous free 3D model download websites for your reference:
 - **[Thingiverse](https://www.thingiverse.com/)**  
