@@ -47,9 +47,9 @@ We have made some profiles for ZONESTAR 3D Printers and video tutorial on how to
 --------
 ## 3D Model Download Webesite.
 You can download the 3D model shared by others from the Internet, or share the 3D model drawn by you to the Internet.There are several most famous free 3D model download websites for your reference:
-- **[thingiverse**](https://www.thingiverse.com/)**  
-- **[printables**](https://www.printables.com/)**  
-- **[youmagine**](https://www.youmagine.com/)**    
+- **[Thingiverse](https://www.thingiverse.com/)**  
+- **[Printables](https://www.printables.com/)**  
+- **[Youmagine](https://www.youmagine.com/)**    
 More download website, please refer to :point_right: [**here**](https://all3dp.com/1/free-stl-files-3d-printer-models-3d-print-files-stl-download/#thingiverse).
 
 -----
