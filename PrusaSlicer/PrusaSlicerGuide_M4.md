@@ -12,7 +12,7 @@
 [![](../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=ro)
 [![](../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=ru)
 [![](../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=ko)
 [![](../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=id)
@@ -23,7 +23,7 @@
 [![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=tr)
 [![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=el)
 [![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
 ## :warning: Attention Please, this guide is for M4 hot end :warning:
@@ -75,13 +75,12 @@ M4 color mixing hot end can mix 2 ~ 4 actual extruders filament to produce a new
 ![](pic/slicingM4_6c_1.png)  
 :warning: We suggest to **save**<sup>1</sup> the settings to a **new profile**<sup>2</sup>.   
 
-### Step 2: Set mix rate of the new "virtual" extruder
-#### Add the mix rate set gcode commands to "Start Gcode". 
+### Step 2: Set mix rate of the new "virtual extruder"
+#### Add "Set mix rate" commands to "Start Gcode". 
 ![](pic/slicingM4_6c_2.png)  
 :warning: We suggest that these g-codes be placed at the front of the "Start G-code". 
-
-#### The added code is as follows:
 >
+    ;Set mix rate
     ;E5 = 50%E1 + 50%E2
     M163 S0 P50
     M163 S1 P50
@@ -94,18 +93,18 @@ M4 color mixing hot end can mix 2 ~ 4 actual extruders filament to produce a new
     M163 S2 P50
     M163 S3 P50
     M164 S5
-    ........... (Previous start gcode commands)
-#### :memo: About M163 and M164 Gcode commands
+
+#### :memo: Introduction to "M163" and "M164" commands
 >
     M163: Set a single mix factor for a mixing extruder, must be followed by M164 to normalize and commit them.
      S[index]   The channel (actual extruder) index to set
-     P[float]   The mix value from (0~100.0)
-     R   				Reset all mixing extruder settings to default
+     P[float]   The mix value from (0.0 ~ 100.0)
+     R   		Reset all mixing extruder settings to default
 
     M164: Normalize and commit the mix rate to a virtual extruder.
      S[index]   The virtual extruder to store
   
-    Normalize:  The sum of the ratios of all actual extruders needs to be 100, if the sum is not 100, the printer will automatically scale the ratio to meet this requirement.
+    Normalize:  Automatically scale the mixing ratio values of each extruder to meet machine requirements
 
 ### Step 3: Assign the new virtual extruders to 3D model and slicing
 Now you can assign 6 extruders to the 3D model, slicing process is exactly the same as the 4 extruders. 
