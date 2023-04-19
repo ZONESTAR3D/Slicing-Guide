@@ -24,7 +24,8 @@ The "start G-code" can be divided into two parts.
     G1 X5 Y10 F1500 ; move to prime start point
     G1 Z0.3 F3000 ; get ready to prime
     ;
-    ;part 2 for multi color printing
+    ;part 2 
+    ;For multi color printing only
     ;===Pre-load filament start
     ;M117 Preload Extruder #1
     T0
