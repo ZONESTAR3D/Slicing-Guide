@@ -7,9 +7,9 @@
 -----
 ### Start G-code
 The "start G-code" can be divided into two parts. 
-- The first part includes 10 commands wrote on the front. These commands are mainly to set the temperature, Home, raise the Z-axis.  
+- **The first part** includes 10 commands wrote on the front. These commands are mainly to set the temperature, Home, raise the Z-axis.  
 :warning:Please note that because PrusaSlicer MUST used "relative distances for extension" when slicing multi colors, (so a M83 commands MUST be added in the start-gcode"). Therefore, in the second part commands, the length of the extrusion is not cumulative. If you want to migrate these gcodes to other slicing software. Because other slicing software uses **absolute distances for extension** by default, you need to modify these commands.
-- The second part of the code is used to print 4 lines on the left side of the machine to help confirm whether the filament has been correctly loaded.:warning: The 2nd part of the code is used for multi color printing only.     
+- **The second part** is used to print 4 lines on the left side of the hot bed, to help confirm whether the filament has been correctly loaded to the hot end.:warning: The 2nd part are used for multi color printing only.     
 >
     ;part 1
     M104 S[first_layer_temperature] ; set extruder temp
