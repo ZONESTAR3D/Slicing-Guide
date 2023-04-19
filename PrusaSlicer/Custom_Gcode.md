@@ -1,8 +1,8 @@
 ## Description of Custom G-code 
 ### Contents
-- [**Start G-code"](#start-g-code)
-- [**End G-code"](#end-g-code)
-- [**Switch Extruder G-code"](#tool-change-g-code)
+- [**Start G-code**](#start-g-code)
+- [**End G-code**](#end-g-code)
+- [**Switch Extruder G-code**](#tool-change-g-code)
 
 -----
 ### Start G-code
