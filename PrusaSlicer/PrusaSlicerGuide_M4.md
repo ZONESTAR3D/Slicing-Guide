@@ -26,15 +26,15 @@
 [![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_M4.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
-## :warning: Attention Please, this guide is for M4 hot end :warning:
+## :warning: ATTENTION PLEASE:warning:
 ### **Please pay attention to distinguish the hot end type: M4 hot end or E4 hot end**. 
-If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa. For default, Z9M4, Z8PM4 and Z9V5-MK1/MK2/MK3 equiped with a M4 hotend, Z9V5-MK4 equiped with a E4 hotend. You can apply the same slice settings and the gcode file to all version of M4 hot end.
-- **M4 hot end:** 4-IN-1-OUT **mix color** hot end.    
-- **E4 hot end:** 4-IN-1-OUT **non-mix color** hot end.    
+Please pay attention to distinguish the hot end type what you used is **mix color (M4)** hot end or **non mix color(E4)** hot end. 
+<u>**If you print a gcode file sliced on M4 hot end with an E4 hot end, it may block the hot end, vice versa.**</u>     
+If you don't know what's different between E4 and M4 hotend, please refder to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md).  
 
 -----
 ## Slicing muti-color for M4 hotend 
-***Take Z9V5Pro with M4 hotend as an example***
+***Take Z9V5Pro-MK3 as an example***
 :movie_camera:[**Video Tutorial**](https://youtu.be/_Ww2RFGlLNA)
 ### Step 1: choose printer presets "Z9 + M4 hotend"
 ![](pic/slicingM4-1.png)
@@ -112,10 +112,9 @@ Now you can assign 6 extruders to the 3D model, slicing process is exactly the s
 ![](pic/slicingM4_6c_3.png)   
 
 -----
-## M4 hotend user guide
-[:book: User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)
+## Appendix
+### [:book: M4 hotend use guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)
+### [:book: Mixing color feature use guide](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color)
+### [:arrow_down:Test gcode files for M4 hot end](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4/readme.md)
 
---------
-## Testing gcode files for M4 (4-IN-1-OUT mixing color) hotend
-We have uploaded some testing gcode files, you can download and print them to test.   
-:point_right: Click [**here**](./test_gcode/M4/readme.md) to download.
+

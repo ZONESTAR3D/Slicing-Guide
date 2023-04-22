@@ -26,15 +26,15 @@
 [![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/PrusaSlicerGuide_E4.md?_x_tr_sl=en&_x_tr_tl=ru)
 
 -----
-## :warning: Attention Please, this guide is for E4 hot end :warning:
+## :warning: ATTENTION PLEASE:warning:
 ### **Please pay attention to distinguish the hot end type: M4 hot end or E4 hot end**. 
-If your printer has a M4 hot end, but you used a gcode file sliced by M4 hot end, it may cause block the hot end, vice versa. For default, Z9V5-MK4 equiped with a E4 hotend.
-- **M4 hot end:** 4-IN-1-OUT **mix color** hot end.   
-- **E4 hot end:** 4-IN-1-OUT **non-mix color** hot end.    
+Please pay attention to distinguish the hot end type what you used is **mix color (M4)** hot end or **non mix color(E4)** hot end. 
+<u>**If you print a gcode file sliced on M4 hot end with an E4 hot end, it may block the hot end, vice versa.**</u>     
+If you don't know what's different between E4 and M4 hotend, please refder to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md). 
 
 -----
 ## Slicing muti-color for E4 hotend
-***Take Z9V5Pro with E4 hotend as an example***
+***Take Z9V5Pro-MK4 as an example***
 :movie_camera:[**Video Tutorial**](https://youtu.be/aets9JZ92iU)
 ### Step 1 choose printer presets "Z9 + E4 hotend"
 ![](pic/slicingE4-1.png)
@@ -74,16 +74,12 @@ In order to obtain better cleaning effect and minimize to waste filament, we can
 
 
 -----
-### Description of Custom G-code 
+## Appendix
+### Introduction of Customize G-code
 If you have correctly installed the Profiles file of the ZONESTAR 3d printer, you will see that we have added some gcode codes in ***"Printer Setting>>Custom G-code"***.  
 For details about the "Custom G-code", please refer to [:book: **Description of Custom Gcode**](./Custom_Gcode.md)
 ![](./pic/Custom_Gcode.jpg)
-
------
-### E4 hotend user guide
-[:book: User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)
-
------       
-### Testing gcode files for E4 (4-IN-1-OUT Non-mixing color) hotend
-We have uploaded some testing gcode files, you can download and print them to test.   
-:point_right: Click [**here**](./test_gcode/E4/readme.md) to download.
+### [:book: E4 hot end use guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)
+### [:arrow_down:Test gcode files for E4 hot end](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/E4/readme.md)
+ 
+  

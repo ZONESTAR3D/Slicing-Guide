@@ -93,5 +93,3 @@ This example shows how to slice auto-mergeable multiple 3D model files which hav
 ### Example 3: Combine multiple separate 3D model files and slice 
 This example shows how to combine multiple 3D model files - which haven't set the same origin when drawing - toghter and slicing it.      
 :white_medium_square: TODO
-
-
