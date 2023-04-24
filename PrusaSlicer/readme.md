@@ -35,8 +35,8 @@ Please pay attention to distinguish the hot end type what you used is **mix colo
 <u>**If you print a gcode file sliced on M4 hot end with an E4 hot end, it may block the hot end, vice versa.**</u>     
 If you don't know what's different between E4 and M4 hotend, please refder to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md).
 
-- **:book: [Multi color slicing guide for mix color hot end][slicing_M4]**
-- **:book: [Multi color slicing guide for non-mix color hot end][slicing_E4]**
+- **:book: [Slicing guide - Multi color : For 4-IN-1-OUT MIX COLOR HOTEND][slicing_M4]**
+- **:book: [Slicing guide - Multi color : For 4-IN-1-OUT NON-MIX COLOR HOTEND][slicing_E4]**
 
 -----
 [install]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Install.md
