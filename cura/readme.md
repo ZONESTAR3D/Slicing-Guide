@@ -28,16 +28,12 @@
 -----
 ### :warning: On what operating systems is Ultimaker Cura available? please refre to [this link](https://support.makerbot.com/s/article/1667337917781)
 
-<!-- ### ZONESTAR 3d printer profiles for Cura
-:green_book: [**What is resources files**](https://github.com/Ultimaker/Cura/wiki/Definition-Files-Explained)     
-:green_book: [**Cura user guide**](https://support.ultimaker.com/hc/en-us/categories/360002327600-Software)   -->
-
 -----
 ### How to install Cura and import ZONESTAR 3d printer profiles
 #### Step:one:: Install Cura and download ZONESTAR 3d printer profiles
 Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
 - Download [:arrow_down: **Cura software**](https://github.com/Ultimaker/Cura/releases) and install it to your PC.
-- Download [:arrow_down: **Zonestar 3D Printer Profiles.**](./ZONESTAR_Cura_resources.zip) *:point_left:Click here and then click "download" button. the last updata on 2022-09-19.*.   
+- Download [:arrow_down: **Zonestar 3D Printer Profiles.**](./ZONESTAR_Cura_Resources.zip) *:point_left:Click here and then click "download" button. the last updata on 2022-09-19.*.   
 ![](downloadzip.gif)  
 #### Step:two:: Import ZONESTAR 3d printer profiles - For Windows
 Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
@@ -55,30 +51,38 @@ Run cura, you can find the Zonestar printers in the list while you choose "add m
 ![](delete.gif)  
 
 -----  
-### You need to choose different printer model on Cura when you slicing one color or multi-colors 3d models, please refer to the below table:
-|   Printer model  |Orignal Hotend Type| Print one color | Print multi colors |  
-|------------------|-------------------|-----------------|--------------------|
-|      Z6          |    one color      |       Z6        |        NA          | 
-|      Z5X         |    one color      |       Z5X       |        NA          | 
-|      Z5XM2       |    M2 hotend      |       Z5X       | Z10 with M2 hotend | 
-|    Z8X/Z10S      |    one color      |  Z8 one color   |        NA          |
-|    Z8XM2/Z10M2   |    M2 hotend      |  Z8 one color   | Z10 with M2 hotend |
-|      Z8S         |    M3 hotend      |  Z8 one color   | Z10 with M2 hotend |
-|      Z8T         |    M3 hotend      |  Z8 one color   | Z8 with M3 hotend  |
-|      Z8PM3       |    M3 hotend      |  Z8 one color   | Z8 with M3 hotend  |
-|      Z8PM4       |    M4 hotend      |  Z8 one color   | Z8 with M4 hotend  |
-|      Z9M2        |    M2 hotend      |  Z9 one color   | Z9 with M2 hotend  |
-|      Z9M3        |    M3 hotend      |  Z9 one color   | Z9 with M3 hotend  |
-|      Z9M4        |    M4 hotend      |  Z9 one color   | Z9 with M4 hotend  |
-|      Z9E4        |    E4 hotend      |  Z9 one color   | Z9 with E4 hotend  | 
-| Z9V5-MK1/MK2/MK3 |    M4 hotend      |  Z9 one color   | Z9 with M4 hotend  | 
-|   Z9V5-MK4       |    E4 hotend      |  Z9 one color   | Z9 with E4 hotend  | 
-
+### You need to choose different printer model on Cura when you slicing one color or multi colors 3d models, please refer to the below table:
+|   Printer model                        |Printing Colors | Choose printer in Cura |
+|----------------------------------------|----------------|------------------------|
+| P802 Series<sup>(1)</sup>              | 1~2 color      | ZONESTAR P802QR2       |
+| Z6                                     | 1 color        | ZONESTAR Z6            |
+| Z5M2/M8R2                              | 1~2 color      | Z5 wiht M2 Hotend      |
+| Z5M2/M8R2                              | 3~8 color      | Z5M2 mixed multi color |
+| Z5X                                    | 1 color        | ZONESTAR Z5X           |
+| Z5XM2/Z8XM2/Z8SM2/Z10M2                | 1~2 color      | Z10 wiht M2 Hotend     |
+| Z5XM2/Z8XM2/Z8SM2/Z10M2                | 3~8 color      | Z10M2 mixed multi color|
+| Z8SM3/Z8T/Z8PM3                        | 1~3 color      | Z8 wiht M3 Hotend      |
+| Z8SM3/Z8T/Z8PM3                        | 4~8 color      | Z8M3 mixed multi color |
+| Z8PM4/Z8PM4Pro                         | 1~4 color      | Z8 wiht M4 Hotend      |
+| Z8PM4/Z8PM4Pro                         | 5~8 color      | Z8M4 mixed multi color |
+| Z8E4<sup>(2)</sup>                     | 1~4 color      | Z8 with E4 Hotend      |
+| Z9M2                                   | 1~2 color      | Z9 wiht M2 Hotend      |
+| Z9M2                                   | 3~8 color      | Z9M2 mixed multi color |
+| Z9M3                                   | 1~3 color      | Z9 wiht M3 Hotend      |
+| Z9M3                                   | 4~8 color      | Z9M3 mixed multi color |
+| Z9M4/Z9V5 with M4 hotend<sup>(3)</sup> | 1~4 color      | Z9 wiht M4 Hotend      |
+| Z9M4/Z9V5 with M4 hotend<sup>(3)</sup> | 5~8 color      | Z9M4 mixed multi color |
+| Z9/Z9V5 with E4 hotend<sup>(4)</sup>   | 1~4 color      | Z9 wiht E4 Hotend      |
+#### Note 
+1. P802 series included these models: P802C/P802M/P802N/P802NR2/P802Q/P802QS/P802QR2
+2. Z8E4 means Z8PM4 Upgraded a E4 hot end
+3. If the printer mode is Z9M4 or Z9V5 and it used a M4 hotend.
+4. If the printer mode is Z9M4 or Z9V5 and it used a E4 hotend.
 #### About hotend type
-- [**M2 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#m2-2-in-1-out--mixing-color-hotend) 2-IN-1-OUT mixing color hotend    
-- [**M3 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#m2-2-in-1-out--mixing-color-hotend) 3-IN-1-OUT mixing color hotend    
-- [**M4 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#m44-in-1-out-mixing-color-hotend) 4-IN-1-OUT mixing color hotend    
-- [**E4 hotend:**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#e4-4-in-1-out-non-mix-color-hotend) 4-IN-1-OUT non-mixing color hotend    
+- **M2 hotend: 2-IN-1-OUT mix color hotend**    
+- **M3 hotend: 3-IN-1-OUT mix color hotend**    
+- **M4 hotend: 4-IN-1-OUT mix color hotend**    
+- **E4 hotend: 4-IN-1-OUT non-mix color hotend**    
 For more information of the hotend, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND).
 
 -----  
