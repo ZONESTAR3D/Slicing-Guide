@@ -45,7 +45,7 @@
 
 ### BatMan
 :arrow_down: [Download stl file](https://www.thingiverse.com/thing:2966962)
-:arrow_down: [Download gcode file](Z9E4_BatMan.zip)  
+:arrow_down: [Download gcode file](./Z9E4_Batman.zip)  
 ![](Z9E4_Batman.jpg)
 
 ### Kitten
@@ -55,7 +55,7 @@
 
 ### Frog
 :arrow_down: [Download stl file](https://www.thingiverse.com/thing:2429838)
-:arrow_down: [Download gcode file](Z9E4_frog.zip)  
+:arrow_down: [Download gcode file](./Z9E4_frog.zip)  
 ![](Z9E4_frog.jpg)
 
 -----
@@ -72,11 +72,6 @@
 :warning:The orignal stl file is one color, we painted it to multi colors by PrusaSlicer.   
 ![](Z9E4_Rabbit_Pot.jpg)
 
-### Rabbit2
-:arrow_down: [Download stl file](https://www.thingiverse.com/thing:2839926)
-:arrow_down: [Download gcode file](Z9E4_Rabbit_Pot.zip)  
-:warning:The orignal stl file is one color, we painted it to multi colors by PrusaSlicer.   
-![](Z9E4_Rabbit_Pot.jpg)
 
 
 
