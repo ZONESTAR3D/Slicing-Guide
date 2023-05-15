@@ -114,4 +114,4 @@ Choose printer preset according to your printer model, hotend type and colors yo
 
 -----
 [PrusaSlicer2.4.2]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2
-[PrusaSlicer2.6.0]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2
+[PrusaSlicer2.6.0]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.0-alpha4-win64
