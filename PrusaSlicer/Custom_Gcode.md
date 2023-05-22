@@ -147,7 +147,8 @@ The End G-code include “Homing hot end”, “Turn off heater, fan and motors�
 ### Tool change G-code
 Tool change also be called "switch extruder", which are some commands executed when switching extruder from one to another.    
 For E4 hot end, when switching the extruder, we need to pull the last color filament from the hot end, and then push the next color filament into the hot end.    
-The first three commands pull the filament from the hot end; Then a Tx command is to switch to the new extruder; The rest of commands are to push the next color filament into the hot end.  
+The first three commands pull the filament from the hot end; Then a T[next_extruder] command is to switch to the new extruder; The rest of commands are to push the next color filament into the hot end.  
+:pushpin:Note:You must have noticed code **T[next_extruder]**. PrusaSlicer allows to use  variables in the "Custom G-code", the names of these variables are specified. Variables must be included in a '[]'. "next_extruder "is a variable means the NO. of the next extruder to switch to during the printing process. The slicing software will concretize it as one of "T0","T1", "T2", or "T3" in the generated gcode file.        
 You can appropriately increase or decrease the pull in length according to the type of filaments. In short, the longer the length is, the more time it takes to print, but the probability of hot end blockage will be reduced.
 #### 1. Default "Tool change G-code"
 The default **"Tool change G-code"** uses a 100mm pull-push length, it is applicable to most typs of filaments, especially those filaments added a lot of "tougheners" when produce, e.g. SILK-PLA. 
