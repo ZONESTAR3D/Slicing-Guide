@@ -1,15 +1,43 @@
+### :globe_with_meridians: Choose Language (Translated by google)
+[![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=es)
+[![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=de)
+[![](../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=it)
+[![](../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=sv)
+[![](../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=da)
+[![](../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=cs)
+[![](../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=hr)
+[![](../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=ro)
+[![](../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=sk)
+
+[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=id)
+[![](../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=th)
+[![](../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=vi)
+[![](../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=iw)
+[![](../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=tr)
+[![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=el)
+[![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Custom_Gcode.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+
+-----
 ## Description of Custom G-code 
 ### Contents
 - [**Start G-code**](#start-g-code)
 - [**End G-code**](#end-g-code)
-- [**Switch Extruder G-code**](#tool-change-g-code)
+- [**Tool Change (Switch Extruder) G-code**](#tool-change-g-code)
 
 -----
 ### Start G-code
-The "start G-code" can be divided into two parts. 
-- **The first part** includes 10 commands wrote on the front. These commands are mainly to set the temperature, Home, raise the Z-axis.  
+The "start G-code" include two parts, 
+- **The first part** includes 10 commands, these commands are mainly to set the temperature, Home, raise the Z-axis.  
 :warning:Please note that because PrusaSlicer MUST used "relative distances for extension" when slicing multi colors, (so a M83 commands MUST be added in the start-gcode"). Therefore, in the second part commands, the length of the extrusion is not cumulative. If you want to migrate these gcodes to other slicing software. Because other slicing software uses **absolute distances for extension** by default, you need to modify these commands.
-- **The second part** is used to print 4 lines on the left side of the hot bed, to help confirm whether the filament has been correctly loaded to the hot end.:warning: The 2nd part are used for multi color printing only.     
+- **The second part** is used to print 4 lines on the left side of the hot bed, to help confirm whether filaments has been correctly loaded to the hot end.:warning: The 2nd part are used for multi color printing only.     
 >
     ;part 1
     M104 S[first_layer_temperature] ; set extruder temp
@@ -103,6 +131,7 @@ The "start G-code" can be divided into two parts.
     ;M300 S4000 P200
     ;===Pre-load filament end
 
+-----
 ### End G-code
 The End G-code include “Homing hot end”, “Turn off heater, fan and motors” etc., these commands are common for all FDM 3d printers. And a "G1 E-45 F2100" command be added at the front to pull out the filament from the hot end after printing is finished.
 >
@@ -114,6 +143,7 @@ The End G-code include “Homing hot end”, “Turn off heater, fan and motors�
     M140 S0 ; turn off bed
     M84     ; disable motors
 
+-----
 ### Tool change G-code
 Tool change also be called "switch extruder", which are some commands executed when switching extruder from one to another.    
 For E4 hot end, when switching the extruder, we need to pull the last color filament from the hot end, and then push the next color filament into the hot end.    
