@@ -30,7 +30,9 @@
 ### :small_blue_diamond:For Windows: 
   - :movie_camera:[**Video Tutorial**](https://youtu.be/vCv0S4L7u30)         
   - Download PrusaSlicer from the below link and unzip to your PC.     
-  [:arrow_down:**Download PrusaSlicer V2.4.2**][PrusaSlicer2.4.2] [:arrow_down:**Download PrusaSlicer V2.6.0**][PrusaSlicer2.6.0]       
+    - [:new::arrow_down:**Download PrusaSlicer V2.6.0-beta3**][PrusaSlicer2.6.0-beta3]              
+    - [:arrow_down:**Download PrusaSlicer V2.6.0-alpha4**][PrusaSlicer2.6.0-alpha4]              
+    - [:arrow_down:**Download PrusaSlicer V2.4.2**][PrusaSlicer2.4.2]              
   <!-- - You can Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then [:point_down:**import newest ZONESTAR 3d Printer Profiles**](#import-zonestar-3d-printer-profiles). -->
 ### :small_blue_diamond:For MacOS:  
 :arrow_down: Download [**PrusaSlicer with ZONESTAR Profiles dmg file**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2) and then install to your PC.
@@ -41,7 +43,7 @@
 - :arrow_down: [**Download ZONESTAR 3d Printer profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles) and unzip it to your PC.
 - Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.    
 :warning:You may need to delete previous configurations settings, otherwise the newer profiles can't be applied proper:warning:      
-You can find the directory where store the previous configurations: ***help>>Show Configuration Floder***, for Windows OS, it is usually stored in ***"C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer"***. Delete all of these files in this directory, and then open PrusaSlicer software again.    
+You can find the directory where store the previous configurations: ***help>>Show Configuration Floder***, for Windows OS, it is usually stored in ***"C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer[-alpha/beta]"***. Delete all of these files in this directory, and then open PrusaSlicer software again.    
 ![0](./pic/0.png)![1](./pic/1.png)
 
 -----
@@ -114,4 +116,5 @@ Choose printer preset according to your printer model, hotend type and colors yo
 
 -----
 [PrusaSlicer2.4.2]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2
-[PrusaSlicer2.6.0]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.0-alpha4-win64
+[PrusaSlicer2.6.0-alpha4]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.0-alpha4-win64
+[PrusaSlicer2.6.0-beta3]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.0-beta3-win64
