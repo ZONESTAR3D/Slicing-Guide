@@ -49,7 +49,9 @@ If you don't know what's different between E4 and M4 hotend, please refder to [h
 ### Step 5: Resize, cut, rotate, move the 3d model if need 
 ![](pic/slicing_adjust.png)  
 ### Step 6: Set the print settings 
-##### :warning: Attention:*Retraction length* should be less than 10mm and *Retraction when tool is disabled* should be set to 0.:warning:  
+Please distinguish between 2 types of ***"Retraction"***:    
+1. The usual ***"Retraction"*** refers to when printing fine threads of the same color, when the printer moves from one point to another, the fine threads are pulled back a little distance to reduce the outflow of the fine thread nozzle. :warning: *Retraction length* should be less than 10mm for E4 Hot end.     
+2. ***"Retraction when tool is disabled"*** refers to the process of pulling the fine wire out of the hot end when the printer switches from one fine wire to another. :warning: ***"Retraction when tool is disabled"*** should be set to 0 because we added "customize G-codes" in the "Tool Change Gcode" to more effectively handle the process of switching filaments. For more detail, please refer to [tool-change-gcode](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/Custom_Gcode.md#tool-change-g-code).
 ![](pic/slicingE4-4.jpg) 
 
 #### Set layer height, print speed, support, infill, etc.  
