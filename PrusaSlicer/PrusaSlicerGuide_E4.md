@@ -49,7 +49,7 @@ If you don't know what's different between E4 and M4 hotend, please refder to [h
 ### Step 5: Resize, cut, rotate, move the 3d model if need 
 ![](pic/slicing_adjust.png)  
 ### Step 6: Set the print settings 
-##### :warning: Attention:*"Retraction length"* should not be greater than 10mm and *"Retraction when tool is disabled"* should be set to 0.:warning:  
+##### :warning: Attention:*Retraction length* should be less than 10mm and *Retraction when tool is disabled* should be set to 0.:warning:  
 ![](pic/slicingE4-4.jpg) 
 
 #### Set layer height, print speed, support, infill, etc.  
@@ -58,7 +58,7 @@ You need to set these parameters according to the shape of the model and your re
 - :point_right: [**PrusaSlicer introduction**](https://help.prusa3d.com/article/general-info_1910)
 - :point_right: [**Slic3r User Manuual**](https://manual.slic3r.org/)    
 
-### Step 7: Set parameters for "wipe tower"
+### Step 7: Set parameters for *wipe tower*
 You may notice that a square will appear in the sliced figure, which is called "Wipe tower" in PrusaSlicer. Because for the multi-color printer, while switching extruders, there are still the previous color filaments inside the hotend, it need to be clean before printing another color.   
 ![](pic/wipe_tower.png)    
 In order to obtain better cleaning effect and minimize to waste filament, we can set the purging volume according to different colors. Please see the following table, the columns shows the previous extruder and the rows shows the next extruder to be printed. When we change from the extruder with lighter color filament to the extruder with darker color filaments, we can set a smaller "purging volume". On the contrary, when we change from the extruder with darker color filaments to the extruder with darker color filament, we need to set a bigger "purging volume".  
