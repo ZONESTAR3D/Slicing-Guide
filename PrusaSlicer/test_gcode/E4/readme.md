@@ -72,6 +72,22 @@
 :warning:The orignal stl file is one color, we painted it to multi colors by PrusaSlicer.   
 ![](Z9E4_Rabbit_Pot.jpg)
 
+### love
+:arrow_down: [Download stl file](https://www.thingiverse.com/thing:6021792)
+:arrow_down: [Download gcode file](Z9E4_C4_love.zip)  
+:warning:The orignal stl file is one color, we painted it to multi colors by PrusaSlicer.   
+![](Z9E4_C4_love.jpg)
+
+### Flexi Turtle
+:arrow_down: [Download stl file](https://www.thingiverse.com/thing:4963928)
+:arrow_down: [Download gcode file](Z9E4_C4_flexi turtle.zip)  
+:warning:The orignal stl file is one color, we painted it to multi colors by PrusaSlicer.   
+![](Z9E4_C4_flexi turtle.jpg)
+
+
+
+
+
 
 
 
