@@ -28,5 +28,5 @@
 ![](7_11.jpg)
 #### M4_C4_astronaut.gcode 
 - **[:clapper: Video tutorial](https://youtu.be/UF3nUM7WgFQ)**      
-- **:arrow_down: [Download gcode/stl files](M4_C4_astronaut.zip)**    
+- **:arrow_down: [Download gcode/stl files](M4_C4_Astronaut.zip)**    
 ![](M4_C4_astronaut.jpg)
