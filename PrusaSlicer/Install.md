@@ -30,9 +30,10 @@
 ### :small_blue_diamond:For Windows: 
   - :movie_camera:[**Video Tutorial**](https://youtu.be/vCv0S4L7u30)         
   - Download PrusaSlicer from the below link and unzip to your PC.     
-    - [:new::arrow_down:**Download PrusaSlicer V2.6.0-beta3**][PrusaSlicer2.6.0-beta3]              
-    - [:arrow_down:**Download PrusaSlicer V2.6.0-alpha4**][PrusaSlicer2.6.0-alpha4]              
-    - [:arrow_down:**Download PrusaSlicer V2.4.2**][PrusaSlicer2.4.2]              
+    - [:new: :arrow_down:**Download PrusaSlicerV2.6.1-rc2**][PrusaSlicer2.6.1-rc2] (pre-release version)              
+    - [:arrow_down:**Download PrusaSlicerV2.6.0-beta3**][PrusaSlicer2.6.0-beta3] (beta version)             
+    <!-- - [:arrow_down:**Download PrusaSlicerV2.6.0-alpha4**][PrusaSlicer2.6.0-alpha4]               -->
+    - [:arrow_down:**Download PrusaSlicerV2.4.2**][PrusaSlicer2.4.2] (release version)              
   <!-- - You can Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then [:point_down:**import newest ZONESTAR 3d Printer Profiles**](#import-zonestar-3d-printer-profiles). -->
 ### :small_blue_diamond:For MacOS:  
 :arrow_down: Download [**PrusaSlicer with ZONESTAR Profiles dmg file**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2) and then install to your PC.
@@ -118,3 +119,4 @@ Choose printer preset according to your printer model, hotend type and colors yo
 [PrusaSlicer2.4.2]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2
 [PrusaSlicer2.6.0-alpha4]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.0-alpha4-win64
 [PrusaSlicer2.6.0-beta3]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.0-beta3-win64
+[PrusaSlicer2.6.1-rc2]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.1
