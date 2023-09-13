@@ -31,8 +31,8 @@
 Please refer to [:point_right:**this page**][install] to download and install PrusaSlicer software.
 ### 2. Slicing guide
 - **:book: [Slicing guide for singel color printing][slicing_1c]**    
-- **:book: [Slicing guide for 4-IN-1-OUT mixing color hotend][slicing_M4]**      
-- **:book: [Slicing guide for 4-IN-1-OUT mixing color hotend][slicing_E4]**     
+- **:book: [Slicing guide for 4-IN-1-OUT mixing color (M4) hotend][slicing_M4]**      
+- **:book: [Slicing guide for 4-IN-1-OUT Non-mixing color (E4) hotend][slicing_E4]**     
 **:warning: ATTENTION PLEASE :warning:**     
 Please pay attention to distinguish the hot end type what you used is **mix color (M4)** hot end or **non mix color(E4)** hot end. 
 <u>**If you print a gcode file sliced on M4 hot end with an E4 hot end, it may block the hot end, vice versa.**</u>     
