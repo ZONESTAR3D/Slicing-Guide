@@ -38,7 +38,7 @@ Please refer to [:point_right:**this page**][install] to download and install Pr
 - **:book: [Slicing guide for singel color printing][slicing_1c]**    
 - **:book: [Slicing guide for M4 (4-IN-1-OUT mixing color) hotend][slicing_M4]**      
 - **:book: [Slicing guide for E4 (4-IN-1-OUT Non-mixing color) hotend][slicing_E4]**     
-### 3. Slicing sample gcode file
+### 3. Test(Sample) gcode and stl files
 - **[For M4 (4-IN-1-OUT mixing color) hotend](./test_gcode/M4/readme.md)**      
 - **[For E4 (4-IN-1-OUT Non-mixing color) hotend](./test_gcode/E4/readme.md)**     
 
