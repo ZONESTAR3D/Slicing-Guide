@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guid?_x_tr_sl=en&_x_tr_tl=es)
 [![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guid?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=fr)
@@ -23,28 +23,28 @@
 [![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=tr)
 [![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=el)
 [![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
 -----
 ## Download and install PrusaSlicer
 ### :small_blue_diamond:For Windows: 
   - :movie_camera:[**Video Tutorial**](https://youtu.be/vCv0S4L7u30)         
   - Download PrusaSlicer from the below link and unzip to your PC.     
+    - [:+1::arrow_down:**Download PrusaSlicerV2.4.2**][PrusaSlicer2.4.2] (release version)                
     - [:new: :arrow_down:**Download PrusaSlicerV2.6.1-rc2**][PrusaSlicer2.6.1-rc2] (pre-release version)              
-    - [:arrow_down:**Download PrusaSlicerV2.6.0-beta3**][PrusaSlicer2.6.0-beta3] (beta version)             
+    <!-- - [:arrow_down:**Download PrusaSlicerV2.6.0-beta3**][PrusaSlicer2.6.0-beta3] (beta version)              -->
     <!-- - [:arrow_down:**Download PrusaSlicerV2.6.0-alpha4**][PrusaSlicer2.6.0-alpha4]               -->
-    - [:arrow_down:**Download PrusaSlicerV2.4.2**][PrusaSlicer2.4.2] (release version)              
   <!-- - You can Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then [:point_down:**import newest ZONESTAR 3d Printer Profiles**](#import-zonestar-3d-printer-profiles). -->
 ### :small_blue_diamond:For MacOS:  
 :arrow_down: Download [**PrusaSlicer with ZONESTAR Profiles dmg file**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2) and then install to your PC.
 ### :small_blue_diamond:For Linux:
-:arrow_down: Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then [:point_down:**import newest ZONESTAR 3d Printer Profiles**](#import-zonestar-3d-printer-profiles).  
+:arrow_down: Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then import newest ZONESTAR 3d Printer Profiles.  
 
 #### Import ZONESTAR 3D Printer Profiles
-- :arrow_down: [**Download ZONESTAR 3d Printer profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles) and unzip it to your PC.
+- [**:arrow_down:Download ZONESTAR 3d Printer profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles) and unzip it to your PC.
 - Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.    
 :warning:You may need to delete previous configurations settings, otherwise the newer profiles can't be applied proper:warning:      
-You can find the directory where store the previous configurations: ***help>>Show Configuration Floder***, for Windows OS, it is usually stored in ***"C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer[-alpha/beta]"***. Delete all of these files in this directory, and then open PrusaSlicer software again.    
+You can find the directory where store the previous configurations: ***help>>Show Configuration Floder***, for Windows, it is usually stored in ***"C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer[-alpha/beta]"***. Delete all of these files in this directory, and then open PrusaSlicer software again.    
 ![0](./pic/0.png)![1](./pic/1.png)
 
 -----
