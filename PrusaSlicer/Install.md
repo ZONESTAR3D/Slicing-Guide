@@ -41,7 +41,7 @@
 :arrow_down: Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then import newest ZONESTAR 3d Printer Profiles.  
 
 #### Import ZONESTAR 3D Printer Profiles
-- [**:arrow_down:Download ZONESTAR 3d Printer profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles) and unzip it to your PC.
+- [**:arrow_down:Download ZONESTAR 3d Printer profiles**](./Profiles.zip) and unzip it to your PC.
 - Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.    
 :warning:You may need to delete previous configurations settings, otherwise the newer profiles can't be applied proper:warning:      
 You can find the directory where store the previous configurations: ***help>>Show Configuration Floder***, for Windows, it is usually stored in ***"C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer[-alpha/beta]"***. Delete all of these files in this directory, and then open PrusaSlicer software again.    
