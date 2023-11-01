@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guid?_x_tr_sl=en&_x_tr_tl=es)
 [![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guid?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=fr)
@@ -25,7 +25,7 @@
 [![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
------
+----- -->
 ## Multi Color Slicing Examples with PrusaSlicer
 - [Convert one 3d model to multi color and slice](#example-1-convert-3d-model-to-multi-color-and-slice)
 - [Slice auto-mergeable multiple 3D model files](#example-2-slice-auto-mergeable-multiple-3d-model-files)

@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guid?_x_tr_sl=en&_x_tr_tl=es)
 [![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guid?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=fr)
@@ -23,7 +23,7 @@
 [![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=tr)
 [![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=el)
 [![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
 ## [Profiles](./Profiles/)
 Click the below link to download the fff files for your 3d printer and import to Simplify3d software.

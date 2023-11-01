@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](./lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=es)
 [![](./lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](./lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=fr)
@@ -25,7 +25,7 @@
 [![](./lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
------
+----- -->
 ## Slicer
 A slicer is a 3D printer software program that you can import models into — for example in .STL, .OBJ or .AMF file format. These 3D printer models form the basis of your print, they contain the edges, heights and all the information about your print. The slicing software takes 3D model file and converts it into G codes that your 3D printer can understand.      
 The following are the guides how to use these famous slicing software to ZONESTAR's 3D printer.
