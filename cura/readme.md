@@ -54,10 +54,11 @@ Run cura, you can find the Zonestar printers in the list while you choose "add m
 ### You need to choose different printer model on Cura when you slicing one color or multi colors 3d models, please refer to the below table:
 |   Printer model                        |Printing Colors | Choose printer in Cura |
 |----------------------------------------|----------------|------------------------|
-| P802 Series<sup>(1)</sup>              | 1~2 color      | ZONESTAR P802QR2       |
+| P802 series                            | 1~2 color      | P802Q with R2 Hotend   |
 | Z6                                     | 1 color        | ZONESTAR Z6            |
 | Z5M2/M8R2                              | 1~2 color      | Z5 wiht M2 Hotend      |
 | Z5M2/M8R2                              | 3~8 color      | Z5M2 mixed multi color |
+| Z5 with R2S Hotend                     | 1~2 color      | Z5 with R2S Hotend     |
 | Z5X                                    | 1 color        | ZONESTAR Z5X           |
 | Z5XM2/Z8XM2/Z8SM2/Z10M2                | 1~2 color      | Z10 wiht M2 Hotend     |
 | Z5XM2/Z8XM2/Z8SM2/Z10M2                | 3~8 color      | Z10M2 mixed multi color|
@@ -79,10 +80,13 @@ Run cura, you can find the Zonestar printers in the list while you choose "add m
 3. If the printer mode is Z9M4 or Z9V5 and it used a M4 hotend.
 4. If the printer mode is Z9M4 or Z9V5 and it used a E4 hotend.
 #### About hotend type
-- **M2 hotend: 2-IN-1-OUT mix color hotend**    
-- **M3 hotend: 3-IN-1-OUT mix color hotend**    
-- **M4 hotend: 4-IN-1-OUT mix color hotend**    
-- **E4 hotend: 4-IN-1-OUT non-mix color hotend**    
+- **R2 hotend:  2-IN-2-OUT hotend** :point_right:[setting reference](./R2_Hotend/)    
+- **R2S hotend: 2-IN-1-OUT hotend, shared one heater** :point_right:[setting reference](./R2S_Hotend/)    
+- **M2 hotend: 2-IN-1-OUT mix color hotend** :point_right:[setting reference](./M2_Hotend/)    
+- **R3 hotend: 3-IN-3-OUT hotend, shared one heater** :point_right:[setting reference](./R3_hotend/)    
+- **M3 hotend: 3-IN-1-OUT mix color hotend** :point_right:[setting reference](./M3_Hotend/)    
+- **M4 hotend: 4-IN-1-OUT mix color hotend** :point_right:[setting reference](./M4_Hotend/)        
+- **E4 hotend: 4-IN-1-OUT non-mix color hotend** :point_right:[setting reference](./E4_Hotend/)      
 For more information of the hotend, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND).
 
 -----  
