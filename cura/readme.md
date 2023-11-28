@@ -91,15 +91,15 @@ For more information of the hotend, please refer to [**here**](https://github.co
 
 -----  
 ### Slicing guide for Z8/Z9 3D Printer
-#### Slicing guide for Z8/Z9 with M4 hotend
-:warning: Default Z8PM4, Z9V5-MK1/MK2/MK3/MK5/MK6 equipped with a M4 hotend, please refer to the below video tutorial to slicing:
-- :movie_camera: [**slicing 4 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
-- :movie_camera: [**slicing 8 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
-#### Slicing guide for Z8/Z9 with E4 hotend
-:warning: Default Z9V5-MK4 equiped with a E4 hotend, please refer to the below video tutorial to slicing:
+:warning: If you don't know what's different between E4 and M4 hotend, please refder to [**:arrow_right:this guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md).
+#### :book:Slicing guide for Z8/Z9 with M4 hotend
+:pushpin: Default Z8PM4(Pro), Z9V5Pro-MK1/MK2/MK3/MK5/MK6 equipped with a M4 hotend, please refer to the below video tutorial to slicing:
+- :movie_camera: [**slicing 4 colors 3d object (Choose Machine: Z8(Z9) wiht M4 Hotend)**](https://youtu.be/hP6Socp-Cz0)    
+- :movie_camera: [**slicing 8 colors 3d object (Choose Machine: Z8M4(Z9M4) mixed multi color)**](https://youtu.be/qQ6UnTysqK0)  
+#### :book:Slicing guide for Z8/Z9 with E4 hotend
+:pushpin: Default Z9V5Pro-MK4 equiped with a E4 hotend, please refer to the below video tutorial to slicing:
 - :book: [**Slicing 4 colors 3d object (Z9 + E4 hotend)**](./E4_hotend/readme.md)
-#### What's different between E4 and M4 hotend?
-If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md)
+
 
 -----
 ### Test gcode files
