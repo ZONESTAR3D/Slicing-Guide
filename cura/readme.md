@@ -35,14 +35,14 @@ Following the below steps to install cura and then import the ZONESTAR 3d printe
 - Download [:arrow_down: **Cura software**](https://github.com/Ultimaker/Cura/releases/tag/5.1.1) and install it to your PC.
 - Download [:arrow_down: **Zonestar 3D Printer Profiles.**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/cura/ZONESTAR_Cura_resources.zip) *:point_left:Click here and then click "download" button. the last updata on 2023-11-08*.   
 ![](downloadzip.gif)  
-#### Step:two:: Import ZONESTAR 3d printer profiles - For Windows
-Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
+#### Step:two:: Import ZONESTAR 3d printer profiles
+![](./windows.jpg) Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
 :pushpin: Resource files store in ***"{Cura installed directory}\share\cura\resource"***    
-![](ImportProfiles.gif)    
-#### Step:two:: Import ZONESTAR 3d printer profiles - For MacOS
-Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
+![](ImportProfiles.gif)  
+![](./macos.jpg) Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
 :pushpin: you need to copy the files in "defintions", "extruders" and "materials" folders to the same folders, but can't copy "resuorce" folder directory.
 ![](ImportProfiles-MacOS.gif)    
+
 #### Step:three:: Choose machine and setting
 Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.    
 ![](machinelist.gif)
@@ -92,11 +92,11 @@ For more information of the hotend, please refer to [**here**](https://github.co
 -----  
 ### Slicing guide for Z8/Z9 3D Printer
 #### Slicing guide for Z8/Z9 with M4 hotend
-:warning: Default Z8PM4, Z9V5-MK1/Z9V5-MK2/Z9V5-MK3 equiped with a M4 hotend, please refer to the below video tutorial to slicing:
+:warning: Default Z8PM4, Z9V5-MK1/MK2/MK3/MK5/MK6 equipped with a M4 hotend, please refer to the below video tutorial to slicing:
 - :movie_camera: [**slicing 4 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/hP6Socp-Cz0)    
 - :movie_camera: [**slicing 8 colors 3d object (Z9 + M4 hotend)**](https://youtu.be/qQ6UnTysqK0)  
 #### Slicing guide for Z8/Z9 with E4 hotend
-:warning: Default Z9V5-MK4 equiped with a M4 hotend, please refer to the below video tutorial to slicing:
+:warning: Default Z9V5-MK4 equiped with a E4 hotend, please refer to the below video tutorial to slicing:
 - :book: [**Slicing 4 colors 3d object (Z9 + E4 hotend)**](./E4_hotend/readme.md)
 #### What's different between E4 and M4 hotend?
 If you don't know what's different between E4 and M4 hotend, please refder to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md)
