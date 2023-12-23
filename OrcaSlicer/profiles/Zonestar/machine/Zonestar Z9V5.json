@@ -1,0 +1,12 @@
+{
+    "type": "machine_model",
+    "name": "Zonestar Z9V5",
+    "model_id": "Zonestar-Z9V5",
+    "nozzle_diameter": "0.4",
+    "machine_tech": "FFF",
+    "family": "Zonestar",
+    "bed_model": "zonestar_310_buildplate_model.stl",
+    "bed_texture": "zonestar_310_buildplate_texture.png",
+    "hotend_model": "",
+    "default_materials": "Zonestar Generic PLA;Zonestar Generic PETG;Zonestar Generic ABS;Zonestar Generic ASA;Zonestar Generic TPU"
+}

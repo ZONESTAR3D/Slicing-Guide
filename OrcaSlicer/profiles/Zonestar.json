@@ -1,0 +1,86 @@
+{
+	"name": "Zonestar",
+	"version": "01.00.00.00",
+	"force_update": "0",
+	"description": "Zonestar configurations",
+	"machine_model_list": [
+		{
+			"name": "Zonestar Z9V5",
+			"sub_path": "machine/Zonestar Z9V5.json"
+		}
+	],
+	"process_list": [
+		{
+			"name": "fdm_process_common",
+			"sub_path": "process/fdm_process_common.json"
+		},
+		{
+			"name": "fdm_process_zonestar_common",
+			"sub_path": "process/fdm_process_zonestar_common.json"
+		},
+		{
+			"name": "0.20mm Standard @Zonestar Z9V5",
+			"sub_path": "process/0.20mm Standard @Zonestar Z9V5.json"
+		}
+	],
+	"filament_list": [
+		{
+			"name": "fdm_filament_common",
+			"sub_path": "filament/fdm_filament_common.json"
+		},
+		{
+			"name": "fdm_filament_pla",
+			"sub_path": "filament/fdm_filament_pla.json"
+		},
+		{
+			"name": "fdm_filament_pet",
+			"sub_path": "filament/fdm_filament_pet.json"
+		},
+		{
+			"name": "fdm_filament_tpu",
+			"sub_path": "filament/fdm_filament_tpu.json"
+		},
+		{
+			"name": "fdm_filament_abs",
+			"sub_path": "filament/fdm_filament_abs.json"
+		},
+		{
+			"name": "fdm_filament_asa",
+			"sub_path": "filament/fdm_filament_asa.json"
+		},
+		{
+			"name": "Zonestar Generic PLA",
+			"sub_path": "filament/Zonestar Generic PLA.json"
+		},
+		{
+			"name": "Zonestar Generic PETG",
+			"sub_path": "filament/Zonestar Generic PETG.json"
+		},
+		{
+			"name": "Zonestar Generic TPU",
+			"sub_path": "filament/Zonestar Generic TPU.json"
+		},
+		{
+			"name": "Zonestar Generic ABS",
+			"sub_path": "filament/Zonestar Generic ABS.json"
+		},
+		{
+			"name": "Zonestar Generic ASA",
+			"sub_path": "filament/Zonestar Generic ASA.json"
+		}
+	],
+	"machine_list": [
+		{
+			"name": "fdm_machine_common",
+			"sub_path": "machine/fdm_machine_common.json"
+		},
+		{
+			"name": "fdm_zonestar_common",
+			"sub_path": "machine/fdm_zonestar_common.json"
+		},
+		{
+			"name": "Zonestar Z9V5 0.4 nozzle",
+			"sub_path": "machine/Zonestar Z9V5 0.4 nozzle.json"
+		}
+	]
+}
