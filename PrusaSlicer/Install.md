@@ -1,50 +1,21 @@
-<!-- ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guid?_x_tr_sl=en&_x_tr_tl=es)
-[![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guid?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=de)
-[![](../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=it)
-[![](../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=sv)
-[![](../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=da)
-[![](../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=cs)
-[![](../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=hr)
-[![](../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ro)
-[![](../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=sk)
-
-[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=id)
-[![](../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=th)
-[![](../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=el)
-[![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Slicing-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
-
------
 ## Download and install PrusaSlicer
-### :small_blue_diamond:For Windows: 
+  ### ![](./win.jpg) For Windows: 
   - :movie_camera:[**Video Tutorial**](https://youtu.be/vCv0S4L7u30)         
   - Download PrusaSlicer from the below link and unzip to your PC.     
-    - [:+1::arrow_down:**Download PrusaSlicerV2.4.2**][PrusaSlicer2.4.2] (release version)                
-    - [:new: :arrow_down:**Download PrusaSlicerV2.6.1-rc2**][PrusaSlicer2.6.1-rc2] (pre-release version)              
-    <!-- - [:arrow_down:**Download PrusaSlicerV2.6.0-beta3**][PrusaSlicer2.6.0-beta3] (beta version)              -->
-    <!-- - [:arrow_down:**Download PrusaSlicerV2.6.0-alpha4**][PrusaSlicer2.6.0-alpha4]               -->
-  <!-- - You can Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then [:point_down:**import newest ZONESTAR 3d Printer Profiles**](#import-zonestar-3d-printer-profiles). -->
-### :small_blue_diamond:For MacOS:  
-:arrow_down: Download [**PrusaSlicer with ZONESTAR Profiles dmg file**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2) and then install to your PC.
-### :small_blue_diamond:For Linux:
-:arrow_down: Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then import newest ZONESTAR 3d Printer Profiles.  
+    - [:+1: :arrow_down:**Download PrusaSlicer V2.4.2**][PrusaSlicer2.4.2] (Stable version)                      
+    - [:new: :arrow_down:**Download PrusaSlicer**][PrusaSlicer] (All newer released version)                  
+
+  ### ![](./macos.jpg) For MacOS:  
+  :arrow_down: Download [**PrusaSlicer with ZONESTAR Profiles dmg file**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2) and then install to your PC.
+
+  ### ![](./linux.jpg) For Linux:
+  :arrow_down: Download PrusaSlicer from [**Prusa Github Page**](https://github.com/prusa3d/PrusaSlicer/releases), and then import newest ZONESTAR 3d Printer Profiles.  
 
 #### Import ZONESTAR 3D Printer Profiles
 - [**:arrow_down:Download ZONESTAR 3d Printer profiles**](./Profiles.zip) and unzip it to your PC.
 - Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.    
 :warning:You may need to delete previous configurations settings, otherwise the newer profiles can't be applied proper:warning:      
-You can find the directory where store the previous configurations: ***help>>Show Configuration Floder***, for Windows, it is usually stored in ***"C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer[-alpha/beta]"***. Delete all of these files in this directory, and then open PrusaSlicer software again.    
+You can find the directory where store the previous configurations: ***help>>Show Configuration Floder***, for Windows, it is usually stored in ***"C:/Users/{your PC name}/AppData/Roaming/PrusaSlicer[-alpha/beta]"***. Delete all of these files in this directory, and then run PrusaSlicer again.    
 ![0](./pic/0.png)![1](./pic/1.png)
 
 -----
@@ -117,6 +88,4 @@ Choose printer preset according to your printer model, hotend type and colors yo
 
 -----
 [PrusaSlicer2.4.2]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2
-[PrusaSlicer2.6.0-alpha4]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.0-alpha4-win64
-[PrusaSlicer2.6.0-beta3]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.0-beta3-win64
-[PrusaSlicer2.6.1-rc2]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/v2.6.1
+[PrusaSlicer]: https://github.com/ZONESTAR3D/Slicing-Guide/releases
