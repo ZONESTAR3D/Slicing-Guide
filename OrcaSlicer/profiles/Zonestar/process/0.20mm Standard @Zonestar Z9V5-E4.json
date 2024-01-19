@@ -1,7 +1,7 @@
 {
     "type": "process",
-    "setting_id": "GP001",
-    "name": "0.20mm Standard @Zonestar Z9V5",
+    "setting_id": "GP002",
+    "name": "0.20mm Standard @Z9V5 with E4 Hotend",
     "inherits": "fdm_process_zonestar_common",
     "from": "system",
     "instantiation": "true",
@@ -109,8 +109,8 @@
     "initial_layer_infill_speed": "35%",
     "internal_solid_infill_speed": "50",
     "gap_infill_speed": "30",
-    "single_extruder_multi_material": "0",
+    "single_extruder_multi_material": "1",
     "compatible_printers": [
-		"Zonestar Z9V5 0.4 nozzle"
+        "Zonestar Z9V5 0.4 nozzle"
 	]
 }

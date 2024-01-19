@@ -21,6 +21,10 @@
 		{
 			"name": "0.20mm Standard @Zonestar Z9V5",
 			"sub_path": "process/0.20mm Standard @Zonestar Z9V5.json"
+		},
+		{
+			"name": "0.20mm Standard @Z9V5 with E4 Hotend",
+			"sub_path": "process/0.20mm Standard @Zonestar Z9V5-E4.json"
 		}
 	],
 	"filament_list": [
