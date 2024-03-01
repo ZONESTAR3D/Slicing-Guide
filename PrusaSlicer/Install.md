@@ -1,6 +1,6 @@
 ## Download and install PrusaSlicer
   ### ![](./win.jpg) For Windows: 
-  - :movie_camera:[**Video Tutorial**](https://youtu.be/vCv0S4L7u30)         
+  - [**:movie_camera: Video Tutorial**](https://github.com/ZONESTAR3D/Slicing-Guide/assets/29502731/ce48a22c-a9aa-45e8-8544-c1c67c7cd021)         
   - Download PrusaSlicer from the below link and unzip to your PC.     
     - [:+1: :arrow_down:**Download PrusaSlicer V2.4.2**][PrusaSlicer2.4.2] (Stable version)                      
     - [:new: :arrow_down:**Download PrusaSlicer**][PrusaSlicer] (All newer released version)                  
@@ -46,45 +46,6 @@ Choose printer preset according to your printer model, hotend type and colors yo
 |      Z9 series      |       multi color      |       M4 hotend        |     Z9 + E4 HOTEND     |    Z9V5Pro-MK4         |
 
 (*)Default for Machine: The default hotend type used by this 3d printer model.
-<!-- 
-- 3.1 Printer model: Z9V5Pro and Z9M4    
-:pushpin: **Default Z9M4 & Z9V5Pro-MK1/2/3 equiped with a M4 hotend, Z9V5Pro-MK4 equiped with a E4 hotend.** 
-  - If you print one color, choose "Z9 + One Color", no matter what type of hot end is installed on your machine.
-  - If your printer installed a **M4 (4-IN-1-OUT mix color) hotend** and want to print as multi color, choose "Z9 + M4 HOTEND".     
-  - If your printer installed a **E4 (4-IN-1-OUT Non-mix color) hotend** and want to print as multi color, choose "Z9 + E4 HOTEND".     
-  - If you printer installed a **Direct Drive Extruder**, choose "Z9 + DDE".     
-
-- 3.2 Printer model: Z9M3   
-  :pushpin: **Default Z9M3 equiped with a M3 hotend** 
-  - If you print one color, choose "Z9 + One Color", no matter what type of hot end is installed on your machine.  
-  - If your printer installed a **M3 (3-IN-1-OUT mix color) hotend** and want to print as multi color, choose "Z9 + M3 HOTEND".    
-  - If your printer installed a **M4 (4-IN-1-OUT mix color) hotend** and want to print as multi color, choose "Z9 + M4 HOTEND".   
-  - If your printer installed a **E4 (4-IN-1-OUT Non-mix color) hotend** and want to print as multi color, choose "Z9 + E4 HOTEND".  
-  - If your printer installed a Direct Drive Extruder, choose "Z9 + DDE".    
-
-- 3.3 Printer model: Z8SM3/Z8T/Z8PM3/Z8PM4  
-  :pushpin: **Default Z8SM3/Z8T/Z8PM3 equiped with a M3 hotend, Z8PM4 equiped with a M4 hotend** 
-  - If you print one color, choose "Z8 + One Color", no matter what type of hot end is installed on your machine.  
-  - If your printer installed a **M3 (3-IN-1-OUT mix color) hotend** and want to print as multi color, choose "Z8 + M3 HOTEND".    
-  - If your printer installed a **M4 (4-IN-1-OUT mix color) hotend** and want to print as multi color, choose "Z8 + M4 HOTEND".   
-  - If your printer installed a **E4 (4-IN-1-OUT Non-mix color) hotend** and want to print as multi color, choose "Z8 + E4 HOTEND".      
-  - If your printer installed a Direct Drive Extruder, choose "Z8 + DDE".   
-- 3.4 Printer model: Z5S-M2/D805S-M2, choose "Z5 + M2 HOTEND"  
-- 3.5 Printer model: Z5X/Z6, , choose "Zonestar Z5X" or "Zonestar Z6" -->
-
-<!-- -----
-## 5. Slicing multi color 
-**:warning:Please pay attention to distinguish the hot end type what you used is M4 (mix color) hot end or E4 (Non mix color) hot end. If your printer installed a M4 hot end, but you sliced by M4 hot end, it may cause block the hot end when printing, vice versa. If you don't know what's different between E4 and M4 hotend, please refder to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md).**
-
-### 5.1 Slicing multi color for M4 hotend  
-- [:book: User guide](./PrusaSlicerGuide_M4.md)      
-- :movie_camera:[Video Tutorial](https://youtu.be/_Ww2RFGlLNA)        
-- :arrow_down: [Test gcode files](./test_gcode/M4/readme.md)    
-
-### 5.2 Slicing multi color for E4 hotend
-- [:book: User guide](./PrusaSlicerGuide_E4.md)   
-- :movie_camera:[Video Tutorial](https://youtu.be/aets9JZ92iU)     
-- :arrow_down: [Test gcode files](./test_gcode/E4/readme.md)    -->
 
 -----
 [PrusaSlicer2.4.2]: https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2
