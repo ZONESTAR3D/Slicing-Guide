@@ -1,6 +1,6 @@
 ## Download and install PrusaSlicer
   ### ![](./win.jpg) For Windows: 
-  - [**:movie_camera: Video Tutorial**](https://github.com/ZONESTAR3D/Slicing-Guide/assets/29502731/ce48a22c-a9aa-45e8-8544-c1c67c7cd021)         
+[**:movie_camera: Video Tutorial**](https://github.com/ZONESTAR3D/Slicing-Guide/assets/29502731/ce48a22c-a9aa-45e8-8544-c1c67c7cd021)         
   - Download PrusaSlicer from the below link and unzip to your PC.     
     - [:+1: :arrow_down:**Download PrusaSlicer V2.4.2**][PrusaSlicer2.4.2] (Stable version)                      
     - [:new: :arrow_down:**Download PrusaSlicer**][PrusaSlicer] (All newer released version)                  
