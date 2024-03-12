@@ -2,12 +2,12 @@
 
 -----
 ### How to install Cura and import ZONESTAR 3d printer profiles
-#### Step:one:: Install Cura and download ZONESTAR 3d printer profiles
+#### Step 1: Install Cura and download ZONESTAR 3d printer profiles
 Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
 - Download [:arrow_down: **Cura software**](https://github.com/Ultimaker/Cura/releases/tag/5.1.1) and install it to your PC.
 - Download [:arrow_down: **Zonestar 3D Printer Profiles.**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/cura/ZONESTAR_Cura_resources.zip) *:point_left:Click here and then click "download" button. the last updata on 2023-11-08*.   
 ![](downloadzip.gif)  
-#### Step:two:: Import ZONESTAR 3d printer profiles
+#### Step 2: Import ZONESTAR 3d printer profiles
 ![](./win.jpg) Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
 :pushpin: Resource files store in ***"{Cura installed directory}\share\cura\resource"***    
 ![](ImportProfiles.gif)  
@@ -15,42 +15,42 @@ Following the below steps to install cura and then import the ZONESTAR 3d printe
 :pushpin: you need to copy the files in "defintions", "extruders" and "materials" folders to the same folders, but can't copy "resuorce" folder directory.
 ![](ImportProfiles-MacOS.gif)    
 
-#### Step:three:: Choose machine and setting
+#### Step 3: Choose machine and setting
 Run cura, you can find the Zonestar printers in the list while you choose "add mechine" in cura.    
 ![](machinelist.gif)
 #### :warning: If you have installed Zonestar 3D printer profiles or an older vresion Cura, you need to delete the older "configura" before importing the profiles.
 ![](delete.gif)   
 
-
 -----  
 ### You need to choose different printer model on Cura when you slicing one color or multi colors 3d models, please refer to the below table:
-|   Printer model                        |Printing Colors | Choose printer in Cura |
-|----------------------------------------|----------------|------------------------|
-| P802 series                            | 1~2 color      | P802Q with R2 Hotend   |
-| Z6                                     | 1 color        | ZONESTAR Z6            |
-| Z5M2/M8R2                              | 1~2 color      | Z5 wiht M2 Hotend      |
-| Z5M2/M8R2                              | 3~8 color      | Z5M2 mixed multi color |
-| Z5 with R2S Hotend                     | 1~2 color      | Z5 with R2S Hotend     |
-| Z5X                                    | 1 color        | ZONESTAR Z5X           |
-| Z5XM2/Z8XM2/Z8SM2/Z10M2                | 1~2 color      | Z10 wiht M2 Hotend     |
-| Z5XM2/Z8XM2/Z8SM2/Z10M2                | 3~8 color      | Z10M2 mixed multi color|
-| Z8SM3/Z8T/Z8PM3                        | 1~3 color      | Z8 wiht M3 Hotend      |
-| Z8SM3/Z8T/Z8PM3                        | 4~8 color      | Z8M3 mixed multi color |
-| Z8PM4/Z8PM4Pro                         | 1~4 color      | Z8 wiht M4 Hotend      |
-| Z8PM4/Z8PM4Pro                         | 5~8 color      | Z8M4 mixed multi color |
-| Z8E4<sup>(2)</sup>                     | 1~4 color      | Z8 with E4 Hotend      |
-| Z9M2                                   | 1~2 color      | Z9 wiht M2 Hotend      |
-| Z9M2                                   | 3~8 color      | Z9M2 mixed multi color |
-| Z9M3                                   | 1~3 color      | Z9 wiht M3 Hotend      |
-| Z9M3                                   | 4~8 color      | Z9M3 mixed multi color |
-| Z9M4/Z9V5 with M4 hotend<sup>(3)</sup> | 1~4 color      | Z9 wiht M4 Hotend      |
-| Z9M4/Z9V5 with M4 hotend<sup>(3)</sup> | 5~8 color      | Z9M4 mixed multi color |
-| Z9/Z9V5 with E4 hotend<sup>(4)</sup>   | 1~4 color      | Z9 wiht E4 Hotend      |
+|   Printer model                                 |Printing Colors | Choose printer in Cura |
+|-------------------------------------------------|----------------|------------------------|
+| P802 series                                     | 1~2 color      | P802Q with R2 Hotend   |
+| Z6                                              | 1 color        | ZONESTAR Z6            |
+| Z5M2/M8R2                                       | 1~2 color      | Z5 wiht M2 Hotend      |
+| Z5M2/M8R2                                       | 3~8 color      | Z5M2 mixed multi color |
+| Z5 with R2S Hotend                              | 1~2 color      | Z5 with R2S Hotend     |
+| Z5X                                             | 1 color        | ZONESTAR Z5X           |
+| Z5XM2/Z8XM2/Z8SM2/Z10M2                         | 1~2 color      | Z10 wiht M2 Hotend     |
+| Z5XM2/Z8XM2/Z8SM2/Z10M2                         | 3~8 color      | Z10M2 mixed multi color|
+| Z8SM3/Z8T/Z8PM3                                 | 1~3 color      | Z8 wiht M3 Hotend      |
+| Z8SM3/Z8T/Z8PM3                                 | 4~8 color      | Z8M3 mixed multi color |
+| Z8PM4/Z8PM4Pro                                  | 1~4 color      | Z8 wiht M4 Hotend      |
+| Z8PM4/Z8PM4Pro                                  | 5~8 color      | Z8M4 mixed multi color |
+| Z8E4<sup>(2)</sup>                              | 1~4 color      | Z8 with E4 Hotend      |
+| Z9M2                                            | 1~2 color      | Z9 wiht M2 Hotend      |
+| Z9M2                                            | 3~8 color      | Z9M2 mixed multi color |
+| Z9M3                                            | 1~3 color      | Z9 wiht M3 Hotend      |
+| Z9M3                                            | 4~8 color      | Z9M3 mixed multi color |
+| Z9M4/Z9V5-MK1/MK2/MK3/MK5/MK6<sup>(3)</sup>     | 1~4 color      | Z9 wiht M4 Hotend      |
+| Z9M4/Z9V5-MK1/MK2/MK3/MK5/MK6<sup>(3)</sup>     | 5~8 color      | Z9M4 mixed multi color |
+| Z9V5-MK4<sup>(4)</sup>                          | 1~4 color      | Z9 wiht E4 Hotend      |
 #### Note 
-1. P802 series included these models: P802C/P802M/P802N/P802NR2/P802Q/P802QS/P802QR2
+1. P802 series included these models: P802C/P802M/P802N/P802NR2/P802Q/P802QS/P802QR2.
 2. Z8E4 means Z8PM4 Upgraded a E4 hot end
-3. If the printer mode is Z9M4 or Z9V5 and it used a M4 hotend.
-4. If the printer mode is Z9M4 or Z9V5 and it used a E4 hotend.
+3. The printer model was **Z9M4** and **Z9V5-MK1/MK2/MK3/MK5/MK6**, or the printer model was Z9V5-MK4 but you **changed the orignal hot end to a M4 hot end**.
+4. The printer model was **Z9V5-MK4**, or the printer model was Z9M4 and Z9V5-MK1/MK2/MK3/MK5/MK6 but you **changed the orignal hot end to a E4 hot end**.
+
 #### About hotend type
 - **R2 hotend:  2-IN-2-OUT hotend** :point_right:[setting reference](./R2_Hotend/)    
 - **R2S hotend: 2-IN-1-OUT hotend, shared one heater** :point_right:[setting reference](./R2S_Hotend/)    
