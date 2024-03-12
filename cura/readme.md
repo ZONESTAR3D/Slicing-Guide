@@ -4,8 +4,8 @@
 ### How to install Cura and import ZONESTAR 3d printer profiles
 #### Step 1: Install Cura and download ZONESTAR 3d printer profiles
 Following the below steps to install cura and then import the ZONESTAR 3d printer profiles:  
-- Download [:arrow_down: **Cura software**](https://github.com/Ultimaker/Cura/releases/tag/5.1.1) and install it to your PC.
-- Download [:arrow_down: **Zonestar 3D Printer Profiles.**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/cura/ZONESTAR_Cura_resources.zip) *:point_left:Click here and then click "download" button. the last updata on 2023-11-08*.   
+- [:arrow_down: **Download Cura software**](https://github.com/Ultimaker/Cura/releases/download/5.4.0/UltiMaker-Cura-5.4.0-win64.exe) and install it to your PC.
+- [:arrow_down: **Download Zonestar 3D Printer Profiles.**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/cura/ZONESTAR_Cura_resources.zip) *:point_left:Click here and then click "download" button. the last updata on 2023-11-08*.   
 ![](downloadzip.gif)  
 #### Step 2: Import ZONESTAR 3d printer profiles
 ![](./win.jpg) Unzip ***ZONESTAR_Cura_Resource.zip*** to your PC and then copy the "resource" files to the cura installation directory.    
