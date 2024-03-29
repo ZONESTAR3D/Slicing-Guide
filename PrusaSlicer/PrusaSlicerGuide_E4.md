@@ -44,7 +44,7 @@ In order to obtain better cleaning effect and minimize to waste filament, we can
 ![](pic/slicing_go.png)  
 ### Step 9: Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing_save.png)  
-:star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filaments. For detail how to pre-load filament, please refer to [**:book: E4 Hotend user guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/User_guide/readme.md).   
+:star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filaments. For detail how to pre-load filament, please refer to [**:book: E4 Hotend user guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4/User_guide/readme.md).   
 ![](pic/slicingE4-3.png)  
 
 
@@ -54,7 +54,7 @@ In order to obtain better cleaning effect and minimize to waste filament, we can
 If you have correctly installed the Profiles file of the ZONESTAR 3d printer, you will see that we have added some gcode codes in ***"Printer Setting>>Custom G-code"***.  
 For details about the "Custom G-code", please refer to [:book: **Description of Custom Gcode**](./Custom_Gcode.md)
 ![](./pic/Custom_Gcode.jpg)
-### [:book: E4 hot end use guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)
+### [:book: E4 hot end use guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4)
 ### [:arrow_down:Test gcode files for E4 hot end](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/E4/readme.md)
  
   
