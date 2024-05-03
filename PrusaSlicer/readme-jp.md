@@ -12,24 +12,24 @@
 <!-- [![](./lanpic/SA.png)](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/readme-ar.md) -->
 
 ----
-## PrusaSlicer Use Guide for ZONESTAR 3D Printer
-### :warning: ATTENTION PLEASE :warning:
-Please pay attention to distinguish the hot end type what you used is **mix color (M4)** hot end or **non mix color(E4)** hot end. 
-<u>**If you print a gcode file sliced on M4 hot end with an E4 hot end, it may block the hot end, vice versa.**</u>     
-If you don't know what's different between E4 and M4 hotend, please refder to [:point_right:here][FAQ_M4E4].
+## PrusaSlicer ZONESTAR 3D プリンター使用ガイド
+### :warning: 注意してください :warning:
+使用したホットエンドのタイプが**ミックスカラー(M4)**ホットエンドか**非ミックスカラー(E4)**ホットエンドかを区別するように注意してください。
+<u>**M4 ホット エンドでスライスされた gcode ファイルを E4 ホット エンドで印刷すると、ホット エンドがブロックされる可能性があります。その逆も同様です。**</u>     
+E4 ホットエンドと M4 ホットエンドの違いがわからない場合は、[:point_right:here][FAQ_M4E4] を参照してください。
 
-### 1. [Download and install PrusaSlicer][INSTALL]
-Please refer to [:point_right:**this page**][INSTALL] to download and install PrusaSlicer software.
-### 2. Slicing guide
-- **:book: [Slicing guide for singel color printing][SLICING_1C]**    
-- **:book: [Slicing guide for M3 (3-IN-1-OUT mixing color) hotend][SLICING_M3]**      
-- **:book: [Slicing guide for M4 (4-IN-1-OUT mixing color) hotend][SLICING_M4]**      
-- **:book: [Slicing guide for E4 (4-IN-1-OUT Non-mixing color) hotend][SLICING_E4]**     
-### 3. Test(Sample) gcode and stl files
-<!-- - **[For M3 (3-IN-1-OUT mixing color) hotend](./test_gcode/M3/readme.md)**       -->
-- **[For M4 (4-IN-1-OUT mixing color) hotend](./test_gcode/M4/readme.md)**      
-- **[For E4 (4-IN-1-OUT Non-mixing color) hotend](./test_gcode/E4/readme.md)**     
-
+### 1. [PrusaSlicer をダウンロードしてインストール][INSTALL]
+PrusaSlicer ソフトウェアをダウンロードしてインストールするには、[:point_right:**このページ**][INSTALL] を参照してください。
+### 2. スライスガイド
+- **:book: [単色印刷用のスライス ガイド][SLICING_1C]**
+- **:book: [M3 (3-IN-1-OUT ミキシングカラー) ホットエンド用スライシングガイド][SLICING_M3]**
+- **:book: [M4 (4-IN-1-OUT 混合色) ホットエンド用スライシング ガイド][SLICING_M4]**
+- **:book: [E4 (4-IN-1-OUT 非混合色) ホットエンド用スライス ガイド][SLICING_E4]**
+### 3. gcode および stl ファイルのテスト (サンプル)
+<!-- - **[M3 (3-IN-1-OUT 混合色) ホットエンドの場合](./test_gcode/M3/readme.md)** -->
+- **[M4 (4-IN-1-OUT 混合色) ホットエンドの場合](./test_gcode/M4/readme.md)**
+- **[E4 (4-IN-1-OUT 非混合色) ホットエンドの場合](./test_gcode/E4/readme.md)**
+ 
 ----
 [FAQ_M4E4]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md
 [INSTALL]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/Install.md

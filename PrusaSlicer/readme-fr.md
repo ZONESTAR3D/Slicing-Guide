@@ -12,23 +12,23 @@
 <!-- [![](./lanpic/SA.png)](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/readme-ar.md) -->
 
 ----
-## PrusaSlicer Use Guide for ZONESTAR 3D Printer
-### :warning: ATTENTION PLEASE :warning:
-Please pay attention to distinguish the hot end type what you used is **mix color (M4)** hot end or **non mix color(E4)** hot end. 
-<u>**If you print a gcode file sliced on M4 hot end with an E4 hot end, it may block the hot end, vice versa.**</u>     
-If you don't know what's different between E4 and M4 hotend, please refder to [:point_right:here][FAQ_M4E4].
+## Guide d'utilisation de PrusaSlicer pour l'imprimante 3D ZONESTAR
+### :warning: ATTENTION S'IL VOUS PLAÎT :warning:
+Veuillez faire attention à distinguer le type d'extrémité chaude que vous avez utilisé : **mix color (M4)** hot end ou **non mix color (E4)** hot end.    
+<u>**Si vous imprimez un fichier Gcode découpé sur le hot end M4 avec un hot end E4, cela peut bloquer le hot end, vice versa.**</u>    
+Si vous ne savez pas ce qui est différent entre les hotend E4 et M4, veuillez vous référer à [:point_right:here][FAQ_M4E4].
 
-### 1. [Download and install PrusaSlicer][INSTALL]
-Please refer to [:point_right:**this page**][INSTALL] to download and install PrusaSlicer software.
-### 2. Slicing guide
-- **:book: [Slicing guide for singel color printing][SLICING_1C]**    
-- **:book: [Slicing guide for M3 (3-IN-1-OUT mixing color) hotend][SLICING_M3]**      
-- **:book: [Slicing guide for M4 (4-IN-1-OUT mixing color) hotend][SLICING_M4]**      
-- **:book: [Slicing guide for E4 (4-IN-1-OUT Non-mixing color) hotend][SLICING_E4]**     
-### 3. Test(Sample) gcode and stl files
-<!-- - **[For M3 (3-IN-1-OUT mixing color) hotend](./test_gcode/M3/readme.md)**       -->
-- **[For M4 (4-IN-1-OUT mixing color) hotend](./test_gcode/M4/readme.md)**      
-- **[For E4 (4-IN-1-OUT Non-mixing color) hotend](./test_gcode/E4/readme.md)**     
+### 1. [Télécharger et installer PrusaSlicer][INSTALL]
+Veuillez vous référer à [:point_right:**cette page**][INSTALL] pour télécharger et installer le logiciel PrusaSlicer.
+### 2. Guide de découpage
+- **:book: [Guide de découpage pour l'impression couleur unique][SLICING_1C]**
+- **:book: [Guide de découpage pour hotend M3 (3-IN-1-OUT mélange de couleurs)][SLICING_M3]**
+- **:book: [Guide de découpage pour hotend M4 (4-IN-1-OUT mélange de couleurs)][SLICING_M4]**
+- **:book: [Guide de découpage pour hotend E4 (4-IN-1-OUT sans mélange de couleurs)][SLICING_E4]**
+### 3. Test (exemple) de fichiers gcode et stl
+<!-- - **[Pour hotend M3 (mélange de couleurs 3-IN-1-OUT)](./test_gcode/M3/readme.md)** -->
+- **[Pour hotend M4 (4-IN-1-OUT mélange de couleurs)](./test_gcode/M4/readme.md)**
+- **[Pour hotend E4 (4-IN-1-OUT sans mélange de couleurs)](./test_gcode/E4/readme.md)**
 
 ----
 [FAQ_M4E4]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md

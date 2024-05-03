@@ -12,23 +12,23 @@
 <!-- [![](./lanpic/SA.png)](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/readme-ar.md) -->
 
 ----
-## PrusaSlicer Use Guide for ZONESTAR 3D Printer
-### :warning: ATTENTION PLEASE :warning:
-Please pay attention to distinguish the hot end type what you used is **mix color (M4)** hot end or **non mix color(E4)** hot end. 
-<u>**If you print a gcode file sliced on M4 hot end with an E4 hot end, it may block the hot end, vice versa.**</u>     
-If you don't know what's different between E4 and M4 hotend, please refder to [:point_right:here][FAQ_M4E4].
+## Guía de uso de PrusaSlicer para la impresora 3D ZONESTAR
+### :warning: ATENCIÓN POR FAVOR :warning:
+Preste atención para distinguir el tipo de extremo caliente que utilizó: extremo caliente **color mezclado (M4)** o extremo caliente **color no mezclado (E4)**.
+<u>**Si imprime un archivo gcode cortado en un hotend M4 con un hotend E4, puede bloquear el hotend, y viceversa.**</u>
+Si no sabe cuál es la diferencia entre el hotend E4 y M4, consulte [:point_right:aquí][FAQ_M4E4].
 
-### 1. [Download and install PrusaSlicer][INSTALL]
-Please refer to [:point_right:**this page**][INSTALL] to download and install PrusaSlicer software.
-### 2. Slicing guide
-- **:book: [Slicing guide for singel color printing][SLICING_1C]**    
-- **:book: [Slicing guide for M3 (3-IN-1-OUT mixing color) hotend][SLICING_M3]**      
-- **:book: [Slicing guide for M4 (4-IN-1-OUT mixing color) hotend][SLICING_M4]**      
-- **:book: [Slicing guide for E4 (4-IN-1-OUT Non-mixing color) hotend][SLICING_E4]**     
-### 3. Test(Sample) gcode and stl files
-<!-- - **[For M3 (3-IN-1-OUT mixing color) hotend](./test_gcode/M3/readme.md)**       -->
-- **[For M4 (4-IN-1-OUT mixing color) hotend](./test_gcode/M4/readme.md)**      
-- **[For E4 (4-IN-1-OUT Non-mixing color) hotend](./test_gcode/E4/readme.md)**     
+### 1. [Descargar e instalar PrusaSlicer][INSTALL]
+Consulte [:point_right:**esta página**][INSTALL] para descargar e instalar el software PrusaSlicer.
+### 2. Guía de corte
+- **:book: [Guía de corte para impresión en color único][SLICING_1C]**
+- **:book: [Guía de corte para hotend M3 (3-IN-1-OUT mezcla de colores )][SLICING_M3]**
+- **:book: [Guía de corte para hotend M4 (4-IN-1-OUT color de mezcla)][SLICING_M4]**
+- **:book: [Guía de corte para hotend E4 (4-IN-1-OUT sin mezcla de colores)][SLICING_E4]**
+### 3. Prueba (muestra) de archivos gcode y stl
+<!-- - **[Para hotend M3 (mezcla de colores 3 EN 1 SALIDA)](./test_gcode/M3/readme.md)** -->
+- **[Para hotend M4 (4-IN-1-OUT color de mezcla)](./test_gcode/M4/readme.md)**
+- **[Para hotend E4 (4-IN-1-OUT sin mezcla de colores)](./test_gcode/E4/readme.md)**
 
 ----
 [FAQ_M4E4]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/FAQ_M4E4.md
