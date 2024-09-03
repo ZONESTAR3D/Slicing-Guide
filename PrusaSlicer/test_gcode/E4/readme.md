@@ -80,9 +80,14 @@
 
 ### Flexi Turtle
 :arrow_down: [Download stl file](https://www.thingiverse.com/thing:4963928)
-:arrow_down: [Download gcode file](Z9E4_C4_flexi turtle.zip)  
+:arrow_down: [Download gcode file](Z9E4_C4_flexi_turtle.zip)  
 :warning:The orignal stl file is one color, we painted it to multi colors by PrusaSlicer.   
-![](Z9E4_C4_flexi turtle.jpg)
+![](Z9E4_C4_flexi_turtle.jpg)
+
+### Panda
+:arrow_down: [Download 3mf file](./panda_3mf.zip)
+:arrow_down: [Download gcode file](./Z9E4_panda.zip)  
+![](panda.jpg)
 
 
 
