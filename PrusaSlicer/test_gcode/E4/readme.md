@@ -87,7 +87,7 @@
 ### Panda
 :arrow_down: [Download 3mf file](./panda_3mf.zip)
 :arrow_down: [Download gcode file](./Z9E4_panda.zip)  
-![](panda.jpg)
+![](./Panda.jpg)
 
 
 
