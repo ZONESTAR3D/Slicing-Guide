@@ -30,3 +30,6 @@
 - **[:clapper: Video tutorial](https://youtu.be/UF3nUM7WgFQ)**      
 - **:arrow_down: [Download gcode/stl files](M4_4C_Astronaut.zip)**    
 ![](M4_C4_astronaut.jpg)
+#### Z9M4_2C_Panda
+- **:arrow_down: [Download gcode/3mf files](./Z9M4_2C_Panda.zip)**    
+<!-- ![](Z9M4_2C_Panda.jpg) -->
