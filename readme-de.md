@@ -34,6 +34,10 @@ Der Multiprozessmechanismus von Simplify3D ist sehr charakteristisch, obwohl er 
 Wir haben einige Profile für ZONESTAR 3D-Drucker und ein Video-Tutorial zum Schneiden von mehrfarbigen 3D-Modellen als Referenz erstellt.    
 :point_right: [**Klicken Sie hier, um die Details anzuzeigen**](./Simplify3D/).
 
+## Plugins und Nachbearbeitungstools
+### [Gradient Mix Tool](./Tools_Plugins/GradientMixTool/readme-de.md)
+**Gradient Mix Tool** ist eine GCode-Nachbearbeitungssoftware, die entwickelt wurde, um das Mischungsverhältnis der Extruder in der Druckhöhe (Z-Achsenrichtung) automatisch anzupassen. Es kann auf Farbmisch-3D-Drucker von ZONESTAR angewendet werden. Weitere Informationen finden Sie [:point_right: **hier**](./Tools_Plugins/GradientMixTool/readme-de.md).
+
 -----
 ## 3D-Modell-Download-Website.
 Sie können das von anderen geteilte 3D-Modell aus dem Internet herunterladen oder das von Ihnen gezeichnete 3D-Modell im Internet teilen. Es gibt mehrere der bekanntesten Websites zum kostenlosen Herunterladen von 3D-Modellen als Referenz:

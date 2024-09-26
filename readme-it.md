@@ -34,6 +34,10 @@ Il meccanismo multiprocesso Simplify3D è molto caratteristico, sebbene non sia 
 Abbiamo creato alcuni profili per le stampanti 3D ZONESTAR e un video tutorial su come tagliare modelli 3D multicolori come riferimento.      
 :point_right: [**Fai clic qui per vedere i dettagli**](./Simplify3D/).
 
+## Plugin e strumenti di post-elaborazione
+### [Gradient Mix Tool](./Tools_Plugins/GradientMixTool/readme-it.md)
+**Gradient Mix Tool** è un software di post-elaborazione GCode, sviluppato per regolare automaticamente il rapporto di miscelazione degli estrusori nell'altezza di stampa (direzione dell'asse Z). Può essere applicato alle stampanti 3D a colori ZONESTAR, per i dettagli, fare riferimento a [:point_right: **qui**](./Tools_Plugins/GradientMixTool/readme-it.md).
+
 -----
 ## Scarica il modello 3D dal sito web.
 Puoi scaricare il modello 3D condiviso da altri da Internet o condividere il modello 3D disegnato da te su Internet. Esistono diversi siti Web di download gratuiti di modelli 3D più famosi come riferimento:
