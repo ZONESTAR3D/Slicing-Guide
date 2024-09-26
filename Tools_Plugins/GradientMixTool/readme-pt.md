@@ -9,20 +9,26 @@
 [![](../../lanpic/RU.png)](./readme-ru.md)
 [![](../../lanpic/JP.png)](./readme-jp.md)
 [![](../../lanpic/KR.png)](./readme-kr.md)
-[![](../../lanpic/SA.png)](./readme-sa.md)
+[![](../../lanpic/SA.png)](./readme-ar.md)
+[![](../../lanpic/CN.png)](./readme-cn.md)
 
 ----
-## Gradient Mix Tool Guia do usuário
+# Gradient Mix Tool
 #### :warning: Esta ferramenta é atualmente aplicável somente às impressoras 3D de mistura de cores ZONESTAR 4-extrusoras (M4).
+## :arrow_down: Download 
+### :arrow_down:[Download (para Windows)](./GradientMixToolV1.zip)
+<!-- ### :arrow_down:[Download (for Linux)](GradientMixToolV1.zip) -->
+
+----
+## Guia do usuário
 ### Resumo
 **Gradient Mix Tool** é um software de pós-processamento GCode, desenvolvido para ajustar automaticamente a taxa de mistura das extrusoras na altura da impressão (direção do eixo Z). Pode ser aplicado às impressoras 3D coloridas de mistura de cores ZONESTAR.
 **Gradient Mix Tool** permite configurar até 6 ***Processos de gradiente***, cada processo de gradiente pode ser aplicado a uma das VTools usadas no arquivo GCode importado e definir o intervalo de altura aplicado e a taxa de mistura inicial e final da extrusora. É possível aplicar vários processos simultaneamente quando:
 - Os processos são aplicados à mesma VTool em diferentes intervalos de altura.
 **Ou:**
 - Os processos são aplicados ao mesmo intervalo de altura nas diferentes VTools.
-### :arrow_down:[Download (para Windows)](./GradientMixToolV1.zip)
 ### Instruções de uso
-#### 1. [Baixe o software](./GradientMixToolV1.zip) e descompacte-o no seu PC (apenas um arquivo exe).
+#### 1. Baixe o software e descompacte-o no seu PC (apenas um arquivo exe).
 #### 2. Execute GradientMixToolVx.exe.
 ![](1.jpg)
 #### 3. Carregue um arquivo Gcode.
@@ -35,6 +41,8 @@ Você pode ver quais comandos Gcode foram adicionados na janela ***exportar visu
 ![](4.jpg)
 #### 6. Clique no botão Exportar para exportar e salvar em um novo arquivo gcode.
 Em seguida, você pode imprimir o arquivo Gcode exportado na sua impressora 3D ZONESTR Mix Color.
+
+----
 ### Exemplos
 #### Exemplo:one: [Spiral Vase :arrow_down:](./SpiralVase.zip)
 Este exemplo mostra como converter um arquivo Gcode de um vaso espiral de uma cor em um arquivo Gcode multi-gradiente:
@@ -45,7 +53,6 @@ Este exemplo mostra como converter um arquivo Gcode de um vaso espiral de uma co
 - Acima de 80 mm de altura, mantenha a mistura de cores da extrusora 1 e da extrusora 2 em cerca de 50:50.
 ![](./SpiralVase.jpg)
 #### Exemplo:two: [M4_4C_test :arrow_down:](./M4_4C_test.zip)
-Este exemplo mostra como converter um arquivo Gcode de vaso espiral de uma cor em um arquivo Gcode multi-gradiente:
 Este exemplo mostra como converter um arquivo Gcode de modelo de teste de 4 cores em um arquivo Gcode com gradientes para cada cor:
 - A cor original da extrusora 1 é convertida em uma cor que gradiente da extrusora 1 para a extrusora 2.
 - A cor original da extrusora 2 é convertida em uma cor que gradiente da extrusora 2 para a extrusora 3.
