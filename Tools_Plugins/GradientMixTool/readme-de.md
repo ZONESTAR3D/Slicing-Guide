@@ -4,7 +4,6 @@
 [![](../../lanpic/ES.png)](./readme-es.md)
 [![](../../lanpic/PT.png)](./readme-pt.md)
 [![](../../lanpic/FR.png)](./readme-fr.md)
-<!-- [![](../../lanpic/DE.png)](./readme-de.md) -->
 [![](../../lanpic/IT.png)](./readme-it.md)
 [![](../../lanpic/RU.png)](./readme-ru.md)
 [![](../../lanpic/JP.png)](./readme-jp.md)
