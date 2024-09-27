@@ -34,8 +34,10 @@ Il software formulerà automaticamente il file Gcode importato per ottenere l'al
 ![](2.jpg)
 #### 4. Imposta i parametri dei "processi".
 ![](3.jpg)
-#### 5. Fai clic sul pulsante Genera per generare un nuovo file gcode. Puoi vedere quali comandi Gcode sono stati aggiunti nella finestra ***visualizzazione esportazione Gcode***
+#### 5. Fai clic sul pulsante Genera per generare un nuovo file gcode. Puoi vedere quali comandi Gcode sono stati aggiunti nella finestra ***Export***
 ![](4.jpg)
+Fare clic sui pulsanti SU e GIÙ della barra di scorrimento per individuare rapidamente la posizione precedente/successiva in cui inserire il Gcode.
+![](5.jpg)
 #### 6. Fai clic sul pulsante Esporta per esportare e salvare in un nuovo file gcode.
 Successivamente, puoi stampare il file Gcode esportato sulla tua stampante 3D ZONESTR Mix Color.
 

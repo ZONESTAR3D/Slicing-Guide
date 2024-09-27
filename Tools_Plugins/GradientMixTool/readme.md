@@ -34,8 +34,10 @@ The software will automatically phrase the imported Gcode file to get the model'
 #### 4. Set parameters of the "processes".
 ![](3.jpg)
 #### 5. Click Generate button to generate a new gcode file.
-You can see which Gcode commands have been added in the ***export Gcode view*** window
-![](4.jpg)
+You can see which Gcode commands have been added in the ***export*** window
+![](4.jpg)     
+Click the UP and DOWN button of the ScrollBar to locate to the previous/next position of where the Gcode are inserted quickly. 
+![](5.jpg)
 #### 6. Click Export button to export and save to a new gcode file.
 Next, you can print the exported Gcode file on your ZONESTR Mix Color 3D Printer.
 

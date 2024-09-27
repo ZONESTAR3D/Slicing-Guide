@@ -35,8 +35,10 @@ Die Software formuliert die importierte Gcode-Datei automatisch, um die Höhe de
 #### 4. Legen Sie die Parameter der „Prozesse“ fest.
 ![](3.jpg)
 #### 5. Klicken Sie auf die Schaltfläche „Generieren“, um eine neue Gcode-Datei zu generieren.
-Sie können sehen, welche Gcode-Befehle im Fenster ***Gcode-Ansicht exportieren*** hinzugefügt wurden
+Sie können sehen, welche Gcode-Befehle im Fenster ***Export*** hinzugefügt wurden
 ![](4.jpg)
+Klicken Sie auf die Schaltflächen NACH OBEN und NACH UNTEN in der Bildlaufleiste, um schnell zur vorherigen/nächsten Position zu gelangen, an der der G-Code eingefügt wird.
+![](5.jpg)
 #### 6. Klicken Sie auf die Schaltfläche „Exportieren“, um zu exportieren und in einer neuen Gcode-Datei zu speichern.
 Als Nächstes können Sie die exportierte Gcode-Datei auf Ihrem ZONESTR Mix Color 3D-Drucker ausdrucken.
 
