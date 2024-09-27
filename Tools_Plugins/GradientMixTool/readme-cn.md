@@ -15,9 +15,7 @@
 #  Gradient Mix Tool 渐变混合工具
 **渐变混合工具**是一款 GCode 后处理软件，可自动调整挤出机在打印高度（Z 轴方向）的混合比例。可应用于 ZONESTAR 混色彩色 3D 打印机。
 #### :warning: 此工具目前仅适用于 ZONESTAR 4 挤出机混色 3D 打印机（M4）。
-## :arrow_down: 下载
-### [下载（适用于 Windows）](GradientMixToolV1.zip)
-<!-- ### :arrow_down:[下载（适用于 Linux）](GradientMixToolV1.zip) -->
+#### [:arrow_down: 下载](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/gmt-v1.2) 
 
 ----
 ## :book:用户指南

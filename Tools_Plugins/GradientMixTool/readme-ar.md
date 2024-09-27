@@ -15,9 +15,7 @@
 ----
 # Gradient Mix Tool
 #### :warning: هذه الأداة قابلة للتطبيق حاليًا فقط على الطابعات ثلاثية الأبعاد ذات 4 مكابس لخلط الألوان من ZONESTAR (M4).
-## :arrow_down: تنزيل 
-### [تنزيل (لنظام Windows)](GradientMixToolV1.zip)
-<!-- ### :arrow_down:[Download (for Linux)](GradientMixToolV1.zip) -->
+#### [:arrow_down: Download](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/gmt-v1.2) 
 
 ----
 ## دليل المستخدم

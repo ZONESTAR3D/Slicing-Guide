@@ -15,9 +15,7 @@
 ----
 # Gradient Mix Tool
 #### :warning: Questo strumento è attualmente applicabile solo alle stampanti 3D ZONESTAR a 4 estrusori con miscelazione dei colori (M4).
-## :arrow_down: Download 
-### [Download (per Windows)](GradientMixToolV1.zip)
-<!-- ### :arrow_down:[Download (for Linux)]() -->
+#### [:arrow_down: Download](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/gmt-v1.2) 
 
 ----
 ## Manuale utente
