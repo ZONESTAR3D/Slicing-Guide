@@ -3,7 +3,7 @@
 [![](../../lanpic/EN.png)](./readme.md)
 [![](../../lanpic/ES.png)](./readme-es.md)
 [![](../../lanpic/PT.png)](./readme-pt.md)
-[![](../../lanpic/FR.png)](./readme-fr.md)
+<!-- [![](../../lanpic/FR.png)](./readme-fr.md) -->
 [![](../../lanpic/DE.png)](./readme-de.md)
 [![](../../lanpic/IT.png)](./readme-it.md)
 [![](../../lanpic/RU.png)](./readme-ru.md)
